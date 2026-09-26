@@ -7,7 +7,6 @@ markdown: kramdown
 kramdown:
   input: GFM
   auto_ids: true
-  smart_quotes: false
 permalink: pretty
 sass:
   style: compressed
