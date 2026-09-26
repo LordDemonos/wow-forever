@@ -1,0 +1,20 @@
+---
+layout: default
+---
+<div class="guide-shell">
+  <aside class="toc" id="toc" data-enhance="toc">
+    <div class="toc-head">
+      <p class="toc-kicker">{{ page.kicker }}</p>
+      <h2>{{ page.title }}</h2>
+    </div>
+    <label class="toc-search">
+      <span class="sr">Filter sections</span>
+      <input id="toc-filter" type="search" placeholder="Filter sections" autocomplete="off">
+    </label>
+    <nav id="toc-nav" aria-label="On this page"></nav>
+  </aside>
+  <article id="content" class="article">
+    {{ content }}
+  </article>
+</div>
+<script src="{{ '/assets/js/toc.js' | relative_url }}"></script>

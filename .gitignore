@@ -1,3 +1,10 @@
 *
+!*/
 !.gitignore
 !WoW Forever.md
+!wiki/**
+!script/**
+!.github/**
+
+pqdi_guides/
+wiki/guides/leveling.md

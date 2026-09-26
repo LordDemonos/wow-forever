@@ -1,0 +1,44 @@
+---
+layout: default
+---
+<main id="content" class="shell">
+  <section class="hero">
+    <p class="eyebrow"><span class="pip pip-horde"></span> Horde · Undead · Priest</p>
+    <h1>Guides for the road to 60.</h1>
+    <p class="lede">Dungeon quests first. A sleeping bag for the bonus. One-kill turn-ins when a level is short. This is a personal wiki, built to be scanned the way a database is.</p>
+  </section>
+
+  <div class="home-grid">
+    <section class="panel span-2" aria-labelledby="guide-list">
+      <header class="panel-head">
+        <h2 id="guide-list">Guides</h2>
+        <span class="count">{{ site.data.guides | size }}</span>
+      </header>
+      <ul class="cards">
+        {% for guide in site.data.guides %}
+        <li>
+          <a class="card" href="{{ guide.url | relative_url }}">
+            <span class="card-kicker">{{ guide.kicker }}</span>
+            <span class="card-title">{{ guide.title }}</span>
+            <span class="card-range">{{ guide.range }}</span>
+            <span class="card-summary">{{ guide.summary }}</span>
+            <span class="card-meta"><span class="pip pip-horde"></span> {{ guide.faction }}</span>
+          </a>
+        </li>
+        {% endfor %}
+      </ul>
+    </section>
+
+    <aside class="panel">
+      <header class="panel-head">
+        <h2>How a run goes</h2>
+      </header>
+      <ol class="steps">
+        <li><strong>1–13</strong> Tirisfal. Bag, campfire, herbalism book, then the warlock wand.</li>
+        <li><strong>14–20</strong> Ragefire, Ruins of Lordaeron, then the sleeping bag. Camp Taurajo fills the gaps.</li>
+        <li><strong>22–40</strong> Shadowfang through Scarlet Monastery. Train staves before Shadowfang. Save 100 gold by Krol'dok.</li>
+        <li><strong>41–60</strong> Uldaman to Upper Blackrock Spire. Swap wands when the rare ones drop.</li>
+      </ol>
+    </aside>
+  </div>
+</main>

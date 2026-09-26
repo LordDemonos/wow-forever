@@ -1,0 +1,22 @@
+title: Forever
+tagline: Horde priest notes
+description: A personal wiki for WoW Forever. The first guide is an Undead priest, Horde, from Tirisfal to 60.
+url: https://lorddemonos.github.io
+baseurl: /wow-forever
+markdown: kramdown
+kramdown:
+  input: GFM
+  auto_ids: true
+  smart_quotes: false
+permalink: pretty
+sass:
+  style: compressed
+exclude:
+  - Gemfile
+  - README.md
+  - vendor
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
