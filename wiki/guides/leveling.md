@@ -9,23 +9,19 @@ kicker: Undead Priest
 
 **Main character:** Undead Priest, Horde. Starts in Tirisfal Glades. The notes and leveling guide below are for this character.
 
-Talent planner: https://wowforevertalents.com/
+## Talents
 
-## Talent builds
+<https://www.wowhead.com/forever/talent-calc/priest/v202510303130510103-035050030301003_t0/0B1B0cccFccKhhp1ccE0nnnjrnnhdT1HccKncrrr>
 
-### Holy 20/31
+**28/23/0.** Talented 0/5.
 
-https://wowforevertalents.com/priest/?t=x005303001305-03505103030101531
+**Discipline 28.** Wand Specialization 2/2, Twin Disciplines 5/5, Silent Resolve 1/3, Improved Power Word: Shield 3/3, Mental Agility 3/3, Inner Focus 1/1, Meditation 3/3, Mental Strength 5/5, Soul Warding 1/1, Penance 1/1, Divine Aegis 3/3.
 
-### Discipline 31/20
+**Holy 23.** Improved Renew 3/3, Holy Specialization 5/5, Divine Fury 5/5, Inspiration 3/3, Improved Healing 3/3, Binding Heal 1/1, Spiritual Guidance 3/5.
 
-https://wowforevertalents.com/priest/?t=x005303001305101531-035050030301
+**Shadow 0.**
 
-### Holy leveling
-
-https://wowforevertalents.com/priest/?t=x505030030334001031-33505000202
-
-**Talents.** Classic kept one spec. The priest trainer in Undercity wipes the tree. The first wipe is 1 gold, the next is 5, then it climbs by 5 gold up to 50. Leave it alone and it falls by 5 gold a month, down to 15. A second saved spec is the Wrath feature: level 40, 1,000 gold, then free swaps. Forever has not announced that. Use the Holy leveling link until a dungeon build is worth a wipe. Which heal rank to cast is in the [healing guide]({{ '/healing/' | relative_url }}).
+**Talents.** Classic kept one spec. The priest trainer in Undercity wipes the tree. The first wipe is 1 gold, the next is 5, then it climbs by 5 gold up to 50. Leave it alone and it falls by 5 gold a month, down to 15. A second saved spec is the Wrath feature: level 40, 1,000 gold, then free swaps. Forever has not announced that. Use this tree until a dungeon build is worth a wipe. Which heal rank to cast is in the [healing guide]({{ '/healing/' | relative_url }}).
 
 ## Notes from beta
 
@@ -589,7 +585,7 @@ Same courtyard. Cathedral is the other door in the main building.
 
 Go at **40**. Band **40–45**. Both factions. New.
 
-**Mount.** This is the Classic level for the first one. If the Brill riding trainer offers it, pay 100 gold. The skeletal horse is included. The 1,000 gold training is the fast mount, which was level 60 in Classic. There is no second spec to buy here. A talent wipe is the price under Talent builds.
+**Mount.** This is the Classic level for the first one. If the Brill riding trainer offers it, pay 100 gold. The skeletal horse is included. The 1,000 gold training is the fast mount, which was level 60 in Classic. There is no second spec to buy here. A talent wipe is the price under Talents.
 
 Ogre stronghold in Riverglades. The entrance inside the zone is not published. Official band is 40–45. An older BlizzCon listing of 40–55 was corrected.
 

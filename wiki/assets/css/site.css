@@ -242,6 +242,7 @@ a:hover { color: var(--link-hover); }
   padding: 0 1.25rem 3rem;
   align-items: start;
 }
+.guide-shell:has(.talent-calc) { max-width: 1520px; }
 .toc {
   position: sticky;
   top: var(--mast);
@@ -298,6 +299,17 @@ a:hover { color: var(--link-hover); }
   min-width: 0;
 }
 .article.is-wide { max-width: none; }
+.article:has(.talent-calc) { max-width: none; }
+.article:has(.talent-calc) > :not(.talent-calc) { max-width: 760px; }
+.talent-calc {
+  display: block;
+  width: min(1100px, 100%);
+  height: 740px;
+  margin: 0.8rem 0 1.2rem;
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  background: #0e1013;
+}
 .article .table-wrap {
   overflow-x: auto;
   margin: 0.75rem 0 1rem;
@@ -387,18 +399,6 @@ a:hover { color: var(--link-hover); }
   border-left: 3px solid var(--gold-dim);
   color: var(--muted);
 }
-.article a[href*="wowforevertalents.com"] {
-  display: inline-block;
-  margin: 0.15rem 0;
-  padding: 0.15rem 0.55rem;
-  border: 1px solid var(--line-strong);
-  border-radius: 999px;
-  background: rgba(226, 197, 106, 0.08);
-  text-decoration: none;
-  color: var(--gold);
-}
-.article a[href*="wowforevertalents.com"]:hover { background: rgba(226, 197, 106, 0.18); color: #fff4cc; }
-
 .article h3.is-horde,
 .article h3.is-alliance,
 .article h3.is-both { padding-left: 0.5rem; }
@@ -480,4 +480,5 @@ a:hover { color: var(--link-hover); }
     padding-right: 0;
   }
   .article { padding-left: 0; }
+  .talent-calc { height: 560px; }
 }
