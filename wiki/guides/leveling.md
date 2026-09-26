@@ -30,11 +30,6 @@ kicker: Undead Priest
 - New spell ranks do not update the action bar. Open the spellbook (P) and drag the new rank onto the bar.
 - AMD driver issue: set Secondary Lighting to Fair.
 
-### Herbs
-
-- Turn on Herbalism tracking from Professions (P).
-- Peacebloom makes Minor Arcane Elixir (+5 spell damage).
-
 ### Mount
 
 **Forever.** The gold is in the riding training, not in a separate horse. [Designers said](https://www.wowhead.com/forever/news/official-controller-supports-training-mount-skill-costs-sportskeeda-interview-on-382963) it costs 100 gold, or 1,000 gold for the faster tier, and the first mount comes with the skill. For this character that is a skeletal horse. Do not also buy one from the vendor. In Classic the Undead trainer stood in Brill, the 100 gold tier was level 40, and the 1,000 gold tier was level 60. Those levels were not restated. Save the 100 gold before Krol'dok.
@@ -110,7 +105,7 @@ Quest Tirisfal. It is a straight line from Deathknell to Brill and then around t
 
 **What:** Kill [Samuel Fipps](https://www.wowhead.com/classic/npc=1919/samuel-fipps) at the ruined camp on the road northeast of Deathknell. Loot Samuel's Remains. Bury them at Marla's Grave, first row of the Deathknell cemetery, near the gate. Go back to [Elreth](https://www.wowhead.com/classic/npc=1661/novice-elreth).
 
-**Reward:** One of three books. Take **Wild Harvest**. It teaches Herbalism and starts you at 2 skill. Mining for Dummies and Pelt Collecting for Beginners are the other two. You only get one.
+**Reward:** One of three books. Take **Wild Harvest**. It teaches Herbalism and starts you at 2 skill. Mining for Dummies and Pelt Collecting for Beginners are the other two. You only get one. Turn on Herbalism tracking from Professions (P).
 
 Alchemy is not in that choice. Train it from [Carolai Anise](https://www.wowhead.com/classic/npc=2132/carolai-anise) in Brill. She stands next to [Faruza](https://www.wowhead.com/classic/npc=2114/faruza), the herbalism trainer, about 59.8, 52. [Faruza](https://www.wowhead.com/classic/npc=2114/faruza) trains the higher herbalism ranks after the book.
 
