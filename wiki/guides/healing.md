@@ -12,6 +12,28 @@ wide: true
 
 The leveling tree is on the [leveling guide]({{ '/leveling/' | relative_url }}). Holy and Discipline at 60 are [Holy Priest PVE]({{ '/holy/' | relative_url }}) and [Disc Priest PVE]({{ '/disc/' | relative_url }}). A live version of the bonus-healing math is the [downrank calculator](https://foreverchanges.pro/downrank-calculator).
 
+## What to cast
+
+At 60. No gear, no talents. Per mana is the average heal divided by the mana. These lines assume the target needs the whole heal. A smaller hole still wants the smallest rank that covers it.
+
+**One person.** Penance rank 4, 5.69 per mana, then a 12 second wait. Until it is ready, Greater Heal rank 5, 2.76. Flash Heal rank 7, 2.17, when the heal has to land in 1.5 seconds.
+
+**You and one other person, both missing the full heal.** Binding Heal rank 6, 4.34.
+
+**Two, three, or four people.** Greater Heal rank 5 on the person who needs it. Prayer of Healing rank 5 is 1.21, 1.82, and 2.43 at two, three, and four.
+
+**Five people.** Prayer of Healing rank 5, 3.03.
+
+**Holy Nova rank 6** on five people is 2.07. Greater Heal on one person is ahead of that.
+
+**Prayer of Mending rank 3** is 5.29 if all five jumps land, and 1.06 if one does.
+
+**Lightwell rank 3** is 21.92 if all five clicks finish, and 4.38 for one click.
+
+**Power Word: Shield rank 10** is 1.86 absorb per mana. Put it on before the hit.
+
+**+400 bonus healing.** The cheap rank wins when the hole is small enough to take the whole heal. Renew rank 1 is 14.83, for 445 over 15 seconds. Lesser Heal rank 1 is 7.40, for 222. Binding Heal rank 1 on both of you is 5.39. Heal rank 1 is 4.09. Greater Heal ranks 4 and 5 tie at 3.24. At level 60 the grown base makes Greater Heal rank 1 the winner, 3.28. Flash Heal rank 1 is 2.92 when it has to be fast. Prayer of Healing on five people is 3.55. On four people it is 2.84, and Greater Heal is ahead of that. Penance and Holy Nova have no published share of bonus healing, so their lines above stay on the tooltip.
+
 ## How to read a heal
 
 Two numbers decide a rank.
