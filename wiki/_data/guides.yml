@@ -4,3 +4,9 @@
   range: "1–60"
   faction: Horde
   summary: Dungeons from Ragefire Chasm to Upper Blackrock Spire, plus the sleeping bag, the wand path, and the one-kill turn-ins.
+- title: Healing
+  url: /healing/
+  kicker: Undead Priest
+  range: "1–60"
+  faction: Horde
+  summary: Every heal rank by mana and by speed, and which rank wins once bonus healing is on the gear.

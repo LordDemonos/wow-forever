@@ -9,10 +9,11 @@
     </a>
     <nav class="tabs" aria-label="Sections">
       <a class="{% if page.layout == 'home' %}is-current{% endif %}" href="{{ '/' | relative_url }}">Guides</a>
-      <a class="{% if page.layout == 'guide' %}is-current{% endif %}" href="{{ '/leveling/' | relative_url }}">Leveling</a>
+      <a class="{% if page.url == '/leveling/' %}is-current{% endif %}" href="{{ '/leveling/' | relative_url }}">Leveling</a>
+      <a class="{% if page.url == '/healing/' %}is-current{% endif %}" href="{{ '/healing/' | relative_url }}">Healing</a>
     </nav>
-    <form class="find" action="{{ '/leveling/' | relative_url }}" method="get" role="search">
-      <label class="sr" for="q">Search the leveling guide</label>
+    <form class="find" action="{% if page.layout == 'guide' %}{{ page.url | relative_url }}{% else %}{{ '/leveling/' | relative_url }}{% endif %}" method="get" role="search">
+      <label class="sr" for="q">Search headings</label>
       <input id="q" name="q" type="search" placeholder="Search headings" value="">
     </form>
   </div>

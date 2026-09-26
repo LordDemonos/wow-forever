@@ -25,7 +25,7 @@ https://wowforevertalents.com/priest/?t=x005303001305101531-035050030301
 
 https://wowforevertalents.com/priest/?t=x505030030334001031-33505000202
 
-**Talents.** Classic kept one spec. The priest trainer in Undercity wipes the tree. The first wipe is 1 gold, the next is 5, then it climbs by 5 gold up to 50. Leave it alone and it falls by 5 gold a month, down to 15. A second saved spec is the Wrath feature: level 40, 1,000 gold, then free swaps. Forever has not announced that. Use the Holy leveling link until a dungeon build is worth a wipe.
+**Talents.** Classic kept one spec. The priest trainer in Undercity wipes the tree. The first wipe is 1 gold, the next is 5, then it climbs by 5 gold up to 50. Leave it alone and it falls by 5 gold a month, down to 15. A second saved spec is the Wrath feature: level 40, 1,000 gold, then free swaps. Forever has not announced that. Use the Holy leveling link until a dungeon build is worth a wipe. Which heal rank to cast is in the [healing guide]({{ '/healing/' | relative_url }}).
 
 ## Notes from beta
 

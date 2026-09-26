@@ -295,7 +295,47 @@ a:hover { color: var(--link-hover); }
 .article {
   padding: 1.4rem 0 2rem 1.6rem;
   max-width: 760px;
+  min-width: 0;
 }
+.article.is-wide { max-width: none; }
+.article .table-wrap {
+  overflow-x: auto;
+  margin: 0.75rem 0 1rem;
+  border: 1px solid var(--line);
+  border-radius: 10px;
+}
+.article table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 0.75rem 0 1rem;
+  font-size: 0.88rem;
+  font-variant-numeric: tabular-nums;
+}
+.article .table-wrap table { margin: 0; }
+.article th,
+.article td {
+  padding: 0.32rem 0.55rem;
+  border-bottom: 1px solid var(--line);
+  text-align: right;
+  white-space: nowrap;
+}
+.article th:first-child,
+.article td:first-child {
+  text-align: left;
+}
+.article .spells th:nth-child(2),
+.article .spells td:nth-child(2) {
+  text-align: left;
+}
+.article thead th {
+  color: var(--gold);
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  background: rgba(0, 0, 0, 0.28);
+}
+.article tbody tr:last-child td { border-bottom: 0; }
 .article h1 {
   margin: 0 0 0.4rem;
   font-family: var(--serif);
