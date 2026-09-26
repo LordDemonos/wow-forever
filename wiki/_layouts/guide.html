@@ -28,3 +28,8 @@ layout: default
   const whTooltips = {colorLinks: true, iconizeLinks: true, renameLinks: false};
 </script>
 <script src="https://wow.zamimg.com/widgets/power.js"></script>
+<script>
+  document.querySelectorAll("a.shot").forEach(function (link) {
+    link.style.setProperty("--shot", "url(\"" + link.href + "\")");
+  });
+</script>

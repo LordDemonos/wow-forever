@@ -441,6 +441,22 @@ a:hover { color: var(--link-hover); }
   border-left: 3px solid var(--gold-dim);
   color: var(--muted);
 }
+.article a.shot { position: relative; white-space: nowrap; }
+.article a.shot:hover::after,
+.article a.shot:focus-visible::after {
+  content: "";
+  position: absolute;
+  z-index: 6;
+  left: 0;
+  bottom: calc(100% + 0.4rem);
+  width: min(360px, 72vw);
+  aspect-ratio: 4 / 3;
+  background: #0e1013 var(--shot) center / contain no-repeat;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  box-shadow: var(--shadow);
+  pointer-events: none;
+}
 .article h3.is-horde,
 .article h3.is-alliance,
 .article h3.is-both { padding-left: 0.5rem; }

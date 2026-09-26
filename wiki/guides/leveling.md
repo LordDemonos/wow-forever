@@ -249,7 +249,9 @@ After Ruins of Lordaeron. Before Wailing Caverns. Horde starts in the Barrens. Y
 
 This is a scavenger hunt, not a dungeon. The clicks are objects on the ground, not NPCs. Do them in this order. Horde cannot see the Westfall click until the Barrens click is done.
 
-The reward is the [Cozy Sleeping Bag](https://www.wowhead.com/forever/news/cozy-sleeping-bag-is-back-in-wow-forever-383000). The Season of Discovery walkthrough is [here](https://www.wowhead.com/classic/guide/season-of-discovery/cozy-sleeping-bag-experience-buff). Outside a city, use it, stand on it, and do not move. You gain 1% bonus experience per minute, up to 3%. Forever lists a 1-hour cooldown. In Season of Discovery the buff lasted 2 hours. Logging out while you are asleep on it has counted as an inn for rested experience. Along the way you also get a 12-slot bag and Student Fodder, which is food that grants rested experience.
+The reward is the [Cozy Sleeping Bag](https://www.wowhead.com/forever/news/cozy-sleeping-bag-is-back-in-wow-forever-383000). The Season of Discovery walkthrough is [here](https://www.wowhead.com/classic/guide/season-of-discovery/cozy-sleeping-bag-experience-buff). The photos below are from that walkthrough. Hover a photo link to see it. Click it to open the file.
+
+Use the bag outside a city. It unfurls on the ground and is not clicked again. Walk onto it and do not move. Moving wakes you. You gain 1% bonus experience per minute, up to 3%. Forever lists a 1-hour cooldown. In Season of Discovery the buff lasted 2 hours. Logging out while you are asleep on it has counted as an inn for rested experience. <a class="shot" target="_blank" rel="noopener" href="{{ '/assets/sleeping-bag/sleeping.jpg' | relative_url }}">Photo of sleeping on it</a>. Along the way you also get a 12-slot bag and Student Fodder, which is food that grants rested experience.
 
 You will be low for Duskwood, the Wetlands, Hillsbrad, and Arathi. Stay on the road. Do not fight. Sentinel Hill, Menethil Harbor, and Thelsamar are Alliance towns.
 
@@ -257,37 +259,37 @@ You will be low for Duskwood, the Wetlands, Hillsbrad, and Arathi. Stay on the r
 
 There are two pages for this name, [79007](https://www.wowhead.com/classic/quest=79007/and-that-note-you-found) and [79008](https://www.wowhead.com/classic/quest=79008/and-that-note-you-found). Horde starts at the Barrens object.
 
-**Where:** Burned-Out Remains in the rubble of the burnt tower, south of Camp Taurajo, [the Barrens](https://www.wowhead.com/classic/zone=17/the-barrens), about 46, 74. The tower is just north of the junction where the road to Dustwallow Marsh leaves the main road.
+**Where:** Burned-Out Remains in the rubble of the burnt tower, south of Camp Taurajo, [the Barrens](https://www.wowhead.com/classic/zone=17/the-barrens), about 46, 74. The tower is just north of the junction where the road to Dustwallow Marsh leaves the main road. The click is a charred pile among bottles and a broken wheel, and the tooltip says Burned-Out Remains. <a class="shot" target="_blank" rel="noopener" href="{{ '/assets/sleeping-bag/barrens-tower.jpg' | relative_url }}">Photo of the remains</a>.
 
 **From Tirisfal:** The zeppelin towers are northwest of Brill. Two zeppelins dock there. Take the one to Orgrimmar, not the one to Grom'gol. It lands in Durotar, outside Orgrimmar. Leave by the south gate. The road runs south through the Barrens. The Crossroads is the town in the middle. Camp Taurajo is farther south on that same road. The tower is a short walk past the camp. Grab the flight points at the Crossroads, Camp Taurajo, and Ratchet while you are here. Hand any sealed crates to Dokimi, just south of the Crossroads. That turn-in is in Merchant's Favor, above. Do not hunt the named beasts on this walk. They are the gap section after the bag.
 
 #### 2. Same quest, turned in at Westfall
 
-Click the Nailed Plank in the cart wreck at Alexston Farmstead, northeast [Westfall](https://www.wowhead.com/classic/zone=40/westfall), about 37, 50. That completes the note and offers [Stepping Stones](https://www.wowhead.com/classic/quest=79192/stepping-stones). You also get a Swiftness Potion and a Strong Troll's Blood Potion.
+Click the Burned-Out Remains in the wreckage of a cart at Alexston Farmstead, northeast [Westfall](https://www.wowhead.com/classic/zone=40/westfall), about 37, 50. The tooltip on the charred pile, under the broken planks, says Burned-Out Remains. <a class="shot" target="_blank" rel="noopener" href="{{ '/assets/sleeping-bag/westfall-cart.jpg' | relative_url }}">Photo of the cart</a>. That completes the note and offers [Stepping Stones](https://www.wowhead.com/classic/quest=79192/stepping-stones). You also get a Swiftness Potion and a Strong Troll's Blood Potion.
 
 **From the Barrens:** Go to the Crossroads, then east to Ratchet. Take the boat to Booty Bay, on the south coast of [Stranglethorn Vale](https://www.wowhead.com/classic/zone=33/stranglethorn-vale). Follow the road north. It passes Grom'gol, the Horde camp, and leaves the zone into [Duskwood](https://www.wowhead.com/classic/zone=10/duskwood) (18–30). In Duskwood, take the west road into Westfall (10–20). The farmstead is in the northeast of Westfall, near the river border with Elwynn. Sentinel Hill, in the middle of Westfall, is Alliance. Do not go there.
 
 #### 3. [Stepping Stones](https://www.wowhead.com/classic/quest=79192/stepping-stones)
 
-**Where:** Pocket Litter on a box in an abandoned camp, [Stonetalon Mountains](https://www.wowhead.com/classic/zone=406/stonetalon-mountains) (15–27), about 40.6, 52.4. The path to the camp starts northeast of Sun Rock Retreat, about 50.9, 52.3.
+**Where:** Pocket Litter on a box by the tent in an abandoned camp, [Stonetalon Mountains](https://www.wowhead.com/classic/zone=406/stonetalon-mountains) (15–27), about 40.6, 52.4. The path to the camp starts northeast of Sun Rock Retreat, about 50.9, 52.3. <a class="shot" target="_blank" rel="noopener" href="{{ '/assets/sleeping-bag/stonetalon-camp.jpg' | relative_url }}">Photo of the camp</a>.
 
 **From Westfall:** Run the same road backward. East into Duskwood, south through Stranglethorn to Booty Bay, boat to Ratchet. From the Crossroads, take the west road. It enters Stonetalon through the mountains on the Barrens' west edge. Sun Rock Retreat is the Horde camp once you are in. On the road north of that camp, as you leave the Webwinder Path, a path on the left leads to the camp. The litter is on a crate by a tent.
 
 Turn-in gives Flint and Tinder, 3 Simple Wood, and the Sturdy Lunchbox, a 12-slot bag. Forever may also offer an Old Toolbox as the other bag choice. The weapon or tool choice is not for a priest.
 
-**Optional, same camp.** [Rekindle](https://www.wowhead.com/classic/quest=80001/rekindle) is the campfire in the middle. Use the flint and the wood you just got. You can skip it.
+**Optional, same camp.** [Rekindle](https://www.wowhead.com/classic/quest=80001/rekindle) is the campfire in the middle. Use the flint and the wood you just got. You can skip it. <a class="shot" target="_blank" rel="noopener" href="{{ '/assets/sleeping-bag/stonetalon-fire.jpg' | relative_url }}">Photo of the campfire</a>.
 
 Accept [Scramble](https://www.wowhead.com/classic/quest=79980/scramble).
 
 #### 4. [Scramble](https://www.wowhead.com/classic/quest=79980/scramble)
 
-**Where:** A Mound of Dirt, still in Stonetalon, about 39.6, 49.8. From the camp, go north over the ridge and down the cliff. It is a short jump, not a new zone.
+**Where:** A Mound of Dirt, still in Stonetalon, about 39.6, 49.8. From the camp, go straight north up the hill. From the edge you can see the mound on the ledge below. It is a short jump, not a new zone. <a class="shot" target="_blank" rel="noopener" href="{{ '/assets/sleeping-bag/stonetalon-mound.jpg' | relative_url }}">Photo of the jump</a>.
 
 Accept [Wet Job](https://www.wowhead.com/classic/quest=79974/wet-job). This step is where the Student Fodder starts. Season of Discovery gave 3 here. The bow and gun choices are not for a priest.
 
 #### 5. [Wet Job](https://www.wowhead.com/classic/quest=79974/wet-job)
 
-**Where:** A Carved Figurine on a ledge of the Stonewrought Dam, north [Loch Modan](https://www.wowhead.com/classic/zone=38/loch-modan) (10–20), about 49.4, 12.9. The ledge faces [the Wetlands](https://www.wowhead.com/classic/zone=11/wetlands). Look over the dam toward the Wetlands, drop onto the ledge with the dwarf-head fountains, and click the figurine against the back wall. Do not jump into the water. It is shallow, and the fall kills you. Set your hearth in Brill or Tarren Mill before you climb the dam. Hearth out after the click, or slide down the dam face if you can see a slope.
+**Where:** A Carved Figurine on a ledge of the Stonewrought Dam, north [Loch Modan](https://www.wowhead.com/classic/zone=38/loch-modan) (10–20), about 49.4, 12.9. The ledge faces [the Wetlands](https://www.wowhead.com/classic/zone=11/wetlands). Look over the dam toward the Wetlands and jump onto the carved dwarf heads. The figurine is against the back wall of that ledge. Do not jump into the water. It is shallow, and the fall kills you. <a class="shot" target="_blank" rel="noopener" href="{{ '/assets/sleeping-bag/loch-modan-dam.jpg' | relative_url }}">Photo of the ledge</a>. Set your hearth in Brill or Tarren Mill before you climb the dam. Hearth out after the click, or slide down the dam face if you can see a slope.
 
 **From Stonetalon:** East back into the Barrens, north to Orgrimmar, zeppelin to Tirisfal. Then south, in this order:
 
@@ -301,9 +303,9 @@ Accept [Eagle's Fist](https://www.wowhead.com/classic/quest=79975/eagles-fist). 
 
 #### 6. [Eagle's Fist](https://www.wowhead.com/classic/quest=79975/eagles-fist), then [This Must Be The Place](https://www.wowhead.com/classic/quest=79976/this-must-be-the-place)
 
-**Where:** Both clicks are on Thoradin's Wall, the border of Hillsbrad and Arathi. The cart is on the Hillsbrad side, about 87.3, 49.6.
+**Where:** Both clicks are on Thoradin's Wall, the border of Hillsbrad and Arathi. The cart is on the Hillsbrad side, about 87.3, 49.6. Climb the cart onto the wall. <a class="shot" target="_blank" rel="noopener" href="{{ '/assets/sleeping-bag/thoradin-cart.jpg' | relative_url }}">Photo of the cart</a>.
 
-**From the dam:** Back east into the Wetlands, north across the Thandol Span into Arathi, north to the wall. On the Hillsbrad side, go north along the wall from the gate until the fallen cart. Climb the cart onto the wall, through the room, and out the far side. A Messenger Bag hangs on the right. Click it to finish Eagle's Fist and accept This Must Be The Place. The Hastily Rolled-Up Satchel is under the bag. Click that.
+**From the dam:** Back east into the Wetlands, north across the Thandol Span into Arathi, north to the wall. On the Hillsbrad side, go north along the wall from the gate until the fallen cart. Climb the cart onto the wall, through the room, and out the far side. A Messenger Bag hangs outside on the right. Click it to finish Eagle's Fist and accept This Must Be The Place. The Hastily Rolled-Up Satchel is on the ground under the bag. Click that. <a class="shot" target="_blank" rel="noopener" href="{{ '/assets/sleeping-bag/thoradin-bag.jpg' | relative_url }}">Photo of the bag and the satchel</a>.
 
 You receive the Cozy Sleeping Bag and 5 Student Fodder.
 
