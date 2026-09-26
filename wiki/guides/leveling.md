@@ -114,9 +114,9 @@ Buy bags once Herbalism is trained. Space runs out fast. Get one reagent bag.
 
 #### Campfire: The Great Outdoors
 
-**Beta.** Around level 5, on the road from Deathknell to Brill. The published writeups do not name the giver. They are standing at a campfire.
+**Beta.** Around level 5, on the road from Deathknell to Brill. The published writeups do not name who gives it. You start by sitting at a campfire.
 
-**What:** Sit at that campfire until the timer finishes. The follow-up sends you to train Cooking. Learning Cooking teaches the Basic Campfire. The trainer sells [Simple Wood](https://www.wowhead.com/classic/item=4470/simple-wood) and [Flint and Tinder](https://www.wowhead.com/classic/item=4471/flint-and-tinder). The fire is one Simple Wood, with the flint in your bags. That is how you cook the Darkhound meat in the field. Train Fishing the same day. The food is in Bonus experience, above.
+**What:** Sit there until the timer finishes. The follow-up sends you to train Cooking. Learning Cooking teaches the Basic Campfire. The trainer sells [Simple Wood](https://www.wowhead.com/classic/item=4470/simple-wood) and [Flint and Tinder](https://www.wowhead.com/classic/item=4471/flint-and-tinder). The fire is one Simple Wood, with the flint in your bags. Cook the Darkhound meat on that fire. Train Fishing the same day. The food is in Bonus experience, above.
 
 #### Bag: [Sticks and Bones](https://www.wowhead.com/forever/quest=86784/sticks-and-bones)
 
@@ -126,7 +126,7 @@ Buy bags once Herbalism is trained. Space runs out fast. Get one reagent bag.
 
 **What:** He gives you a [Collecting Basket](https://www.wowhead.com/forever/item=279939/collecting-basket). Loot 6 Dry Branches from the ground at the base of trees southwest of Brill. A cluster sits around 55.4, 55.5. They blend into the dirt. Sweep the mouse until the cursor turns into a gear. They respawn in about 30 seconds, so one cluster is enough. Decrepit Darkhounds patrol those trees. They drop [Stringy Wolf Meat](https://www.wowhead.com/classic/item=2672/stringy-wolf-meat). Save it and cook it on the campfire. The food that adds kill experience is in Bonus experience, above.
 
-**Reward:** The [Collecting Basket](https://www.wowhead.com/forever/item=279939/collecting-basket) stays as your bag. It is a 6-slot bag.
+**Reward:** The [Collecting Basket](https://www.wowhead.com/forever/item=279939/collecting-basket) stays in a bag slot. Six slots.
 
 #### If a letter drops
 
@@ -247,11 +247,11 @@ Do the sleeping bag detour below before Wailing Caverns. If you are short of 17 
 
 After Ruins of Lordaeron. Before Wailing Caverns. Horde starts in the Barrens. You have to be at least 14.
 
-This is a scavenger hunt, not a dungeon. The clicks are objects on the ground, not NPCs. Do them in this order. Horde cannot see the Westfall click until the Barrens click is done.
+The clicks are objects on the ground. Do them in this order. Horde cannot see the Westfall click until the Barrens click is done.
 
-The reward is the [Cozy Sleeping Bag](https://www.wowhead.com/classic/item=211527/cozy-sleeping-bag). The Season of Discovery walkthrough is [here](https://www.wowhead.com/classic/guide/season-of-discovery/cozy-sleeping-bag-experience-buff). The photos below are from that walkthrough. Hover a photo link to see it. Click it to open the file.
+The reward is the [Cozy Sleeping Bag](https://www.wowhead.com/classic/item=211527/cozy-sleeping-bag). The Season of Discovery walkthrough is [here](https://www.wowhead.com/classic/guide/season-of-discovery/cozy-sleeping-bag-experience-buff). The photo links are from that walkthrough.
 
-Use the bag outside a city. It unfurls on the ground and is not clicked again. Walk onto it and do not move. Moving wakes you. You gain 1% bonus experience per minute, up to 3%. Forever lists a 1-hour cooldown. In Season of Discovery the buff lasted 2 hours. Logging out while you are asleep on it has counted as an inn for rested experience. <a class="shot" target="_blank" rel="noopener" href="{{ '/assets/sleeping-bag/sleeping.jpg' | relative_url }}">Photo of sleeping on it</a>. On your journey you will also earn a 12-slot bag, the [Sturdy Lunchbox](https://www.wowhead.com/forever/item=1652/sturdy-lunchbox), and some trail mix that gives you a good chunk of rested experience, [Student Fodder](https://www.wowhead.com/classic/item=216619/student-fodder).
+Use the bag outside a city. It unfurls on the ground and is not clicked again. Walk onto it and do not move. Moving wakes you. You gain 1% bonus experience per minute, up to 3%. Forever lists a 1-hour cooldown. In Season of Discovery the buff lasted 2 hours. Logging out while you are asleep on it has counted as an inn for rested experience. <a class="shot" target="_blank" rel="noopener" href="{{ '/assets/sleeping-bag/sleeping.jpg' | relative_url }}">Photo of sleeping on it</a>. You also get a 12-slot bag, the [Sturdy Lunchbox](https://www.wowhead.com/forever/item=1652/sturdy-lunchbox), and [Student Fodder](https://www.wowhead.com/classic/item=216619/student-fodder), food that grants a chunk of rested experience.
 
 You will be low for Duskwood, the Wetlands, Hillsbrad, and Arathi. Stay on the road. Do not fight. Sentinel Hill, Menethil Harbor, and Thelsamar are Alliance towns.
 

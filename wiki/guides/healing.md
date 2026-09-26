@@ -14,7 +14,7 @@ The leveling tree is on the [leveling guide]({{ '/leveling/' | relative_url }}).
 
 ## What to cast
 
-At 60. No gear, no talents. Per mana is the average heal divided by the mana. These lines assume the target needs the whole heal. A smaller hole still wants the smallest rank that covers it.
+At 60. No gear, no talents. Per mana is the average heal divided by the mana. These numbers are for a target who needs the whole heal. If they are missing less than that, cast the smallest rank that covers it.
 
 **One person.** Penance rank 4, 5.69 per mana, then a 12 second wait. Until it is ready, Greater Heal rank 5, 2.76. Flash Heal rank 7, 2.17, when the heal has to land in 1.5 seconds.
 
@@ -32,7 +32,7 @@ At 60. No gear, no talents. Per mana is the average heal divided by the mana. Th
 
 **Power Word: Shield rank 10** is 1.86 absorb per mana. Put it on before the hit.
 
-**+400 bonus healing.** The cheap rank wins when the hole is small enough to take the whole heal. Renew rank 1 is 14.83, for 445 over 15 seconds. Lesser Heal rank 1 is 7.40, for 222. Binding Heal rank 1 on both of you is 5.39. Heal rank 1 is 4.09. Greater Heal ranks 4 and 5 tie at 3.24. At level 60 the grown base makes Greater Heal rank 1 the winner, 3.28. Flash Heal rank 1 is 2.92 when it has to be fast. Prayer of Healing on five people is 3.55. On four people it is 2.84, and Greater Heal is ahead of that. Penance and Holy Nova have no published share of bonus healing, so their lines above stay on the tooltip.
+**+400 bonus healing.** The cheap rank is better when the missing health is small enough for the whole heal to land. Renew rank 1 is 14.83, for 445 over 15 seconds. Lesser Heal rank 1 is 7.40, for 222. Binding Heal rank 1 on both of you is 5.39. Heal rank 1 is 4.09. Greater Heal ranks 4 and 5 tie at 3.24. At level 60 the base on Greater Heal rank 1 has gone up, and that rank is ahead at 3.28. Flash Heal rank 1 is 2.92 when it has to be fast. Prayer of Healing on five people is 3.55. On four people it is 2.84, and Greater Heal is ahead of that. Penance and Holy Nova have no published share of bonus healing, so their lines above stay on the tooltip.
 
 ## How to read a heal
 
@@ -54,13 +54,13 @@ Penance lists one bolt. Three bolts land, on cast and then every second for 2 se
 
 **Bonus healing.** A direct heal adds cast time divided by 3.5 of your bonus healing. Heal and Greater Heal are 3 seconds, so 85.7%. Flash Heal and Binding Heal are 1.5 seconds, so 42.9%. Lesser Heal's cast gets longer as the rank goes up, so rank 1 is 42.9%, rank 2 is 57.1%, and rank 3 is 71.4%. Renew adds 100%, because it lasts 15 seconds. Prayer of Healing adds 28.6% per person. Power Word: Shield adds 10%.
 
-Those shares are stored on every rank in the Forever client. Classic reduces a rank learned before level 20 by 3.75% for each level under 20. Lesser Heal rank 1 is 42.9% here and 12.3% in Classic. A further cut that existed only on the server would not be in the client. A geared character is what would show it.
+Those shares are stored on every rank in the Forever client. Classic reduces a rank learned before level 20 by 3.75% for each level under 20. Lesser Heal rank 1 is 42.9% here and 12.3% in Classic. If the server applies another cut that is not in the client, you would only see it on a geared character.
 
 The heal with bonus healing is the tooltip average plus that share times the bonus. The average in these tables is the heal at the level the rank is learned. The base grows a little as you level, until the next rank. Greater Heal rank 1 is the one measured at 60: the base rises from 844 to 869, and +400 bonus healing heals 1212 for 370 mana, 3.28 per mana.
 
 **Forever's bases are lower** than Classic on most of these heals. Greater Heal rank 5 is 1853–2067. Classic is 1966–2194. Prayer of Healing rank 5 is 631–667, and party members must be within 40 yards. Classic is 1041–1099 within 30 yards.
 
-**Talents move the table without rewriting it.** Spiritual Healing is 3%, then 7%, then 10% more healing. It multiplies the whole heal, so the rank that wins stays the rank that wins. Improved Healing takes 5%, then 10%, then 15% off the mana of Lesser Heal, Heal, Greater Heal, Penance, and Prayer of Mending. At 15%, Heal rank 4 costs 259 mana, and 651 / 259 is 2.51 per mana, ahead of Flash Heal rank 7 at 2.17. Flash Heal, Renew, and Binding Heal are outside that list. Divine Fury cuts the cast of Heal and Greater Heal by 0.1 seconds a point, up to 0.5 seconds at five points. The bonus-healing share stays on the 3 second base cast, so per mana does not move. The heal arrives sooner, so per sec goes up. Mental Agility cuts the mana of Smite, Holy Fire, and instant spells: 3%, then 7%, then 10%. The instant heals in that set are Renew, Holy Nova, Prayer of Mending, and Power Word: Shield.
+**Talents.** Spiritual Healing is 3%, then 7%, then 10% more healing. It multiplies the whole heal, so the best rank stays the best rank. Improved Healing takes 5%, then 10%, then 15% off the mana of Lesser Heal, Heal, Greater Heal, Penance, and Prayer of Mending. At 15%, Heal rank 4 costs 259 mana, and 651 / 259 is 2.51 per mana, ahead of Flash Heal rank 7 at 2.17. Flash Heal, Renew, and Binding Heal are outside that list. Divine Fury cuts the cast of Heal and Greater Heal by 0.1 seconds a point, up to 0.5 seconds at five points. The bonus-healing share stays on the 3 second base cast, so per mana does not move. The heal arrives sooner, so per sec goes up. Mental Agility cuts the mana of Smite, Holy Fire, and instant spells: 3%, then 7%, then 10%. The instant heals in that set are Renew, Holy Nova, Prayer of Mending, and Power Word: Shield.
 
 **The five-second rule.** A cast stops spirit-based mana regeneration for 5 seconds after it finishes. Renew is instant and still starts those 5 seconds. A wand does not.
 
@@ -114,7 +114,7 @@ No gear. No talents. Sorted by the level the rank is learned.
 
 </div>
 
-Per sec says how fast health arrives during the cast. Flash Heal still lands at 1.5 seconds. Greater Heal lands at 3. If the target will die inside that 3 seconds, the fast cast is the one that arrives.
+Per sec is how fast the health arrives during the cast. Flash Heal still lands at 1.5 seconds. Greater Heal lands at 3. If the target will die inside those 3 seconds, use the fast cast.
 
 Penance is a Discipline talent. On the tooltip it is the best per mana in this table, and rank 4 is 5.69. You cast it, then you wait 12 seconds.
 
@@ -122,7 +122,7 @@ Penance is a Discipline talent. On the tooltip it is the best per mana in this t
 
 Each cell is the average heal, then per mana in parentheses. Bonus healing is +0, +200, +400, and +800. Heals are rounded to the nearest point.
 
-The rank named under a table is the best ratio when the target needs the entire heal. A smaller hole still wants the smallest rank that covers it.
+The rank named under a table is the best ratio when the target needs the entire heal. If they are missing less than that, cast the smallest rank that covers it.
 
 ### Lesser Heal
 
@@ -208,11 +208,11 @@ That +400 tie is the learn-level base. At level 60 the client gives rank 1 a bas
 
 </div>
 
-At +0, rank 10. From +200 up, rank 1, and only when the target will use the whole heal. At +400, rank 1 is 445 over 15 seconds. A hole larger than that needs a higher rank. Rank 10 at +400 is 1230, which is 82 a second while it ticks.
+At +0, rank 10. From +200 up, rank 1, and only when the target will use the whole heal. At +400, rank 1 is 445 over 15 seconds. Missing more than that needs a higher rank. Rank 10 at +400 is 1230, which is 82 a second while it ticks.
 
 ### Penance
 
-The client list does not publish Penance's share of bonus healing, so this table stays on the tooltip. Heal is the three bolts.
+The client list does not publish Penance's share of bonus healing, so this table stays on the tooltip. The heal column is all three bolts.
 
 <div class="table-wrap" markdown="1">
 
@@ -263,7 +263,7 @@ Per person, with bonus healing:
 
 </div>
 
-At +0 and at +200, rank 5. At +400, rank 1 and rank 5 tie at 0.71 per person. Rank 5 still covers the bigger hole, 763 against 292. At +800, rank 1. Multiply by the number of people who need all of it. More people raise the ratio. They do not change which rank wins.
+At +0 and at +200, rank 5. At +400, rank 1 and rank 5 tie at 0.71 per person. Rank 5 still heals more, 763 against 292. At +800, rank 1. Multiply by the number of people who need all of it. More people raise the ratio. The best rank stays the same.
 
 ### Holy Nova
 
