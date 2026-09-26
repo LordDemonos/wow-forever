@@ -36,7 +36,7 @@ kicker: Undead Priest
 
 ### Wands
 
-Leave the warlock at the first wand. A level 5 can train Enchanting to 75, and the only other recipe inside that cap is [Greater Magic Wand](https://www.wowhead.com/classic/item=11288/greater-magic-wand), 17.5 dps. Sizzle Stick matches it, and [Cookie](https://www.wowhead.com/classic/npc=645/cookie) beats it. The mystic wands need the warlock at 20, and neither beats Gravestone Scepter.
+Leave the warlock at the first wand. A level 5 can train Enchanting to 75, and the only other recipe inside that cap is [Greater Magic Wand](https://www.wowhead.com/classic/item=11288/greater-magic-wand), 17.5 dps. Sizzle Stick matches it, and [Cookie's Stirring Rod](https://www.wowhead.com/classic/item=5198/cookies-stirring-rod) beats it. The mystic wands need the warlock at 20, and neither beats Gravestone Scepter.
 
 1. **[Lesser Magic Wand](https://www.wowhead.com/classic/item=11287/lesser-magic-wand).** The level 5 warlock. Green. 12–22 Arcane, 11.3 dps. This is the starting wand, so you are not waiting on a drop.
 2. **[Sizzle Stick](https://www.wowhead.com/classic/item=8071/sizzle-stick).** Wailing Caverns quest, Deviate Eradication. Green. 21–39 Fire, 17.6 dps.
