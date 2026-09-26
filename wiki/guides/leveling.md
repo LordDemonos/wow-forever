@@ -72,6 +72,7 @@ Dungeon quests are the experience. Kills inside a dungeon give reduced experienc
 - **Classic** means the usual Horde quest. It is not in a published Forever list yet, and the NPC is standing where they stood in Classic.
 - A chain names the first quest, the NPC, and where that NPC stands. The dungeon step is called out.
 - Other-class quests are named only so you do not go looking for them.
+- **Gap experience** sits between stops when the next dungeon is a level or two higher. One or two nearby turn-ins, so you can enter at that level. If a name is red, or the hand-in is gray, skip it.
 
 ### Bonus experience
 
@@ -240,7 +241,7 @@ The ruined city of Lordaeron, above the [Undercity](https://www.wowhead.com/clas
 - **Not a chain.** [Crest of Lordaeron](https://www.wowhead.com/forever/quest=95204/crest-of-lordaeron) starts from the crest inside. It moves between side rooms. Loot your own. Turn in to [Oran Snakewrithe](https://www.wowhead.com/classic/npc=7825/oran-snakewrithe), Undercity.
 - **Chain, 5 steps, all named Unending Torment.** Step 1 is [Unending Torment](https://www.wowhead.com/forever/quest=97288/unending-torment). Loot the Abominable Head from the abomination inside. It cannot be shared. Turn the head in to someone in Undercity. The later steps stay in Undercity. One reported step uses the quest item on a worm named Ganoosh outside the Apothecarium. The other three step names are not published separately.
 
-Do the sleeping bag detour below before Wailing Caverns.
+Do the sleeping bag detour below before Wailing Caverns. If you are short of 17 after it, the Barrens gap section is next.
 
 ### Detour: Cozy Sleeping Bag
 
@@ -258,24 +259,7 @@ There are two pages for this name, [79007](https://www.wowhead.com/classic/quest
 
 **Where:** Burned-Out Remains in the rubble of the burnt tower, south of Camp Taurajo, [the Barrens](https://www.wowhead.com/classic/zone=17/the-barrens), about 46, 74. The tower is just north of the junction where the road to Dustwallow Marsh leaves the main road.
 
-**From Tirisfal:** The zeppelin towers are northwest of Brill. Two zeppelins dock there. Take the one to Orgrimmar, not the one to Grom'gol. It lands in Durotar, outside Orgrimmar. Leave by the south gate. The road runs south through the Barrens. The Crossroads is the town in the middle. Camp Taurajo is farther south on that same road. The tower is a short walk past the camp. Grab the flight points at the Crossroads, Camp Taurajo, and Ratchet while you are here. Hand any sealed crates to Dokimi, just south of the Crossroads. That turn-in is in Merchant's Favor, above.
-
-**Gap experience, through 20.** These are optional. Use them when you are short of the next level. All four beasts are non-elite, in the low-to-mid 20s. If one is red, leave it and fly back to Camp Taurajo later. Each drop starts its own quest. Turn every one in to [Jorn Skyseer](https://www.wowhead.com/classic/npc=3387/jorn-skyseer) at Camp Taurajo, about 45, 59. Experience and Thunder Bluff reputation. No gear.
-
-Do them on the walk from the camp down to the burnt tower:
-
-- [Lakota'mani](https://www.wowhead.com/classic/quest=883/lakotamani). Gray kodo, not aggressive. East of the camp, toward Agama'gor, about 46, 49. Drops the Hoof.
-- [Owatanka](https://www.wowhead.com/classic/quest=884/owatanka). Blue thunder lizard. South of the camp, by the tree, about 48, 59. Drops the Tailspike.
-- [The Harvester](https://www.wowhead.com/classic/quest=897/the-harvester). Silithid in the Field of Giants, about 48, 70, on the way to the tower. Drops the Head. He spawns small beetles. Shield, kill him, leave.
-- [Washte Pawne](https://www.wowhead.com/classic/quest=885/washte-pawne). Large red thunderhawk. He wanders the ridge by the burnt tower, about 44 to 45, 74 to 78. Drops the Feather. Look for him while you click the remains.
-
-The raptor [Ishamuhale](https://www.wowhead.com/classic/npc=3257/ishamuhale) is a different quest. [Jorn](https://www.wowhead.com/classic/npc=3387/jorn-skyseer) gives it to you after a longer hunt. Skip it.
-
-At level 20, take [The Ashenvale Hunt](https://www.wowhead.com/classic/quest=6382/the-ashenvale-hunt) from [Jorn](https://www.wowhead.com/classic/npc=3387/jorn-skyseer). Turn it in to [Senani Thunderheart](https://www.wowhead.com/classic/npc=12696/senani-thunderheart) at Splintertree Post and accept his quest of the same name, [The Ashenvale Hunt](https://www.wowhead.com/classic/quest=6383/the-ashenvale-hunt). The three beasts are under Blackfathom Deeps. Their trophies do not drop until [Senani](https://www.wowhead.com/classic/npc=12696/senani-thunderheart)'s quest is done.
-
-**The keg.** [Chen's Empty Keg](https://www.wowhead.com/classic/quest=819/chens-empty-keg) is an object, not a beast. One spawn is behind Camp Taurajo, about 45, 63. If it is not there, it is at another camp in the Barrens. Only some of the spots are up at once. Click it. Turn it in to [Brewmaster Drohn](https://www.wowhead.com/classic/npc=3292/brewmaster-drohn) in Ratchet, about 62.3, 38.4, on the ocean side of the Plate 'n Chain, southwest of the bank. That hand-in is the easy one. He then asks for lion tusks, plainstrider kidneys, and a thunder lizard horn. Do that only if the parts are already in your bags.
-
-**Ratchet, on the way to the boat.** The wanted poster by the bank starts [WANTED: Baron Longshore](https://www.wowhead.com/classic/quest=895/wanted-baron-longshore). He is level 16, in a red coat, at one of three pirate camps on the coast south of Ratchet, toward Northwatch Hold. Kill him, bring the head to [Gazlowe](https://www.wowhead.com/classic/npc=3391/gazlowe) in Ratchet.
+**From Tirisfal:** The zeppelin towers are northwest of Brill. Two zeppelins dock there. Take the one to Orgrimmar, not the one to Grom'gol. It lands in Durotar, outside Orgrimmar. Leave by the south gate. The road runs south through the Barrens. The Crossroads is the town in the middle. Camp Taurajo is farther south on that same road. The tower is a short walk past the camp. Grab the flight points at the Crossroads, Camp Taurajo, and Ratchet while you are here. Hand any sealed crates to Dokimi, just south of the Crossroads. That turn-in is in Merchant's Favor, above. Do not hunt the named beasts on this walk. They are the gap section after the bag.
 
 #### 2. Same quest, turned in at Westfall
 
@@ -323,7 +307,24 @@ Accept [Eagle's Fist](https://www.wowhead.com/classic/quest=79975/eagles-fist). 
 
 You receive the Cozy Sleeping Bag and 5 Student Fodder.
 
-Then go back to dungeon leveling. Wailing Caverns is next, and you are already on Kalimdor once you zeppelin or boat back to the Barrens.
+You finish on the Hillsbrad side of Thoradin's Wall. Zeppelin from Tirisfal, or the boat from Booty Bay, back to the Barrens. Wailing Caverns is next. If you are short of 17, do the gap section below first.
+
+### Gap experience: the Barrens
+
+After the sleeping bag. Before Wailing Caverns. Optional. Use one or two when you are short of 17. The same list stays useful through 20, before Shadowfang, if a beast was red the first time. All four beasts are non-elite, in the low-to-mid 20s. If one is red, leave it and fly back to Camp Taurajo later. Each drop starts its own quest. Turn every one in to [Jorn Skyseer](https://www.wowhead.com/classic/npc=3387/jorn-skyseer) at Camp Taurajo, about 45, 59. Experience and Thunder Bluff reputation. No gear.
+
+Fly to Camp Taurajo. Do not stop the sleeping bag clicks for these.
+
+- [Lakota'mani](https://www.wowhead.com/classic/quest=883/lakotamani). Gray kodo, not aggressive. East of the camp, toward Agama'gor, about 46, 49. Drops the Hoof.
+- [Owatanka](https://www.wowhead.com/classic/quest=884/owatanka). Blue thunder lizard. South of the camp, by the tree, about 48, 59. Drops the Tailspike.
+- [The Harvester](https://www.wowhead.com/classic/quest=897/the-harvester). Silithid in the Field of Giants, about 48, 70, south of the camp on the road toward the burnt tower. Drops the Head. He spawns small beetles. Shield, kill him, leave.
+- [Washte Pawne](https://www.wowhead.com/classic/quest=885/washte-pawne). Large red thunderhawk. He wanders the ridge by the burnt tower, about 44 to 45, 74 to 78. Drops the Feather. That tower is the sleeping bag click. Come back for him after the bag is done.
+
+The raptor [Ishamuhale](https://www.wowhead.com/classic/npc=3257/ishamuhale) is a different quest. [Jorn](https://www.wowhead.com/classic/npc=3387/jorn-skyseer) gives it to you after a longer hunt. Skip it.
+
+**The keg.** [Chen's Empty Keg](https://www.wowhead.com/classic/quest=819/chens-empty-keg) is an object, not a beast. One spawn is behind Camp Taurajo, about 45, 63. If it is not there, it is at another camp in the Barrens. Only some of the spots are up at once. Click it. Turn it in to [Brewmaster Drohn](https://www.wowhead.com/classic/npc=3292/brewmaster-drohn) in Ratchet, about 62.3, 38.4, on the ocean side of the Plate 'n Chain, southwest of the bank. That hand-in is the easy one. He then asks for lion tusks, plainstrider kidneys, and a thunder lizard horn. Do that only if the parts are already in your bags.
+
+**Ratchet.** The wanted poster by the bank starts [WANTED: Baron Longshore](https://www.wowhead.com/classic/quest=895/wanted-baron-longshore). He is level 16, in a red coat, at one of three pirate camps on the coast south of Ratchet, toward Northwatch Hold. Kill him, bring the head to [Gazlowe](https://www.wowhead.com/classic/npc=3391/gazlowe) in Ratchet. The bank is the same one you passed taking the boat to Booty Bay. Fly back if you did not kill him then.
 
 ### 4. Wailing Caverns (17)
 
@@ -362,6 +363,16 @@ Go at **17**. Band **17–26**. Alliance.
 Alliance chains, if you ever need the names: [The Defias Brotherhood](https://www.wowhead.com/classic/quest=166/the-defias-brotherhood) starts with [Gryan Stoutmantle](https://www.wowhead.com/classic/npc=234/gryan-stoutmantle), Sentinel Hill. [Underground Assault](https://www.wowhead.com/classic/quest=2040/underground-assault) starts with [Shoni the Silent](https://www.wowhead.com/classic/npc=6579/shoni-the-shilent), Dwarven District, Stormwind. Red Silk Bandanas is [Scout Riell](https://www.wowhead.com/classic/npc=820/scout-riell) at the Sentinel Hill tower. Collecting Memories and Oh Brother... are [Wilder Thistlenettle](https://www.wowhead.com/classic/npc=656/wilder-thistlenettle), Dwarven District. Destruction in Deadmines is new, and turns in to Alba Fairmoon.
 
 [Cookie](https://www.wowhead.com/classic/npc=645/cookie), on the ship, drops [Cookie's Stirring Rod](https://www.wowhead.com/classic/item=5198/cookies-stirring-rod). Green wand, 22.3 dps. It replaces Sizzle Stick and Firebelcher.
+
+### Gap experience: before Shadowfang
+
+Shadowfang is 22. Deadmines had no Horde quests, so this is the long gap. If you are already 22, skip this and pick up the keep quests at the Sepulcher.
+
+The Barrens gap section is the first choice, through 20. Fly to Camp Taurajo and finish any beast that is still green.
+
+If those four are red and you are still short, fly to Sun Rock. The poster on the road at about 59, 75 starts [Arachnophobia](https://www.wowhead.com/classic/quest=6284/arachnophobia). [Besseleth](https://www.wowhead.com/classic/npc=11921/besseleth) is an elite spider in Sishir Canyon, just west of that poster. Turn the fang in to [Maggran Earthbinder](https://www.wowhead.com/classic/npc=11860/maggran-earthbinder) at Sun Rock. Skip her if the canyon comes with her.
+
+At 20, take [The Ashenvale Hunt](https://www.wowhead.com/classic/quest=6382/the-ashenvale-hunt) from [Jorn Skyseer](https://www.wowhead.com/classic/npc=3387/jorn-skyseer) at Camp Taurajo. Turn it in to [Senani Thunderheart](https://www.wowhead.com/classic/npc=12696/senani-thunderheart) at Splintertree Post and accept his quest of the same name, [The Ashenvale Hunt](https://www.wowhead.com/classic/quest=6383/the-ashenvale-hunt). The trophies do not drop until that quest is in your log. The three beasts are in the Ashenvale gap section, before the City of Dalaran.
 
 ### 6. Shadowfang Keep (22)
 
@@ -410,14 +421,6 @@ Go at **24**. Band **24–32**. Both factions.
 - **Standalone.** [Knowledge in the Deeps](https://www.wowhead.com/classic/quest=971/knowledge-in-the-deeps) — [Gerrig Bonegrip](https://www.wowhead.com/classic/npc=2786/gerrig-bonegrip), the Forlorn Cavern, Undercity.
 - **Skip.** In Search of Thaelrid and Researching the Corruption are on the beta list, and both start in Alliance towns (Darnassus and Auberdine).
 
-**Gap turn-ins.** Same shape as Camp Taurajo. Non-elite. Click each trophy to start it, then turn it in to [Senani](https://www.wowhead.com/classic/npc=12696/senani-thunderheart) at Splintertree. When all three are in, take [The Hunt Completed](https://www.wowhead.com/classic/quest=247/the-hunt-completed) from him. That one is another hand-in, no extra kill. If one is red, fly back later.
-
-- [Ursangous's Paw](https://www.wowhead.com/classic/quest=23/ursangouss-paw). Level 25 bear, north of the Talondeep path, about 41, 65. This is the one near the road in from the Barrens.
-- [Shadumbra's Head](https://www.wowhead.com/classic/quest=24/shadumbras-head). Level 28 nightsaber, west of Raynewood Retreat, about 56, 53. Laughing Sisters stand nearby. Pull her alone.
-- [Sharptalon's Claw](https://www.wowhead.com/classic/quest=2/sharptalons-claw). Level 30 hippogryph, south of Splintertree, about 74, 64 to 68. Stealthed night elves hunt that ridge.
-
-Optional, only if you are already on Kalimdor and short of a level: fly to Sun Rock. The poster on the road at about 59, 75 starts [Arachnophobia](https://www.wowhead.com/classic/quest=6284/arachnophobia). [Besseleth](https://www.wowhead.com/classic/npc=11921/besseleth) is an elite spider in Sishir Canyon, just west of that poster. Turn the fang in to [Maggran Earthbinder](https://www.wowhead.com/classic/npc=11860/maggran-earthbinder) at Sun Rock. Skip her if the canyon comes with her.
-
 ### 9. The Stockade (24)
 
 Go at **24**. Band **24–32**. Alliance.
@@ -431,6 +434,16 @@ Go at **24**. Band **24–32**. Alliance.
 **Beta.** No Horde giver. Every quest starts in Stormwind or Lakeshire. Legacy Points only.
 
 The client lists [The Stockade Riots](https://www.wowhead.com/classic/quest=391/the-stockade-riots) and Quell the Uprising from [Warden Thelwater](https://www.wowhead.com/classic/npc=1719/warden-thelwater) at the prison door, What Comes Around... from [Guard Berton](https://www.wowhead.com/classic/npc=859/guard-berton), Crime and Punishment from [Councilman Millstipe](https://www.wowhead.com/classic/npc=270/councilman-millstipe), and The Color of Blood from [Nikova Raskol](https://www.wowhead.com/classic/npc=1721/nikova-raskol). The Stockade Riots is a later step of the Deadmines letter chain.
+
+### Gap experience: Ashenvale
+
+Before the City of Dalaran. You need 28. These stay useful through 30, before Scarlet Monastery graveyard, if one was red the first time. If you are already 28, skip this.
+
+Same shape as Camp Taurajo. Non-elite. The pickup is in the Shadowfang gap section: [Jorn](https://www.wowhead.com/classic/npc=3387/jorn-skyseer) at 20, then [Senani Thunderheart](https://www.wowhead.com/classic/npc=12696/senani-thunderheart) at Splintertree. The trophies do not drop until [Senani](https://www.wowhead.com/classic/npc=12696/senani-thunderheart)'s hunt is in your log. Click each trophy to start it, then turn it in to him. When all three are in, take [The Hunt Completed](https://www.wowhead.com/classic/quest=247/the-hunt-completed) from him. That one is another hand-in, no extra kill.
+
+- [Ursangous's Paw](https://www.wowhead.com/classic/quest=23/ursangouss-paw). Level 25 bear, north of the Talondeep path, about 41, 65. This is the one near the road in from the Barrens.
+- [Shadumbra's Head](https://www.wowhead.com/classic/quest=24/shadumbras-head). Level 28 nightsaber, west of Raynewood Retreat, about 56, 53. Laughing Sisters stand nearby. Pull her alone.
+- [Sharptalon's Claw](https://www.wowhead.com/classic/quest=2/sharptalons-claw). Level 30 hippogryph, south of Splintertree, about 74, 64 to 68. Stealthed night elves hunt that ridge.
 
 ### 10. City of Dalaran (28)
 
@@ -602,6 +615,14 @@ Go at **41**. Band **41–51**. Both factions.
 - **Standalone.** [Power Stones](https://www.wowhead.com/classic/quest=2418/power-stones) — [Rigglefuzz](https://www.wowhead.com/classic/npc=2817/rigglefuzz), the goblin camp in the Badlands.
 - **Standalone.** [Solution to Doom](https://www.wowhead.com/classic/quest=709/solution-to-doom) — [Theldurin the Lost](https://www.wowhead.com/classic/npc=2785/theldurin-the-lost), Agmond's End, Badlands.
 
+### Gap experience: Tanaris
+
+Before Zul'Farrak. You need 44. Gadgetzan is the town you fly to for the instance. If you are already 44, skip this and pick up the dungeon quests. Skip either name if you cannot pull him alone.
+
+- [WANTED: Caliph Scorpidsting](https://www.wowhead.com/classic/quest=2781/wanted-caliph-scorpidsting). Turn the head in to [Chief Engineer Bilgewhizzle](https://www.wowhead.com/classic/npc=7407/chief-engineer-bilgewhizzle) in Gadgetzan. He is also the Divino-matic Rod quest on the Zul'Farrak stop. Caliph walks the water towers northwest of town, about 60 to 63, 31 to 39. Two stealthed rogues walk with him. Wait until he leaves the camp, then pull.
+- [WANTED: Andre Firebeard](https://www.wowhead.com/classic/quest=2875/wanted-andre-firebeard). Turn the head in to [Security Chief Bilgewhizzle](https://www.wowhead.com/classic/npc=7882/security-chief-bilgewhizzle), also in Gadgetzan. Andre is in Lost Rigger Cove, the pirate camp on the east coast. The camp is crowded.
+- If a pirate there drops [Ship Schedules](https://www.wowhead.com/classic/quest=2876/ship-schedules), click it and turn that in to [Security Chief Bilgewhizzle](https://www.wowhead.com/classic/npc=7882/security-chief-bilgewhizzle) too.
+
 ### 21. Zul'Farrak (44)
 
 Go at **44**. Band **44–54**. Both factions.
@@ -623,12 +644,6 @@ Go at **44**. Band **44–54**. Both factions.
 - **Skip.** Tiara of the Deep is the mage quest from [Tabetha](https://www.wowhead.com/classic/npc=6546/tabetha) in Dustwallow Marsh. Nekrum's Medallion is Alliance.
 
 [Sandarr Dunereaver](https://www.wowhead.com/classic/npc=10080/sandarr-dunereaver) is a rare in the graveyard inside. If he is up, roll [Flaming Incinerator](https://www.wowhead.com/classic/item=9483/flaming-incinerator), 47.2 dps. It replaces Blackbone Wand until Noxious Shooter.
-
-**Gap turn-ins.** Two wanted posters in Gadgetzan. Skip either one if you cannot pull the named alone.
-
-- [WANTED: Caliph Scorpidsting](https://www.wowhead.com/classic/quest=2781/wanted-caliph-scorpidsting). Turn the head in to [Chief Engineer Bilgewhizzle](https://www.wowhead.com/classic/npc=7407/chief-engineer-bilgewhizzle), the same goblin as Divino-matic Rod. Caliph walks the water towers northwest of town, about 60 to 63, 31 to 39. Two stealthed rogues walk with him. Wait until he leaves the camp, then pull.
-- [WANTED: Andre Firebeard](https://www.wowhead.com/classic/quest=2875/wanted-andre-firebeard). Turn the head in to [Security Chief Bilgewhizzle](https://www.wowhead.com/classic/npc=7882/security-chief-bilgewhizzle), also in Gadgetzan. Andre is in Lost Rigger Cove, the pirate camp on the east coast. The camp is crowded.
-- If a pirate there drops [Ship Schedules](https://www.wowhead.com/classic/quest=2876/ship-schedules), click it and turn that in to [Security Chief Bilgewhizzle](https://www.wowhead.com/classic/npc=7882/security-chief-bilgewhizzle) too.
 
 ### 22. Maraudon (46)
 
@@ -786,7 +801,7 @@ The hills of Un'Goro Crater. Exact entrance is not published.
 
 No public quest list yet.
 
-**Gap turn-in.** Creatures in the crater can drop A Mangled Journal. Click it for [Williden's Journal](https://www.wowhead.com/classic/quest=3884/willidens-journal) and turn it in to [Williden Marshal](https://www.wowhead.com/classic/npc=9270/williden-marshal) at Marshal's Refuge, the camp in the north. This quest is level 50. If it is gray when you arrive, skip it.
+**Gap experience.** Creatures in the crater can drop A Mangled Journal. Click it for [Williden's Journal](https://www.wowhead.com/classic/quest=3884/willidens-journal) and turn it in to [Williden Marshal](https://www.wowhead.com/classic/npc=9270/williden-marshal) at Marshal's Refuge, the camp in the north. This quest is level 50. If it is gray when you arrive, skip it. You are already 58 on this route, so it usually is.
 
 ### 32. Scholomance (58)
 
@@ -827,7 +842,7 @@ Go at **58**. Band **58–60**. Both factions.
 - **Standalone.** [Houses of the Holy](https://www.wowhead.com/classic/quest=5243/houses-of-the-holy) — [Leonid Barthalomew](https://www.wowhead.com/classic/npc=11036/leonid-barthalomew-the-revered), Light's Hope.
 - **Standalone.** [Of Love and Family](https://www.wowhead.com/classic/quest=5848/of-love-and-family) — [Artist Renfray](https://www.wowhead.com/classic/npc=11936/artist-renfray), Caer Darrow, Western Plaguelands. The painting is in this wing.
 
-**Gap turn-ins.** Grab the Light's Hope flight point while you are picking up the dungeon quests.
+**Gap experience.** Grab the Light's Hope flight point while you are picking up the dungeon quests. If you are already 58, zone in. These two are only for when you are short.
 
 - [Zaeldarr the Outcast](https://www.wowhead.com/classic/quest=6021/zaeldarr-the-outcast). [Caretaker Alen](https://www.wowhead.com/classic/npc=11038/caretaker-alen) at Light's Hope. One named troll in the Undercroft, the crypt west of the chapel. Kill him and bring the head back to [Alen](https://www.wowhead.com/classic/npc=11038/caretaker-alen).
 - [Hameya's Plea](https://www.wowhead.com/classic/quest=6024/hameyas-plea). In that same crypt, click the scroll in the dirt mound. Kill [Infiltrator Hameya](https://www.wowhead.com/classic/npc=12248/infiltrator-hameya), the ghoul who walks the Undercroft. A chest then appears at the mound.
