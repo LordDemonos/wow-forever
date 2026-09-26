@@ -1,7 +1,9 @@
 *
 !*/
 !.gitignore
+!README.md
 !wiki/**
+wiki/_site/
 !.github/**
 
 pqdi_guides/
