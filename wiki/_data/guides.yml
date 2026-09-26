@@ -6,19 +6,7 @@
   summary: Dungeons from Ragefire Chasm to Upper Blackrock Spire, plus the sleeping bag, the wand path, and the one-kill turn-ins.
 - title: Healing
   url: /healing/
-  kicker: Undead Priest
+  kicker: Priest
   range: "1–60"
-  faction: Horde
+  faction: Both
   summary: Every heal rank by mana and by speed, and which rank wins once bonus healing is on the gear.
-- title: Holy Priest PVE
-  url: /holy/
-  kicker: Undead Priest
-  range: "60"
-  faction: Horde
-  summary: 20/31/0. Prayer of Mending, Spirit of Redemption, and Spiritual Guidance.
-- title: Disc Priest PVE
-  url: /disc/
-  kicker: Undead Priest
-  range: "60"
-  faction: Horde
-  summary: 31/20/0. Penance, Power Infusion, and Divine Aegis.

@@ -2,13 +2,13 @@
 layout: guide
 title: Disc Priest PVE
 permalink: /disc/
-kicker: Undead Priest
+kicker: Priest
 summary: 31/20/0. Penance, Power Infusion, and Divine Aegis.
 ---
 
 # Disc Priest PVE
 
-**Main character:** Undead Priest, Horde. Level 60.
+**Priest.** Alliance or Horde. Level 60.
 
 ## Talents
 
@@ -22,4 +22,4 @@ summary: 31/20/0. Penance, Power Infusion, and Divine Aegis.
 
 **Shadow 0.**
 
-**Talents.** The priest trainer in Undercity wipes the tree. Wipe costs are on the [leveling guide]({{ '/leveling/' | relative_url }}). The other level 60 tree is [Holy Priest PVE]({{ '/holy/' | relative_url }}). Which heal rank to cast is in the [healing guide]({{ '/healing/' | relative_url }}).
+**Talents.** On Horde, the priest trainer in Undercity wipes the tree. Wipe costs are on the [leveling guide]({{ '/leveling/' | relative_url }}). The other level 60 tree is [Holy Priest PVE]({{ '/holy/' | relative_url }}). Which heal rank to cast is in the [healing guide]({{ '/healing/' | relative_url }}).

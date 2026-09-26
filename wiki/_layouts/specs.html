@@ -1,0 +1,18 @@
+---
+layout: default
+---
+<main id="content" class="shell">
+  <section class="hero">
+    <p class="eyebrow"><span class="pips" aria-hidden="true"><span class="pip pip-alliance"></span><span class="pip pip-horde"></span></span> Priest · Alliance &amp; Horde</p>
+    <h1>Talent specs.</h1>
+    <p class="lede">Level 60 Holy and Discipline, for either faction. The leveling build stays 28/23/0 until a wipe is worth it.</p>
+  </section>
+
+  <section class="panel specs-panel" aria-labelledby="spec-list">
+    <header class="panel-head">
+      <h2 id="spec-list">Specs</h2>
+      <span class="count">{{ site.data.specs | size }}</span>
+    </header>
+    {% include guide-cards.html guides=site.data.specs %}
+  </section>
+</main>

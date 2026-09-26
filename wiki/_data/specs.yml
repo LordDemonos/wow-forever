@@ -1,0 +1,12 @@
+- title: Holy Priest PVE
+  url: /holy/
+  kicker: Priest
+  range: "60"
+  faction: Both
+  summary: 20/31/0. Prayer of Mending, Spirit of Redemption, and Spiritual Guidance.
+- title: Disc Priest PVE
+  url: /disc/
+  kicker: Priest
+  range: "60"
+  faction: Both
+  summary: 31/20/0. Penance, Power Infusion, and Divine Aegis.

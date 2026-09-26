@@ -1,0 +1,24 @@
+<ul class="cards">
+  {% for guide in include.guides %}
+  <li>
+    <a class="card" href="{{ guide.url | relative_url }}">
+      <span class="card-kicker">{{ guide.kicker }}</span>
+      <span class="card-title">{{ guide.title }}</span>
+      <span class="card-range">{{ guide.range }}</span>
+      <span class="card-summary">{{ guide.summary }}</span>
+      <span class="card-meta">
+        {% if guide.faction == "Both" %}
+          <span class="pips" aria-hidden="true"><span class="pip pip-alliance"></span><span class="pip pip-horde"></span></span>
+          Alliance &amp; Horde
+        {% elsif guide.faction == "Alliance" %}
+          <span class="pip pip-alliance" aria-hidden="true"></span>
+          Alliance
+        {% else %}
+          <span class="pip pip-horde" aria-hidden="true"></span>
+          {{ guide.faction }}
+        {% endif %}
+      </span>
+    </a>
+  </li>
+  {% endfor %}
+</ul>
