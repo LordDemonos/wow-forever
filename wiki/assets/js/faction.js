@@ -2,10 +2,12 @@
   var article = document.querySelector(".article");
   if (!article) return;
 
-  var hordeIcon =
-    '<svg class="faction-icon" viewBox="0 0 16 16" aria-hidden="true"><circle cx="8" cy="8" r="7" fill="#9a2f2a"/><path fill="none" stroke="#f4e4c8" stroke-width="1.3" stroke-linecap="round" d="M3.5 7.2c1.2-2 2.6-3 4.5-3s3.3 1 4.5 3"/><path fill="none" stroke="#f4e4c8" stroke-width="1.3" stroke-linecap="round" d="M4.3 10.4c.3-2.4 1.3-4 3.7-4s3.4 1.6 3.7 4"/></svg>';
-  var allianceIcon =
-    '<svg class="faction-icon" viewBox="0 0 16 16" aria-hidden="true"><circle cx="8" cy="8" r="7" fill="#1d4e89"/><path fill="#d7e6ff" d="M8 2.8l2.8 1.1v2.8c0 2.1-1.2 3.4-2.8 4.2-1.6-.8-2.8-2.1-2.8-4.2V3.9z"/></svg>';
+  function iconImg(src, className) {
+    return '<img class="' + className + '" alt="" src="' + src + '">';
+  }
+
+  var hordeIcon = iconImg(article.dataset.iconHorde, "faction-icon");
+  var allianceIcon = iconImg(article.dataset.iconAlliance, "faction-icon");
 
   function icons(kind) {
     if (kind === "both") return hordeIcon + allianceIcon;
@@ -91,5 +93,37 @@
     item.innerHTML = item.innerHTML
       .replace("Horde comes", badge("horde", "Horde") + " comes")
       .replace("an Alliance one", "an " + badge("alliance", "Alliance") + " one");
+  });
+
+  article.querySelectorAll('a[href*="/quest="]').forEach(function (link) {
+    var previous = link.previousElementSibling;
+    if (previous && previous.classList.contains("quest-start")) return;
+    link.insertAdjacentHTML("beforebegin", iconImg(article.dataset.iconQuestStart, "quest-icon quest-start"));
+  });
+
+  var turnIn = /\b(Turn the head in|Turn the fang in|Turn it in|Turn that in|turn it in|turn that in|Hand it in|turned in|Turn in|turn in)\b/g;
+  var walker = document.createTreeWalker(article, NodeFilter.SHOW_TEXT);
+  var textNodes = [];
+  while (walker.nextNode()) textNodes.push(walker.currentNode);
+  textNodes.forEach(function (node) {
+    turnIn.lastIndex = 0;
+    if (!turnIn.test(node.nodeValue)) return;
+    turnIn.lastIndex = 0;
+    var text = node.nodeValue;
+    var fragment = document.createDocumentFragment();
+    var last = 0;
+    var match;
+    while ((match = turnIn.exec(text))) {
+      fragment.appendChild(document.createTextNode(text.slice(last, match.index)));
+      var marker = document.createElement("img");
+      marker.className = "quest-icon quest-end";
+      marker.alt = "";
+      marker.src = article.dataset.iconQuestEnd;
+      fragment.appendChild(marker);
+      fragment.appendChild(document.createTextNode(match[1]));
+      last = match.index + match[0].length;
+    }
+    fragment.appendChild(document.createTextNode(text.slice(last)));
+    node.parentNode.replaceChild(fragment, node);
   });
 })();

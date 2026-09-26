@@ -394,7 +394,17 @@ a:hover { color: var(--link-hover); }
   margin-right: 0.35rem;
   vertical-align: -0.15em;
 }
-.faction-icon { width: 1rem; height: 1rem; display: block; }
+.faction-icon, .quest-icon {
+  height: 15px;
+  width: auto;
+  image-rendering: pixelated;
+}
+.faction-mark .faction-icon { display: block; }
+.quest-icon {
+  display: inline-block;
+  margin-right: 0.18rem;
+  vertical-align: -2px;
+}
 .article .note-alliance {
   padding: 0.25rem 0.6rem 0.25rem 0.5rem;
   border-left: 3px solid #3d7dcc;

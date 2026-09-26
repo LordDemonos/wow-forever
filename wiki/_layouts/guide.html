@@ -13,7 +13,11 @@ layout: default
     </label>
     <nav id="toc-nav" aria-label="On this page"></nav>
   </aside>
-  <article id="content" class="article">
+  <article id="content" class="article"
+    data-icon-horde="{{ '/assets/icons/horde.png' | relative_url }}"
+    data-icon-alliance="{{ '/assets/icons/alliance.png' | relative_url }}"
+    data-icon-quest-start="{{ '/assets/icons/quest-start.gif' | relative_url }}"
+    data-icon-quest-end="{{ '/assets/icons/quest-end.gif' | relative_url }}">
     {{ content }}
   </article>
 </div>
