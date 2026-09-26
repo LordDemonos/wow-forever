@@ -1,3 +1,10 @@
+---
+layout: guide
+title: Leveling
+permalink: /leveling/
+kicker: Undead Priest
+---
+
 # WoW Forever
 
 **Main character:** Undead Priest, Horde. Starts in Tirisfal Glades. The notes and leveling guide below are for this character.
@@ -55,15 +62,21 @@ https://wowforevertalents.com/priest/?t=x505030030334001031-33505000202
 
 Ranged slot. These do not replace the main-hand path above. **Classic.** Forever has not published different versions of these.
 
+Leave the warlock at the first wand. A level 5 can train Enchanting to 75, and the only other recipe inside that cap is Greater Magic Wand, 17.5 dps. Sizzle Stick matches it, and Cookie beats it. The mystic wands need the warlock at 20, and neither beats Gravestone Scepter.
+
 1. **[Lesser Magic Wand](https://www.wowhead.com/classic/item=11287/lesser-magic-wand).** The level 5 warlock. Green. 12–22 Arcane, 11.3 dps. This is the starting wand, so you are not waiting on a drop.
 2. **[Sizzle Stick](https://www.wowhead.com/classic/item=8071/sizzle-stick).** Wailing Caverns quest, Deviate Eradication. Green. 21–39 Fire, 17.6 dps. Take the wand, not the belt pattern or the gloves.
-3. **[Cookie's Stirring Rod](https://www.wowhead.com/classic/item=5198/cookies-stirring-rod).** Cookie, on the Deadmines ship. Green. 20–38 Arcane, 22.3 dps. Better than Sizzle Stick if you run the mine.
-4. **[Gravestone Scepter](https://www.wowhead.com/classic/item=7001/gravestone-scepter).** Blackfathom Villainy. Rare. 30–57 Shadow, 29 dps. Take the wand, not the shield. This is the one that lasts into the 40s.
-5. **[Noxious Shooter](https://www.wowhead.com/classic/item=17745/noxious-shooter).** Noxxion, Maraudon. Rare. 56–104 Nature, 50 dps. Requires 46.
-6. **[Rod of Corrosion](https://www.wowhead.com/classic/item=10836/rod-of-corrosion).** Shade of Eranikus, Sunken Temple. Rare. 50–93 Nature, 55 dps. Requires 51.
-7. **[Mana Channeling Wand](https://www.wowhead.com/classic/item=18483/mana-channeling-wand).** Cho'Rush the Observer, Dire Maul North. 68–127 Frost, 60.9 dps, and 4 mana per 5. Requires 56. Kill him. The tribute run still finishes.
-8. **[Bonecreeper Stylus](https://www.wowhead.com/classic/item=13938/bonecreeper-stylus).** Darkmaster Gandling, Scholomance. Rare. 83–155 Arcane, 62.6 dps, and +11 damage and healing. Requires 57. This is the healer wand.
-9. **[Skul's Ghastly Touch](https://www.wowhead.com/classic/item=13396/skuls-ghastly-touch).** Skul, a rare in the live side of Stratholme. Rare. +14 shadow damage, not healing. Requires 52. Roll it if he is up. Bonecreeper is the one that also adds to heals.
+3. **[Firebelcher](https://www.wowhead.com/classic/item=5243/firebelcher).** Deviate Faerie Dragon, a rare in Wailing Caverns. Rare. 24–45 Fire, 20.3 dps. Roll it if he is up. It replaces Sizzle Stick until Cookie.
+4. **[Cookie's Stirring Rod](https://www.wowhead.com/classic/item=5198/cookies-stirring-rod).** Cookie, on the Deadmines ship. Green. 20–38 Arcane, 22.3 dps. Better than Sizzle Stick and Firebelcher.
+5. **[Gravestone Scepter](https://www.wowhead.com/classic/item=7001/gravestone-scepter).** Blackfathom Villainy. Rare. 30–57 Shadow, 29 dps. Take the wand, not the shield. It holds until the Graveyard rare, or the level 41 vendor wand.
+6. **[Necrotic Wand](https://www.wowhead.com/classic/item=7708/necrotic-wand).** Azshir the Sleepless, a rare in the Scarlet Monastery graveyard. Rare. 32–61 Shadow, 33.2 dps. Only one of the three rares is up. Roll it if Azshir is the one.
+7. **[Blackbone Wand](https://www.wowhead.com/classic/item=5239/blackbone-wand).** Buy it at 41 from Katis in Orgrimmar or Zane Bradford in the Undercity. 39–74 Shadow, 35.3 dps. Under 4 gold. It replaces Gravestone and Necrotic Wand.
+8. **[Flaming Incinerator](https://www.wowhead.com/classic/item=9483/flaming-incinerator).** Sandarr Dunereaver, a rare in the Zul'Farrak graveyard. Rare. 59–111 Fire, 47.2 dps. Roll it if he is up. It replaces Blackbone until Noxious Shooter.
+9. **[Noxious Shooter](https://www.wowhead.com/classic/item=17745/noxious-shooter).** Noxxion, Maraudon. Rare. 56–104 Nature, 50 dps. Requires 46.
+10. **[Rod of Corrosion](https://www.wowhead.com/classic/item=10836/rod-of-corrosion).** Shade of Eranikus, Sunken Temple. Rare. 50–93 Nature, 55 dps. Requires 51.
+11. **[Mana Channeling Wand](https://www.wowhead.com/classic/item=18483/mana-channeling-wand).** Cho'Rush the Observer, Dire Maul North. 68–127 Frost, 60.9 dps, and 4 mana per 5. Requires 56. Kill him. The tribute run still finishes.
+12. **[Bonecreeper Stylus](https://www.wowhead.com/classic/item=13938/bonecreeper-stylus).** Darkmaster Gandling, Scholomance. Rare. 83–155 Arcane, 62.6 dps, and +11 damage and healing. Requires 57. This is the healer wand.
+13. **[Skul's Ghastly Touch](https://www.wowhead.com/classic/item=13396/skuls-ghastly-touch).** Skul, a rare in the live side of Stratholme. Rare. +14 shadow damage, not healing. Requires 52. Roll it if he is up. Bonecreeper is the one that also adds to heals.
 
 ### Quests to grab
 
@@ -180,7 +193,7 @@ The wand is the priest's ranged slot. It does not replace the main-hand path. It
 7. Disenchant the robes. That raises Enchanting. Keep going until you have 1 Strange Dust and 2 Lesser Magic Essence. The dust is the common result. The essence is not, so nine robes is the usual start and you may need more.
 8. Buy 1 Copper Rod from an engineering supplier, and 1 Simple Wood from a trade goods vendor. At Enchanting 1, craft a [Runed Copper Rod](https://www.wowhead.com/classic/item=6218/runed-copper-rod): the rod, the dust, and 1 essence. The rod stays in your bags. It is the tool, and it is not used up by the wand.
 9. At Enchanting 10, learn [Lesser Magic Wand](https://www.wowhead.com/classic/spell=14293/lesser-magic-wand) from Lavinia. Craft it with the rod in your bags, 1 Simple Wood, and the other essence.
-10. Mail the wand to the priest. It is bind on equip. Leave the warlock at the bank in the Trade Quarter. The mailbox is beside it. That character is the bank mule from here on.
+10. Mail the wand to the priest. It is bind on equip. Leave the warlock at the bank in the Trade Quarter. The mailbox is beside it. That character is the bank mule from here on. Do not grind Enchanting any higher for a wand. The next recipes lose to the dungeon path under Wands.
 
 ### Levels 14–60
 
@@ -348,6 +361,8 @@ Go at **17**. Band **17–24**. Horde.
 - **Standalone.** [Trouble at the Docks](https://www.wowhead.com/classic/quest=959/trouble-at-the-docks) — Crane Operator Bigglefuzz, the crane at Ratchet.
 - **Standalone.** [Deviate Hides](https://www.wowhead.com/classic/quest=1486/deviate-hides) — Nalpak, in the cave before the instance portal.
 - **Standalone.** [Deviate Eradication](https://www.wowhead.com/classic/quest=1487/deviate-eradication) — Ebru, beside Nalpak. Take [Sizzle Stick](https://www.wowhead.com/classic/item=8071/sizzle-stick), the green wand. Not the belt pattern or the gloves.
+
+The rare Deviate Faerie Dragon is sometimes already in the caverns. He drops [Firebelcher](https://www.wowhead.com/classic/item=5243/firebelcher), 20.3 dps. It replaces Sizzle Stick until Cookie. Do not wait on him.
 - **Chain.** [The Glowing Shard](https://www.wowhead.com/classic/quest=6981/the-glowing-shard) drops from Mutanus the Devourer. Click it. It cannot be shared. Talk to Sputtervalve in Ratchet, by the flight master. He has no quest marker. He sends you to Falla Sagewind, on top of the mountain over the caverns. She gives In Nightmares. Turn that in to Hamuul Runetotem, Elder Rise, Thunder Bluff. Cloth choice is Talbar Mantle.
 
 ### 5. The Deadmines (17)
@@ -364,7 +379,7 @@ Go at **17**. Band **17–26**. Alliance.
 
 Alliance chains, if you ever need the names: [The Defias Brotherhood](https://www.wowhead.com/classic/quest=166/the-defias-brotherhood) starts with Gryan Stoutmantle, Sentinel Hill. [Underground Assault](https://www.wowhead.com/classic/quest=2040/underground-assault) starts with Shoni the Silent, Dwarven District, Stormwind. Red Silk Bandanas is Scout Riell at the Sentinel Hill tower. Collecting Memories and Oh Brother... are Wilder Thistlenettle, Dwarven District. Destruction in Deadmines is new, and turns in to Alba Fairmoon.
 
-Cookie, on the ship, drops [Cookie's Stirring Rod](https://www.wowhead.com/classic/item=5198/cookies-stirring-rod). Green wand, 22.3 dps. It replaces Sizzle Stick.
+Cookie, on the ship, drops [Cookie's Stirring Rod](https://www.wowhead.com/classic/item=5198/cookies-stirring-rod). Green wand, 22.3 dps. It replaces Sizzle Stick and Firebelcher.
 
 ### 6. Shadowfang Keep (22)
 
@@ -409,7 +424,7 @@ Go at **24**. Band **24–32**. Both factions.
 
 - **Chain.** [Trouble in the Deeps](https://www.wowhead.com/classic/quest=6562/trouble-in-the-deeps) — Je'neu Sancrea, Zoram'gar Outpost, Ashenvale. He then gives [The Essence of Aku'Mai](https://www.wowhead.com/classic/quest=6563/the-essence-of-akumai).
 - **Chain.** A Damp Note looted inside starts Allegiance to the Old Gods. Not shareable. Turn it in to Je'neu. He gives the follow-up of the same name: [Allegiance to the Old Gods](https://www.wowhead.com/classic/quest=6565/allegiance-to-the-old-gods).
-- **Standalone.** [Blackfathom Villainy](https://www.wowhead.com/classic/quest=6561/blackfathom-villainy) — kill Twilight Lord Kelris. Turn in to Bashana Runetotem, Elder Rise, Thunder Bluff. The beta list has no prerequisite on the Horde version. Take [Gravestone Scepter](https://www.wowhead.com/classic/item=7001/gravestone-scepter), the rare wand. Not the shield. It replaces the earlier wands and holds into the 40s.
+- **Standalone.** [Blackfathom Villainy](https://www.wowhead.com/classic/quest=6561/blackfathom-villainy) — kill Twilight Lord Kelris. Turn in to Bashana Runetotem, Elder Rise, Thunder Bluff. The beta list has no prerequisite on the Horde version. Take [Gravestone Scepter](https://www.wowhead.com/classic/item=7001/gravestone-scepter), the rare wand. Not the shield. It replaces the earlier wands and holds until the Graveyard rare, or the level 41 vendor wand.
 - **Standalone.** [Knowledge in the Deeps](https://www.wowhead.com/classic/quest=971/knowledge-in-the-deeps) — Gerrig Bonegrip, the Forlorn Cavern, Undercity.
 - **Skip.** In Search of Thaelrid and Researching the Corruption are on the beta list, and both start in Alliance towns (Darnassus and Auberdine).
 
@@ -491,6 +506,8 @@ Go at **30**. Band **30–38**. Horde.
 
 - **Standalone.** [Into the Scarlet Monastery](https://www.wowhead.com/classic/quest=1048/into-the-scarlet-monastery) — Varimathras, Royal Quarter, Undercity. This wing is Interrogator Vishas. Herod is the Armory. Scarlet Commander Mograine and High Inquisitor Whitemane are the Cathedral.
 - **Chain.** [Hearts of Zeal](https://www.wowhead.com/classic/quest=1113/hearts-of-zeal) — Master Apothecary Faranell, the Apothecarium, Undercity. Starts with [Going, Going, Guano!](https://www.wowhead.com/classic/quest=1109/going-going-guano), same NPC, which is the Razorfen Kraul quest missing from the beta list. The hearts drop in this wing.
+
+Azshir the Sleepless is one of three rares in this wing, and only one is up. If it is Azshir, roll [Necrotic Wand](https://www.wowhead.com/classic/item=7708/necrotic-wand), 33.2 dps. It replaces Gravestone Scepter.
 
 ### 14. Scarlet Monastery: Library (33)
 
@@ -588,6 +605,8 @@ Go at **41**. Band **41–51**. Both factions.
 
 [Uldaman](https://www.wowhead.com/classic/zone=1337/uldaman) is the cave at the dig site in the central Badlands. Nearest Horde town is Kargath.
 
+**Wand.** Before you fly out, buy [Blackbone Wand](https://www.wowhead.com/classic/item=5239/blackbone-wand) from Katis in Orgrimmar or Zane Bradford in the Undercity. 35.3 dps, under 4 gold. It replaces Gravestone Scepter and Necrotic Wand.
+
 **Zone:** [Badlands](https://www.wowhead.com/classic/zone=3/badlands), 35–45, Eastern Kingdoms.
 
 #### Horde quests
@@ -621,6 +640,8 @@ Go at **44**. Band **44–54**. Both factions.
 - **Chain.** [The Spider God](https://www.wowhead.com/classic/quest=2936/the-spider-god) — Master Gadrin, Sen'jin Village, Durotar. The earlier steps are Hinterlands quests. Read the Tablet of Theka inside.
 - **Skip.** Tiara of the Deep is the mage quest from Tabetha in Dustwallow Marsh. Nekrum's Medallion is Alliance.
 
+Sandarr Dunereaver is a rare in the graveyard inside. If he is up, roll [Flaming Incinerator](https://www.wowhead.com/classic/item=9483/flaming-incinerator), 47.2 dps. It replaces Blackbone Wand until Noxious Shooter.
+
 **Gap turn-ins.** Two wanted posters in Gadgetzan. Skip either one if you cannot pull the named alone.
 
 - [WANTED: Caliph Scorpidsting](https://www.wowhead.com/classic/quest=2781/wanted-caliph-scorpidsting). Turn the head in to Chief Engineer Bilgewhizzle, the same goblin as Divino-matic Rod. Caliph walks the water towers northwest of town, about 60 to 63, 31 to 39. Two stealthed rogues walk with him. Wait until he leaves the camp, then pull.
@@ -645,7 +666,7 @@ Go at **46**. Band **46–55**. Both factions.
 - **Chain.** [Legends of Maraudon](https://www.wowhead.com/classic/quest=7044/legends-of-maraudon) — Cavindra, in the Valley of Spears outside the instance. The follow-up is [The Scepter of Celebras](https://www.wowhead.com/classic/quest=7046/the-scepter-of-celebras), from Celebras the Redeemed inside.
 - **Not a chain until the last boss.** [Corruption of Earth and Seed](https://www.wowhead.com/classic/quest=7066/corruption-of-earth-and-seed) starts from Zaetar's Spirit after Princess Theradras.
 
-Noxxion drops [Noxious Shooter](https://www.wowhead.com/classic/item=17745/noxious-shooter). Rare wand, 50 dps. This is the replacement for Gravestone Scepter.
+Noxxion drops [Noxious Shooter](https://www.wowhead.com/classic/item=17745/noxious-shooter). Rare wand, 50 dps. This replaces Flaming Incinerator, or Blackbone Wand if that rare was not up.
 
 ### 23. Alcaz Prison (48)
 
