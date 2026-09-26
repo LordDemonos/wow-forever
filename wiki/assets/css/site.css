@@ -82,7 +82,7 @@ a:hover { color: var(--link-hover); }
   color: inherit;
   text-decoration: none;
 }
-.crest { width: 36px; height: 36px; flex: none; }
+.crest { width: 42px; height: 42px; flex: none; display: block; }
 .brand-text { display: flex; flex-direction: column; line-height: 1; }
 .brand-kicker {
   color: var(--gold);
