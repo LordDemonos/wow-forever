@@ -96,19 +96,52 @@ a:hover { color: var(--link-hover); }
   font-size: 1.35rem;
   letter-spacing: 0.04em;
 }
-.tabs { display: flex; gap: 0.25rem; }
-.tabs a {
+.tabs { display: flex; align-items: center; gap: 0.25rem; }
+.tabs a, .specs summary {
   color: var(--muted);
   text-decoration: none;
   font-weight: 600;
   padding: 0.35rem 0.75rem;
   border-radius: 999px;
 }
-.tabs a:hover { color: var(--ink); background: var(--bg-panel); }
-.tabs a.is-current {
+.tabs a:hover, .specs summary:hover { color: var(--ink); background: var(--bg-panel); }
+.tabs a.is-current, .specs.is-current > summary {
   color: #1a1408;
   background: var(--gold);
 }
+.specs { position: relative; }
+.specs summary {
+  cursor: pointer;
+  list-style: none;
+}
+.specs summary::-webkit-details-marker { display: none; }
+.specs summary::after {
+  content: "";
+  display: inline-block;
+  margin-left: 0.45rem;
+  border: 4px solid transparent;
+  border-top-color: currentColor;
+  border-bottom: 0;
+  vertical-align: 0.12em;
+}
+.specs[open] > summary::after {
+  border-top: 0;
+  border-bottom: 4px solid currentColor;
+  vertical-align: 0.2em;
+}
+.specs-menu {
+  position: absolute;
+  top: calc(100% + 0.45rem);
+  left: 0;
+  z-index: 2;
+  min-width: 13.5rem;
+  padding: 0.35rem;
+  background: var(--bg-raise);
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  box-shadow: var(--shadow);
+}
+.specs-menu a { display: block; border-radius: 8px; }
 .find { margin-left: auto; }
 .find input {
   width: 220px;
@@ -304,11 +337,12 @@ a:hover { color: var(--link-hover); }
 .talent-calc {
   display: block;
   width: min(1100px, 100%);
-  height: 740px;
+  height: 1060px;
   margin: 0.8rem 0 1.2rem;
   border: 1px solid var(--line);
   border-radius: 10px;
   background: #0e1013;
+  overflow: hidden;
 }
 .article .table-wrap {
   overflow-x: auto;
@@ -480,5 +514,4 @@ a:hover { color: var(--link-hover); }
     padding-right: 0;
   }
   .article { padding-left: 0; }
-  .talent-calc { height: 560px; }
 }

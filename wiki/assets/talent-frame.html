@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<style>.notifications-dialog, .zul-bar { display: none !important; }</style>
+<link rel="stylesheet" href="https://wow.zamimg.com/css/standard/universal.css">
+<link rel="stylesheet" href="https://wow.zamimg.com/css/standard/Components/universal/ZamUiPrimitives.css">
+<link rel="stylesheet" href="https://wow.zamimg.com/css/standard/global.css">
+<link rel="stylesheet" href="https://wow.zamimg.com/css/standard/Components/universal/ZamPrimitivesOverrides.css">
+<link rel="stylesheet" href="https://wow.zamimg.com/css/standard/tools/talent-calc-classic.css">
+<link rel="stylesheet" href="https://wow.zamimg.com/css/standard/Components/universal/Toolbar.css">
+<script>g_user = {id:0,name:"",roles:0,ads:false,canDeleteComments:false};</script>
+<script src="https://wow.zamimg.com/js/3rd-party/jquery.2.1.3.min.js"></script>
+<script src="https://wow.zamimg.com/js/tooltips.js"></script>
+<script src="https://wow.zamimg.com/global-strings/classicplus.enus.js"></script>
+<script src="https://wow.zamimg.com/js/locale/terms/enus.js"></script>
+<script src="https://wow.zamimg.com/js/generated/game-env.js"></script>
+<script src="https://nether.wowhead.com/forever/data/global"></script>
+<script src="https://wow.zamimg.com/js/global-core.js"></script>
+<script src="https://wow.zamimg.com/js/global-tags.js"></script>
+<script src="https://nether.wowhead.com/forever/data/legacy-calculator"></script>
+<script src="https://nether.wowhead.com/forever/data/talents-classic"></script>
+<script src="https://wow.zamimg.com/js/WH/Wow/TalentCalcClassic.js"></script>
+</head>
+<body style="margin:0;background:#0e1013">
+<div class="ctc-parent"></div>
+<script>
+(function () {
+  var FOREVER = 16;
+  var hash = new URLSearchParams(location.search).get("build") || "";
+  if (!/^[a-z0-9]+(?:\/[a-z0-9._~!^-]+){0,2}$/i.test(hash)) return;
+
+  try {
+    WH.PageMeta = Object.assign(WH.PageMeta || {}, {
+      anonymousSubdomain: "nether",
+      dataEnv: {env: FOREVER, tree: FOREVER, maxLevel: 60, versions: {16: "1.60.1"}, active: {}, phases: {16: null}},
+      envDomain: "wowhead.com",
+      staticUrl: "https://wow.zamimg.com",
+      wowhead: true,
+      page: "talent-calc",
+      theme: "standard",
+      logo: "classicplus",
+      dev: false,
+      activeDbChanged: {16: 1},
+      tracking: {groups: {}},
+      restrictedDataEnvs: [],
+      restrictedEntities: []
+    });
+
+    var generate = WH.Url.generate;
+    WH.Url.generate = function (path, options) {
+      var next = Object.assign({}, options || {});
+      next.production = true;
+      return generate.call(WH.Url, path, next);
+    };
+
+    WH.Wow.PlayerClass.getColor = function (id) {
+      var probe = document.createElement("span");
+      probe.className = "c" + id;
+      document.body.appendChild(probe);
+      var color = getComputedStyle(probe).color;
+      probe.remove();
+      var match = String(color).match(/rgba?\((\d+),\s*(\d+),\s*(\d+)/);
+      if (!match) return "#ffffff";
+      return "#" + [match[1], match[2], match[3]].map(function (part) {
+        var hex = parseInt(part, 10).toString(16);
+        return hex.length === 1 ? "0" + hex : hex;
+      }).join("");
+    };
+
+    WH.Tooltips = new Proxy(WH.Tooltips, {
+      get: function (target, prop) {
+        if (prop in target) return target[prop];
+        return function () {};
+      }
+    });
+    WH.React = WH.React || {};
+    if (typeof WH.React.initComponent !== "function") WH.React.initComponent = function () {};
+
+    new WH.Wow.TalentCalcClassic(document.querySelector(".ctc-parent"), {
+      embedded: true,
+      editable: false,
+      abilities: false,
+      iframeEmbed: false,
+      dataEnv: FOREVER,
+      hash: hash
+    });
+
+    var order = document.querySelector(".ctc-main-order");
+    if (order) order.dataset.opened = "1";
+    if (document.querySelector(".ctc-tree")) document.documentElement.dataset.ready = "1";
+  } catch (e) {
+    document.documentElement.dataset.error = String(e && e.stack || e);
+  }
+})();
+</script>
+</body>
+</html>

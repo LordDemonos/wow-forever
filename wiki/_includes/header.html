@@ -8,6 +8,13 @@
       </span>
     </a>
     <nav class="tabs" aria-label="Sections">
+      <details class="specs{% if page.url == '/holy/' or page.url == '/disc/' %} is-current{% endif %}">
+        <summary>Talent specs</summary>
+        <div class="specs-menu">
+          <a class="{% if page.url == '/holy/' %}is-current{% endif %}" href="{{ '/holy/' | relative_url }}">Holy Priest PVE</a>
+          <a class="{% if page.url == '/disc/' %}is-current{% endif %}" href="{{ '/disc/' | relative_url }}">Disc Priest PVE</a>
+        </div>
+      </details>
       <a class="{% if page.layout == 'home' %}is-current{% endif %}" href="{{ '/' | relative_url }}">Guides</a>
       <a class="{% if page.url == '/leveling/' %}is-current{% endif %}" href="{{ '/leveling/' | relative_url }}">Leveling</a>
       <a class="{% if page.url == '/healing/' %}is-current{% endif %}" href="{{ '/healing/' | relative_url }}">Healing</a>

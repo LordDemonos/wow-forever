@@ -21,7 +21,7 @@ kicker: Undead Priest
 
 **Shadow 0.**
 
-**Talents.** Classic kept one spec. The priest trainer in Undercity wipes the tree. The first wipe is 1 gold, the next is 5, then it climbs by 5 gold up to 50. Leave it alone and it falls by 5 gold a month, down to 15. A second saved spec is the Wrath feature: level 40, 1,000 gold, then free swaps. Forever has not announced that. Use this tree until a dungeon build is worth a wipe. Which heal rank to cast is in the [healing guide]({{ '/healing/' | relative_url }}).
+**Talents.** Classic kept one spec. The priest trainer in Undercity wipes the tree. The first wipe is 1 gold, the next is 5, then it climbs by 5 gold up to 50. Leave it alone and it falls by 5 gold a month, down to 15. A second saved spec is the Wrath feature: level 40, 1,000 gold, then free swaps. Forever has not announced that. Use this tree until a dungeon build is worth a wipe. Holy and Discipline at 60 are [Holy Priest PVE]({{ '/holy/' | relative_url }}) and [Disc Priest PVE]({{ '/disc/' | relative_url }}). Which heal rank to cast is in the [healing guide]({{ '/healing/' | relative_url }}).
 
 ## Notes from beta
 
