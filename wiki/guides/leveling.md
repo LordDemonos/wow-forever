@@ -1,11 +1,11 @@
 ---
 layout: guide
-title: Undead Caster Leveling Guide
+title: Undead Priest Leveling Guide
 permalink: /leveling/
 kicker: Undead Priest
 ---
 
-# Undead Caster Leveling Guide
+# Undead Priest Leveling Guide
 
 **Main character:** Undead Priest, Horde. Starts in Tirisfal Glades. The notes and leveling guide below are for this character.
 

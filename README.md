@@ -1,6 +1,6 @@
 # Forever
 
-Personal priest guides and talent specs for [WoW Forever](https://lorddemonos.github.io/wow-forever/).
+Personal healer guides and talent specs for [WoW Forever](https://lorddemonos.github.io/wow-forever/).
 
 The site is a place to keep what stuck from playing: which dungeons to run, which heal rank to cast, and which talent tree to use at 60. It is written to be scanned, and it is not trying to be a full database.
 
