@@ -80,7 +80,7 @@ Four boosts. Start the food at level 5. The sleeping bag is the detour after Rui
 
 The food and the rested bar add to kill experience. They do not add to quest turn-ins. Dungeon kills are already reduced, so the food is a small bonus on those and on anything you kill outdoors. The sleeping bag is the one described as bonus experience in general, so it is the one that still matters when most of your experience is dungeon quests.
 
-1. **Sleeping bag.** After Ruins of Lordaeron, before Wailing Caverns. The detour is below. Stand on it outdoors and do not move. 1% per minute, up to 3%. Forever lists a 1-hour cooldown. Logging out while you are asleep on it has counted as an inn, so the rested bar fills without hearthing. The chain also gives Student Fodder, food that grants rested experience. That fodder is the fourth boost. Eat it when you are about to kill things, not when you are only turning quests in.
+1. **Sleeping bag.** After Ruins of Lordaeron, before Wailing Caverns. The detour is below. Stand on it outdoors and do not move. 1% per minute, up to 3%. Forever lists a 1-hour cooldown. Logging out while you are asleep on it has counted as an inn, so the rested bar fills without hearthing. The chain also gives [Student Fodder](https://www.wowhead.com/classic/item=216619/student-fodder), food that grants rested experience. That fodder is the fourth boost. Eat it when you are about to kill things, not when you are only turning quests in.
 2. **Cooked food.** Blizzard said almost all crafted food adds a small experience buff on top of its stat, and that the buff is experience from kills. One demo dish was 5% from kills, gained by sitting still and eating for 10 seconds, lasting about 15 minutes. That 5% is the example, not a confirmed number on every recipe. Cheap fish still counts. There is no level cap on the buff, so the same low food works at 60.
 3. **Well Rested.** One Legacy point buys one rank: rested experience fills 4% faster, and the cap is 4% higher. Five ranks is 20%, and that takes five points. It does not add 4% to a kill by itself. It stores more of the rested bar, and rested doubles kill experience until the bar is empty. You cannot spend it until the Legacy window unlocks. The first point is level 25, or 150 skill in a non-gathering primary profession, or exploring the whole world. Herbalism does not count. Cooking does not count. Alchemy does, and so do the warlock's Tailoring and Enchanting, but pushing any of those to 150 is slower than letting the priest reach 25. On this route that is around Shadowfang Keep and Blackfathom Deeps. One rank is all you get from that level. Later points are level 45, level 60, profession 150, and clearing the early dungeon set.
 
@@ -249,9 +249,9 @@ After Ruins of Lordaeron. Before Wailing Caverns. Horde starts in the Barrens. Y
 
 This is a scavenger hunt, not a dungeon. The clicks are objects on the ground, not NPCs. Do them in this order. Horde cannot see the Westfall click until the Barrens click is done.
 
-The reward is the [Cozy Sleeping Bag](https://www.wowhead.com/forever/news/cozy-sleeping-bag-is-back-in-wow-forever-383000). The Season of Discovery walkthrough is [here](https://www.wowhead.com/classic/guide/season-of-discovery/cozy-sleeping-bag-experience-buff). The photos below are from that walkthrough. Hover a photo link to see it. Click it to open the file.
+The reward is the [Cozy Sleeping Bag](https://www.wowhead.com/classic/item=211527/cozy-sleeping-bag). The Season of Discovery walkthrough is [here](https://www.wowhead.com/classic/guide/season-of-discovery/cozy-sleeping-bag-experience-buff). The photos below are from that walkthrough. Hover a photo link to see it. Click it to open the file.
 
-Use the bag outside a city. It unfurls on the ground and is not clicked again. Walk onto it and do not move. Moving wakes you. You gain 1% bonus experience per minute, up to 3%. Forever lists a 1-hour cooldown. In Season of Discovery the buff lasted 2 hours. Logging out while you are asleep on it has counted as an inn for rested experience. <a class="shot" target="_blank" rel="noopener" href="{{ '/assets/sleeping-bag/sleeping.jpg' | relative_url }}">Photo of sleeping on it</a>. Along the way you also get a 12-slot bag and Student Fodder, which is food that grants rested experience.
+Use the bag outside a city. It unfurls on the ground and is not clicked again. Walk onto it and do not move. Moving wakes you. You gain 1% bonus experience per minute, up to 3%. Forever lists a 1-hour cooldown. In Season of Discovery the buff lasted 2 hours. Logging out while you are asleep on it has counted as an inn for rested experience. <a class="shot" target="_blank" rel="noopener" href="{{ '/assets/sleeping-bag/sleeping.jpg' | relative_url }}">Photo of sleeping on it</a>. On your journey you will also earn a 12-slot bag, the [Sturdy Lunchbox](https://www.wowhead.com/classic/item=221498/sturdy-lunchbox), and some trail mix that gives you a good chunk of rested experience, [Student Fodder](https://www.wowhead.com/classic/item=216619/student-fodder).
 
 You will be low for Duskwood, the Wetlands, Hillsbrad, and Arathi. Stay on the road. Do not fight. Sentinel Hill, Menethil Harbor, and Thelsamar are Alliance towns.
 
@@ -275,7 +275,7 @@ Click the Burned-Out Remains in the wreckage of a cart at Alexston Farmstead, no
 
 **From Westfall:** Run the same road backward. East into Duskwood, south through Stranglethorn to Booty Bay, boat to Ratchet. From the Crossroads, take the west road. It enters Stonetalon through the mountains on the Barrens' west edge. Sun Rock Retreat is the Horde camp once you are in. On the road north of that camp, as you leave the Webwinder Path, a path on the left leads to the camp. The litter is on a crate by a tent.
 
-Turn-in gives Flint and Tinder, 3 Simple Wood, and the Sturdy Lunchbox, a 12-slot bag. Forever may also offer an Old Toolbox as the other bag choice. The weapon or tool choice is not for a priest.
+Turn-in gives Flint and Tinder, 3 Simple Wood, and the [Sturdy Lunchbox](https://www.wowhead.com/classic/item=221498/sturdy-lunchbox), a 12-slot bag. Forever may also offer an Old Toolbox as the other bag choice. The weapon or tool choice is not for a priest.
 
 **Optional, same camp.** [Rekindle](https://www.wowhead.com/classic/quest=80001/rekindle) is the campfire in the middle. Use the flint and the wood you just got. You can skip it. <a class="shot" target="_blank" rel="noopener" href="{{ '/assets/sleeping-bag/stonetalon-fire.jpg' | relative_url }}">Photo of the campfire</a>.
 
@@ -285,7 +285,7 @@ Accept [Scramble](https://www.wowhead.com/classic/quest=79980/scramble).
 
 **Where:** A Mound of Dirt, still in Stonetalon, about 39.6, 49.8. From the camp, go straight north up the hill. From the edge you can see the mound on the ledge below. It is a short jump, not a new zone. <a class="shot" target="_blank" rel="noopener" href="{{ '/assets/sleeping-bag/stonetalon-mound.jpg' | relative_url }}">Photo of the jump</a>.
 
-Accept [Wet Job](https://www.wowhead.com/classic/quest=79974/wet-job). This step is where the Student Fodder starts. Season of Discovery gave 3 here. The bow and gun choices are not for a priest.
+Accept [Wet Job](https://www.wowhead.com/classic/quest=79974/wet-job). This step is where the [Student Fodder](https://www.wowhead.com/classic/item=216619/student-fodder) starts. Season of Discovery gave 3 here. The bow and gun choices are not for a priest.
 
 #### 5. [Wet Job](https://www.wowhead.com/classic/quest=79974/wet-job)
 
@@ -307,7 +307,7 @@ Accept [Eagle's Fist](https://www.wowhead.com/classic/quest=79975/eagles-fist). 
 
 **From the dam:** Back east into the Wetlands, north across the Thandol Span into Arathi, north to the wall. On the Hillsbrad side, go north along the wall from the gate until the fallen cart. Climb the cart onto the wall, through the room, and out the far side. A Messenger Bag hangs outside on the right. Click it to finish Eagle's Fist and accept This Must Be The Place. The Hastily Rolled-Up Satchel is on the ground under the bag. Click that. <a class="shot" target="_blank" rel="noopener" href="{{ '/assets/sleeping-bag/thoradin-bag.jpg' | relative_url }}">Photo of the bag and the satchel</a>.
 
-You receive the Cozy Sleeping Bag and 5 Student Fodder.
+You receive the [Cozy Sleeping Bag](https://www.wowhead.com/classic/item=211527/cozy-sleeping-bag) and 5 [Student Fodder](https://www.wowhead.com/classic/item=216619/student-fodder).
 
 You finish on the Hillsbrad side of Thoradin's Wall. Zeppelin from Tirisfal, or the boat from Booty Bay, back to the Barrens. Wailing Caverns is next. If you are short of 17, do the gap section below first.
 
