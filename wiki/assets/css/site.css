@@ -359,6 +359,55 @@ a:hover { color: var(--link-hover); }
 }
 .article a[href*="wowforevertalents.com"]:hover { background: rgba(226, 197, 106, 0.18); color: #fff4cc; }
 
+.article h3.is-horde,
+.article h3.is-alliance,
+.article h3.is-both { padding-left: 0.5rem; }
+.article h3.is-horde { border-left: 3px solid #b55249; }
+.article h3.is-alliance { border-left: 3px solid #3d7dcc; color: #d6e6ff; }
+.article h3.is-both { border-left: 3px solid var(--gold-dim); }
+.article h4 {
+  margin: 1.15rem 0 0.35rem;
+  font-size: 0.92rem;
+}
+.article h4.is-horde {
+  color: #ff8f86;
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+.faction {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.22rem;
+  font-weight: 700;
+  white-space: nowrap;
+  vertical-align: baseline;
+}
+.faction-horde { color: #ff8f86; }
+.faction-alliance { color: #9ec9ff; }
+.faction-both { color: #f0e2b0; }
+.faction-mark {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.12rem;
+  margin-right: 0.35rem;
+  vertical-align: -0.15em;
+}
+.faction-icon { width: 1rem; height: 1rem; display: block; }
+.article .note-alliance {
+  padding: 0.25rem 0.6rem 0.25rem 0.5rem;
+  border-left: 3px solid #3d7dcc;
+  border-radius: 0 8px 8px 0;
+  background: rgba(61, 125, 204, 0.12);
+  color: #d7e6fb;
+}
+.article li.note-alliance { margin-left: -0.15rem; }
+.article .note-alliance strong { color: #f4f8ff; }
+.toc-h3.is-horde > a { box-shadow: inset 3px 0 0 #b55249; }
+.toc-h3.is-alliance > a { box-shadow: inset 3px 0 0 #3d7dcc; }
+.toc-h3.is-both > a { box-shadow: inset 3px 0 0 #a6863c; }
+
 .colophon {
   max-width: 1180px;
   margin: 0 auto;
