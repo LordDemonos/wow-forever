@@ -1,11 +1,11 @@
 ---
 layout: guide
-title: Leveling
+title: Undead Caster Leveling Guide
 permalink: /leveling/
 kicker: Undead Priest
 ---
 
-# WoW Forever
+# Undead Caster Leveling Guide
 
 **Main character:** Undead Priest, Horde. Starts in Tirisfal Glades. The notes and leveling guide below are for this character.
 
@@ -30,33 +30,16 @@ kicker: Undead Priest
 - New spell ranks do not update the action bar. Open the spellbook (P) and drag the new rank onto the bar.
 - AMD driver issue: set Secondary Lighting to Fair.
 
-### Combat
-
-- Wands are strong. Get one as soon as you can; a dungeon drop is fine. They do not need channeling and they are fast. Take the wand talent first. The level 5 warlock detour mails you the first one.
-
-### Bags, herbs, and cooking
+### Herbs
 
 - Turn on Herbalism tracking from Professions (P).
 - Peacebloom makes Minor Arcane Elixir (+5 spell damage).
-- Save Stringy Wolf Meat and cook it. Cooking also makes campfires. Darkhounds drop the meat. The food that adds kill experience is in Bonus experience, below.
-- Buy bags early. Space runs out fast. Get one reagent bag.
-- The bag, the campfire, and the herbalism book are the three quests in Levels 1–13.
-- Two fish recipes are sold on the road outside Undercity. [Martine Tramblay](https://www.wowhead.com/classic/npc=3550/martine-tramblay), fishing supplies. Slitherskin Mackerel is the one to cook first. Rainbow Fin Albacore waits until cooking 50.
-- Train Staves in Orgrimmar, in the back by the blacksmith. Do it on the Ragefire trip, before Shadowfang Keep.
 
 ### Mount
 
 **Forever.** The gold is in the riding training, not in a separate horse. [Designers said](https://www.wowhead.com/forever/news/official-controller-supports-training-mount-skill-costs-sportskeeda-interview-on-382963) it costs 100 gold, or 1,000 gold for the faster tier, and the first mount comes with the skill. For this character that is a skeletal horse. Do not also buy one from the vendor. In Classic the Undead trainer stood in Brill, the 100 gold tier was level 40, and the 1,000 gold tier was level 60. Those levels were not restated. Save the 100 gold before Krol'dok.
 
-### Weapon path
-
-1. **Mug of Muddled Memories** at Bandarion Keep, northwest Tirisfal (Whispering Wood). A quest sends you there.
-2. **Trogg Scepter** from Ragefire Chasm. +33 healing.
-3. Then a Ruins of Lordaeron (RoL) quest reward.
-
 ### Wands
-
-Ranged slot. These do not replace the main-hand path above. **Classic.** Forever has not published different versions of these.
 
 Leave the warlock at the first wand. A level 5 can train Enchanting to 75, and the only other recipe inside that cap is Greater Magic Wand, 17.5 dps. Sizzle Stick matches it, and [Cookie](https://www.wowhead.com/classic/npc=645/cookie) beats it. The mystic wands need the warlock at 20, and neither beats Gravestone Scepter.
 
@@ -74,22 +57,11 @@ Leave the warlock at the first wand. A level 5 can train Enchanting to 75, and t
 12. **[Bonecreeper Stylus](https://www.wowhead.com/classic/item=13938/bonecreeper-stylus).** [Darkmaster Gandling](https://www.wowhead.com/classic/npc=1853/darkmaster-gandling), Scholomance. Rare. 83–155 Arcane, 62.6 dps, and +11 damage and healing. Requires 57. This is the healer wand.
 13. **[Skul's Ghastly Touch](https://www.wowhead.com/classic/item=13396/skuls-ghastly-touch).** [Skul](https://www.wowhead.com/classic/npc=10393/skul), a rare in the live side of Stratholme. Rare. +14 shadow damage, not healing. Requires 52. Roll it if he is up. Bonecreeper is the one that also adds to heals.
 
-### Quests to grab
-
-- **The Family Crypt** — north, by the windmills. A lot of Peacebloom out there.
-- **Hidden Enemies** cave also has a quest that starts from a drop.
-- **Ragefire Chasm:** 2 quests in Orgrimmar, 2 in Thunder Bluff, 1 in the Undercity Apothecary.
-- **Sleeping bag** quest starts in the Barrens, south of Camp Taurajo. The full Horde route is in the leveling guide, after Ruins of Lordaeron.
-
 ---
 
 ## Leveling guide
 
-Undead Priest, Horde, healing. Dungeons are the plan from 14 to 60.
-
 Dungeon quests are the experience. Kills inside a dungeon give reduced experience, so pick up every Horde quest for the run before the group zones in. Clear those, then leave for the next dungeon once you are in its band. Each dungeon also awards account-wide Legacy Points.
-
-You are the healer. The time spent is forming the group and grabbing quests, then one run.
 
 **How to read a stop**
 
@@ -142,6 +114,8 @@ Quest Tirisfal. It is a straight line from Deathknell to Brill and then around t
 
 Alchemy is not in that choice. Train it from [Carolai Anise](https://www.wowhead.com/classic/npc=2132/carolai-anise) in Brill. She stands next to [Faruza](https://www.wowhead.com/classic/npc=2114/faruza), the herbalism trainer, about 59.8, 52. [Faruza](https://www.wowhead.com/classic/npc=2114/faruza) trains the higher herbalism ranks after the book.
 
+Buy bags once Herbalism is trained. Space runs out fast. Get one reagent bag.
+
 #### Campfire: The Great Outdoors
 
 **Beta.** Around level 5, on the road from Deathknell to Brill. The published writeups do not name the giver. They are standing at a campfire.
@@ -154,7 +128,7 @@ Alchemy is not in that choice. Train it from [Carolai Anise](https://www.wowhead
 
 **Who:** [Deathguard Bartholomew](https://www.wowhead.com/classic/npc=1742/deathguard-bartholomew), in Brill. Turn it in to Eleanor Shackleton, at the white tent in the hills west of Brill.
 
-**What:** He gives you a Collecting Basket. Loot 6 Dry Branches from the ground at the base of trees southwest of Brill. A cluster sits around 55.4, 55.5. They blend into the dirt. Sweep the mouse until the cursor turns into a gear. They respawn in about 30 seconds, so one cluster is enough. Decrepit Darkhounds patrol those trees. They drop the Stringy Wolf Meat.
+**What:** He gives you a Collecting Basket. Loot 6 Dry Branches from the ground at the base of trees southwest of Brill. A cluster sits around 55.4, 55.5. They blend into the dirt. Sweep the mouse until the cursor turns into a gear. They respawn in about 30 seconds, so one cluster is enough. Decrepit Darkhounds patrol those trees. They drop Stringy Wolf Meat. Save it and cook it on the campfire. The food that adds kill experience is in Bonus experience, above.
 
 **Reward:** The Collecting Basket stays as your bag.
 
@@ -176,7 +150,7 @@ A white apprentice crate has been paying 5 [Merchant's Favor](https://www.wowhea
 
 When the priest hits 5, stop and make an Undead warlock. Get that warlock to 5, craft a [Lesser Magic Wand](https://www.wowhead.com/classic/item=11287/lesser-magic-wand), mail it to the priest, and leave the warlock at the Undercity bank.
 
-The wand is the priest's ranged slot. It does not replace the main-hand path. It is 12–22 Arcane, 1.50 speed. On the priest, train Wands from the priest trainer if you have not already, and drag **Shoot** out of the spellbook's General tab onto the bar.
+The wand is the ranged slot. It is 12–22 Arcane, 1.50 speed. On the priest, train Wands from the priest trainer if you have not already, and drag **Shoot** out of the spellbook's General tab onto the bar.
 
 **Classic.** Forever has not published a different early wand. Do not take Wild Harvest on the warlock. Tailoring and Enchanting are both primary professions, and the book would spend one of those slots.
 
@@ -190,6 +164,23 @@ The wand is the priest's ranged slot. It does not replace the main-hand path. It
 8. Buy 1 Copper Rod from an engineering supplier, and 1 Simple Wood from a trade goods vendor. At Enchanting 1, craft a [Runed Copper Rod](https://www.wowhead.com/classic/item=6218/runed-copper-rod): the rod, the dust, and 1 essence. The rod stays in your bags. It is the tool, and it is not used up by the wand.
 9. At Enchanting 10, learn [Lesser Magic Wand](https://www.wowhead.com/classic/spell=14293/lesser-magic-wand) from [Lavinia](https://www.wowhead.com/classic/npc=4616/lavinia-crowe). Craft it with the rod in your bags, 1 Simple Wood, and the other essence.
 10. Mail the wand to the priest. It is bind on equip. Leave the warlock at the bank in the Trade Quarter. The mailbox is beside it. That character is the bank mule from here on. Do not grind Enchanting any higher for a wand. The next recipes lose to the dungeon path under Wands.
+
+#### Before the dungeons: [Leonid's Letter](https://www.wowhead.com/forever/quest=98545/leonids-letter)
+
+**Beta.** Requires 10. The quests are level 13. Do this in Tirisfal once you are 10, before Ragefire Chasm.
+
+**Chain.** [The Argent Emissary](https://www.wowhead.com/forever/quest=96895/the-argent-emissary) — [Deathguard Terrence](https://www.wowhead.com/classic/npc=1738/deathguard-terrence), Brill, about 61, 53. He sends you southeast to [Hadric Harlson](https://www.wowhead.com/forever/npc=267009/hadric-harlson), about 66, 61, where the road runs toward Undercity.
+
+Hadric gives two quests on the same cultists, south of him, about 67 to 70, 63 to 67.
+
+- [The Cult of the Damned](https://www.wowhead.com/forever/quest=96897/the-cult-of-the-damned). Kill 8 Dark Neophytes and 8 Dark Enforcers.
+- [Remnants of War](https://www.wowhead.com/forever/quest=96898/remnants-of-war). 12 Necrotic Crystal Fragments from those same cultists.
+
+Turn both in to Hadric, then take [Bandarion Keep](https://www.wowhead.com/forever/quest=96899/bandarion-keep) from him. [Leonid Barthalomew the Revered](https://www.wowhead.com/forever/npc=267008/leonid-barthalomew-the-revered) is at the keep, northwest Tirisfal, in the Whispering Wood, about 22, 45.
+
+[A Righteous Cause](https://www.wowhead.com/forever/quest=96896/a-righteous-cause) is the conversation between Leonid and Danitha Morr at the keep. Turn it in to Leonid.
+
+He gives [Leonid's Letter](https://www.wowhead.com/forever/quest=98545/leonids-letter). Carry the Sealed Letter to [Glix Xizzix](https://www.wowhead.com/forever/npc=272526/glix-xizzix), Trade Quarter, Undercity, about 70, 47. Caster choice is [Mug of Muddled Memories](https://www.wowhead.com/forever/item=277247/mug-of-muddled-memories). Not Tim's Lost Rib or the Misplaced Shooter.
 
 ### Levels 14–60
 
@@ -209,7 +200,7 @@ Go at **14**. Band **13–18**. Horde.
 
 #### Horde quests
 
-**Beta.** This is the 2 Orgrimmar, 2 Thunder Bluff, 1 Undercity count from your notes. One more starts inside.
+**Beta.** Two start in Orgrimmar, two in Thunder Bluff, and one in the Undercity. One more starts inside.
 
 - **Standalone.** [Slaying the Beast](https://www.wowhead.com/classic/quest=5761/slaying-the-beast) — [Neeru Fireblade](https://www.wowhead.com/classic/npc=3216/neeru-fireblade), Cleft of Shadow, Orgrimmar, beside the entrance. Kill [Taragaman the Hungerer](https://www.wowhead.com/classic/npc=11520/taragaman-the-hungerer). Turn in to [Neeru](https://www.wowhead.com/classic/npc=3216/neeru-fireblade).
 - **Standalone.** [Testing an Enemy's Strength](https://www.wowhead.com/classic/quest=5723/testing-an-enemys-strength) — [Rahauro](https://www.wowhead.com/classic/npc=11833/rahauro), Elder Rise, Thunder Bluff.
@@ -248,7 +239,7 @@ The ruined city of Lordaeron, above the [Undercity](https://www.wowhead.com/clas
 **Beta.** Six quests. Pick up the four outside ones before you zone in. Two start from loot and cannot be shared.
 
 - **Standalone.** [The Wrath of Rath'mael](https://www.wowhead.com/forever/quest=92422/the-wrath-of-rathmael) — Deathguard Kristof, southeast of Brill, Tirisfal Glades. Kill Rath'mael. Caster choice is Gnarled Necromancer's Staff.
-- **Standalone.** [Light's Justice](https://www.wowhead.com/forever/quest=92421/lights-justice) — Morbin Lightbane, Royal Quarter, Undercity, near [Sylvanas](https://www.wowhead.com/classic/npc=10181/lady-sylvanas-windrunner). Collect 25 Intact Limbs. This is the RoL weapon step after the Trogg Scepter. Choose The Stitcher.
+- **Standalone.** [Light's Justice](https://www.wowhead.com/forever/quest=92421/lights-justice) — Morbin Lightbane, Royal Quarter, Undercity, near [Sylvanas](https://www.wowhead.com/classic/npc=10181/lady-sylvanas-windrunner). Collect 25 Intact Limbs. Caster choice is The Stitcher.
 - **Standalone.** [A Frightened Request](https://www.wowhead.com/forever/quest=92401/a-frightened-request) — Tabitha Heartweaver, the graveyard at the Sepulcher, Silverpine Forest. Investigate Edward Heartweaver inside. Cloth choice is Tabitha's Cuffs.
 - **Standalone.** [The New Plague](https://www.wowhead.com/forever/quest=95216/the-new-plague) — [Theodore Griffs](https://www.wowhead.com/classic/npc=11835/theodore-griffs), the Apothecarium, Undercity. Kill Witherfang for the Highly Toxic Strain. Cloth choice is Blight Gloves.
 - **Not a chain.** [Crest of Lordaeron](https://www.wowhead.com/forever/quest=95204/crest-of-lordaeron) starts from the crest inside. It moves between side rooms. Loot your own. Turn in to [Oran Snakewrithe](https://www.wowhead.com/classic/npc=7825/oran-snakewrithe), Undercity.
