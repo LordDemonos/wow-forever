@@ -36,13 +36,13 @@ kicker: Undead Priest
 
 ### Wands
 
-Leave the warlock at the first wand. A level 5 can train Enchanting to 75, and the only other recipe inside that cap is Greater Magic Wand, 17.5 dps. Sizzle Stick matches it, and [Cookie](https://www.wowhead.com/classic/npc=645/cookie) beats it. The mystic wands need the warlock at 20, and neither beats Gravestone Scepter.
+Leave the warlock at the first wand. A level 5 can train Enchanting to 75, and the only other recipe inside that cap is [Greater Magic Wand](https://www.wowhead.com/classic/item=11288/greater-magic-wand), 17.5 dps. Sizzle Stick matches it, and [Cookie](https://www.wowhead.com/classic/npc=645/cookie) beats it. The mystic wands need the warlock at 20, and neither beats Gravestone Scepter.
 
 1. **[Lesser Magic Wand](https://www.wowhead.com/classic/item=11287/lesser-magic-wand).** The level 5 warlock. Green. 12–22 Arcane, 11.3 dps. This is the starting wand, so you are not waiting on a drop.
-2. **[Sizzle Stick](https://www.wowhead.com/classic/item=8071/sizzle-stick).** Wailing Caverns quest, Deviate Eradication. Green. 21–39 Fire, 17.6 dps. Take the wand, not the belt pattern or the gloves.
+2. **[Sizzle Stick](https://www.wowhead.com/classic/item=8071/sizzle-stick).** Wailing Caverns quest, Deviate Eradication. Green. 21–39 Fire, 17.6 dps. Take the wand, not the [Pattern: Deviate Scale Belt](https://www.wowhead.com/classic/item=6476/pattern-deviate-scale-belt) or the [Dagmire Gauntlets](https://www.wowhead.com/classic/item=6481/dagmire-gauntlets).
 3. **[Firebelcher](https://www.wowhead.com/classic/item=5243/firebelcher).** [Deviate Faerie Dragon](https://www.wowhead.com/classic/npc=5912/deviate-faerie-dragon), a rare in Wailing Caverns. Rare. 24–45 Fire, 20.3 dps. Roll it if he is up. It replaces Sizzle Stick until [Cookie](https://www.wowhead.com/classic/npc=645/cookie).
 4. **[Cookie's Stirring Rod](https://www.wowhead.com/classic/item=5198/cookies-stirring-rod).** [Cookie](https://www.wowhead.com/classic/npc=645/cookie), on the Deadmines ship. Green. 20–38 Arcane, 22.3 dps. Better than Sizzle Stick and Firebelcher.
-5. **[Gravestone Scepter](https://www.wowhead.com/classic/item=7001/gravestone-scepter).** Blackfathom Villainy. Rare. 30–57 Shadow, 29 dps. Take the wand, not the shield. It holds until the Graveyard rare, or the level 41 vendor wand.
+5. **[Gravestone Scepter](https://www.wowhead.com/classic/item=7001/gravestone-scepter).** Blackfathom Villainy. Rare. 30–57 Shadow, 29 dps. Take the wand, not the [Arctic Buckler](https://www.wowhead.com/classic/item=7002/arctic-buckler). It holds until the Graveyard rare, or the level 41 vendor wand.
 6. **[Necrotic Wand](https://www.wowhead.com/classic/item=7708/necrotic-wand).** [Azshir the Sleepless](https://www.wowhead.com/classic/npc=6490/azshir-the-sleepless), a rare in the Scarlet Monastery graveyard. Rare. 32–61 Shadow, 33.2 dps. Only one of the three rares is up. Roll it if Azshir is the one.
 7. **[Blackbone Wand](https://www.wowhead.com/classic/item=5239/blackbone-wand).** Buy it at 41 from [Katis](https://www.wowhead.com/classic/npc=5816/katis) in Orgrimmar or [Zane Bradford](https://www.wowhead.com/classic/npc=5754/zane-bradford) in the Undercity. 39–74 Shadow, 35.3 dps. Under 4 gold. It replaces Gravestone and Necrotic Wand.
 8. **[Flaming Incinerator](https://www.wowhead.com/classic/item=9483/flaming-incinerator).** [Sandarr Dunereaver](https://www.wowhead.com/classic/npc=10080/sandarr-dunereaver), a rare in the Zul'Farrak graveyard. Rare. 59–111 Fire, 47.2 dps. Roll it if he is up. It replaces Blackbone until Noxious Shooter.
@@ -86,13 +86,13 @@ The food and the rested bar add to kill experience. They do not add to quest tur
 
 **How to cook the food.** Fishing, not hunting. After 14 you are not killing for meat.
 
-At level 5, when The Great Outdoors sends you to train Cooking, also train Fishing. [Clyde Kellen](https://www.wowhead.com/classic/npc=5690/clyde-kellen) is on the southwest shore of Brightwater Lake, about 67, 51. Buy a pole from him. The cooking trainer teaches Brilliant Smallfish and Charred Wolf Meat at skill 1. Cook the darkhound meat you already save. Fish the lake and Stillwater Pond, south of Brill, for Raw Brilliant Smallfish, and cook those.
+At level 5, when The Great Outdoors sends you to train Cooking, also train Fishing. [Clyde Kellen](https://www.wowhead.com/classic/npc=5690/clyde-kellen) is on the southwest shore of Brightwater Lake, about 67, 51. Buy a pole from him. The cooking trainer teaches [Brilliant Smallfish](https://www.wowhead.com/classic/item=6290/brilliant-smallfish) and [Charred Wolf Meat](https://www.wowhead.com/classic/item=2679/charred-wolf-meat) at skill 1. Cook the darkhound meat you already save. Fish the lake and Stillwater Pond, south of Brill, for [Raw Brilliant Smallfish](https://www.wowhead.com/classic/item=6291/raw-brilliant-smallfish), and cook those.
 
-Tirisfal water also throws a lot of Sickly Looking Fish. Those do not cook. Vendor them. On the road outside Undercity, buy Recipe: Slitherskin Mackerel from [Martine Tramblay](https://www.wowhead.com/classic/npc=3550/martine-tramblay) and cook any mackerel you hook. The coast is where that fish actually shows up. The north coast of Tirisfal works, and so does the Durotar coast when you go there for Ragefire Chasm. [Zansoa](https://www.wowhead.com/classic/npc=5942/zansoa) in Sen'jin Village sells the same recipe if you missed [Martine](https://www.wowhead.com/classic/npc=3550/martine-tramblay).
+Tirisfal water also throws a lot of [Sickly Looking Fish](https://www.wowhead.com/classic/item=6299/sickly-looking-fish). Those do not cook. Vendor them. On the road outside Undercity, buy [Recipe: Slitherskin Mackerel](https://www.wowhead.com/classic/item=6326/recipe-slitherskin-mackerel) from [Martine Tramblay](https://www.wowhead.com/classic/npc=3550/martine-tramblay) and cook any mackerel you hook. The coast is where that fish actually shows up. The north coast of Tirisfal works, and so does the Durotar coast when you go there for Ragefire Chasm. [Zansoa](https://www.wowhead.com/classic/npc=5942/zansoa) in Sen'jin Village sells the same recipe if you missed [Martine](https://www.wowhead.com/classic/npc=3550/martine-tramblay).
 
 Sit and eat for 10 seconds before a dungeon or any fight. Keep a stack on you. When a recipe turns gray it still makes food, so you do not need to chase cooking skill for the buff. Park extra fish on the warlock.
 
-Rainbow Fin Albacore is the second recipe on that vendor. It needs cooking 50. Ignore it until the cheap fish is trivial and you want the skill.
+[Recipe: Rainbow Fin Albacore](https://www.wowhead.com/classic/item=6368/recipe-rainbow-fin-albacore) is the second recipe on that vendor. It needs cooking 50. Ignore it until the cheap fish is trivial and you want the skill.
 
 ### Levels 1–13
 
@@ -106,7 +106,7 @@ Quest Tirisfal. It is a straight line from Deathknell to Brill and then around t
 
 **What:** Kill [Samuel Fipps](https://www.wowhead.com/classic/npc=1919/samuel-fipps) at the ruined camp on the road northeast of Deathknell. Loot Samuel's Remains. Bury them at Marla's Grave, first row of the Deathknell cemetery, near the gate. Go back to [Elreth](https://www.wowhead.com/classic/npc=1661/novice-elreth).
 
-**Reward:** One of three books. Take **Wild Harvest**. It teaches Herbalism and starts you at 2 skill. Mining for Dummies and Pelt Collecting for Beginners are the other two. You only get one. Turn on Herbalism tracking from Professions (P).
+**Reward:** One of three books. Take **[Wild Harvest](https://www.wowhead.com/forever/item=247841/wild-harvest)**. It teaches Herbalism and starts you at 2 skill. [Mining for Dummies](https://www.wowhead.com/forever/item=247840/mining-for-dummies) and [Pelt Collecting for Beginners](https://www.wowhead.com/forever/item=247846/pelt-collecting-for-beginners) are the other two. You only get one. Turn on Herbalism tracking from Professions (P).
 
 Alchemy is not in that choice. Train it from [Carolai Anise](https://www.wowhead.com/classic/npc=2132/carolai-anise) in Brill. She stands next to [Faruza](https://www.wowhead.com/classic/npc=2114/faruza), the herbalism trainer, about 59.8, 52. [Faruza](https://www.wowhead.com/classic/npc=2114/faruza) trains the higher herbalism ranks after the book.
 
@@ -116,7 +116,7 @@ Buy bags once Herbalism is trained. Space runs out fast. Get one reagent bag.
 
 **Beta.** Around level 5, on the road from Deathknell to Brill. The published writeups do not name the giver. They are standing at a campfire.
 
-**What:** Sit at that campfire until the timer finishes. The follow-up sends you to train Cooking. Learning Cooking teaches the Basic Campfire. The trainer sells Simple Wood and Flint and Tinder. The fire is one Simple Wood, with the flint in your bags. That is how you cook the Darkhound meat in the field. Train Fishing the same day. The food is in Bonus experience, above.
+**What:** Sit at that campfire until the timer finishes. The follow-up sends you to train Cooking. Learning Cooking teaches the Basic Campfire. The trainer sells [Simple Wood](https://www.wowhead.com/classic/item=4470/simple-wood) and [Flint and Tinder](https://www.wowhead.com/classic/item=4471/flint-and-tinder). The fire is one Simple Wood, with the flint in your bags. That is how you cook the Darkhound meat in the field. Train Fishing the same day. The food is in Bonus experience, above.
 
 #### Bag: [Sticks and Bones](https://www.wowhead.com/forever/quest=86784/sticks-and-bones)
 
@@ -124,9 +124,9 @@ Buy bags once Herbalism is trained. Space runs out fast. Get one reagent bag.
 
 **Who:** [Deathguard Bartholomew](https://www.wowhead.com/classic/npc=1742/deathguard-bartholomew), in Brill. Turn it in to Eleanor Shackleton, at the white tent in the hills west of Brill.
 
-**What:** He gives you a Collecting Basket. Loot 6 Dry Branches from the ground at the base of trees southwest of Brill. A cluster sits around 55.4, 55.5. They blend into the dirt. Sweep the mouse until the cursor turns into a gear. They respawn in about 30 seconds, so one cluster is enough. Decrepit Darkhounds patrol those trees. They drop Stringy Wolf Meat. Save it and cook it on the campfire. The food that adds kill experience is in Bonus experience, above.
+**What:** He gives you a [Collecting Basket](https://www.wowhead.com/forever/item=279939/collecting-basket). Loot 6 Dry Branches from the ground at the base of trees southwest of Brill. A cluster sits around 55.4, 55.5. They blend into the dirt. Sweep the mouse until the cursor turns into a gear. They respawn in about 30 seconds, so one cluster is enough. Decrepit Darkhounds patrol those trees. They drop [Stringy Wolf Meat](https://www.wowhead.com/classic/item=2672/stringy-wolf-meat). Save it and cook it on the campfire. The food that adds kill experience is in Bonus experience, above.
 
-**Reward:** The Collecting Basket stays as your bag.
+**Reward:** The [Collecting Basket](https://www.wowhead.com/forever/item=279939/collecting-basket) stays as your bag. It is a 6-slot bag.
 
 #### If a letter drops
 
@@ -148,7 +148,7 @@ When the priest hits 5, stop and make an Undead warlock. Get that warlock to 5, 
 
 The wand is the ranged slot. It is 12–22 Arcane, 1.50 speed. On the priest, train Wands from the priest trainer if you have not already, and drag **Shoot** out of the spellbook's General tab onto the bar.
 
-**Classic.** Forever has not published a different early wand. Do not take Wild Harvest on the warlock. Tailoring and Enchanting are both primary professions, and the book would spend one of those slots.
+**Classic.** Forever has not published a different early wand. Do not take [Wild Harvest](https://www.wowhead.com/forever/item=247841/wild-harvest) on the warlock. Tailoring and Enchanting are both primary professions, and the book would spend one of those slots.
 
 1. Level the warlock to 5 on the same Deathknell quests. Skip the herbalism book.
 2. Kill Scarlet humans for Linen Cloth. The camp north of Deathknell drops it, and so do the farmers at Solliden Farmstead, west of Brill. About 60 cloth is the usual amount. Bring extra if you can.
@@ -176,7 +176,7 @@ Turn both in to Hadric, then take [Bandarion Keep](https://www.wowhead.com/forev
 
 [A Righteous Cause](https://www.wowhead.com/forever/quest=96896/a-righteous-cause) is the conversation between Leonid and Danitha Morr at the keep. Turn it in to Leonid.
 
-He gives [Leonid's Letter](https://www.wowhead.com/forever/quest=98545/leonids-letter). Carry the Sealed Letter to [Glix Xizzix](https://www.wowhead.com/forever/npc=272526/glix-xizzix), Trade Quarter, Undercity, about 70, 47. Caster choice is [Mug of Muddled Memories](https://www.wowhead.com/forever/item=277247/mug-of-muddled-memories). Not Tim's Lost Rib or the Misplaced Shooter.
+He gives [Leonid's Letter](https://www.wowhead.com/forever/quest=98545/leonids-letter). Carry the Sealed Letter to [Glix Xizzix](https://www.wowhead.com/forever/npc=272526/glix-xizzix), Trade Quarter, Undercity, about 70, 47. Caster choice is [Mug of Muddled Memories](https://www.wowhead.com/forever/item=277247/mug-of-muddled-memories). Not [Tim's Lost Rib](https://www.wowhead.com/forever/item=282064/tims-lost-rib) or the [Misplaced Shooter](https://www.wowhead.com/forever/item=277255/misplaced-shooter).
 
 ### Levels 14–60
 
@@ -216,9 +216,9 @@ Burial chambers beneath [Ironforge](https://www.wowhead.com/classic/zone=1537/ir
 
 **Beta.** Wowhead's dungeon guide says two quests are not Alliance-only. Both still start under Ironforge. The rest turn in to Alliance NPCs. Legacy Points unless you can reach Old Ironforge.
 
-- **Standalone.** Important Heirlooms — Thom Filch, by the bridge at the entrance. Collect 8 Dwarven Heirlooms inside. Off-hand choice is the Dwarven Tome.
+- **Standalone.** Important Heirlooms — Thom Filch, by the bridge at the entrance. Collect 8 Dwarven Heirlooms inside. Off-hand choice is the [Dwarven Tome](https://www.wowhead.com/forever/item=279898/dwarven-tome).
 - **Standalone.** An Ancient Grudge — Ghostly Attendant, Anvilmar's Rest, inside. Kill Faldrim Anvilmar.
-- **Chain. Alliance.** [Old Ironforge Incursion](https://www.wowhead.com/forever/quest=96393/old-ironforge-incursion). A Dark Iron Map drops from Dark Iron spies in southeast Dun Morogh and starts Underground Map. Turn that in to Earthseer Farsen, the hill at Gol'Bolar Quarry, about 64.8, 58.5. He gives Old Ironforge Incursion. Kill Durgen Dirgehammer. Turn the head in to [King Magni Bronzebeard](https://www.wowhead.com/classic/npc=2784/king-magni-bronzebeard), Ironforge. Caster choice is the wand Deepblaze.
+- **Chain. Alliance.** [Old Ironforge Incursion](https://www.wowhead.com/forever/quest=96393/old-ironforge-incursion). A Dark Iron Map drops from Dark Iron spies in southeast Dun Morogh and starts Underground Map. Turn that in to Earthseer Farsen, the hill at Gol'Bolar Quarry, about 64.8, 58.5. He gives Old Ironforge Incursion. Kill Durgen Dirgehammer. Turn the head in to [King Magni Bronzebeard](https://www.wowhead.com/classic/npc=2784/king-magni-bronzebeard), Ironforge. Caster choice is the wand [Deepblaze](https://www.wowhead.com/forever/item=279896/deepblaze).
 
 The Restless Dead, from Afadra Dunwall at the entrance, and The Treaty of Understanding, a vault in the Reliquary of Kings, are Alliance. Quest locations: [Hall of Thanes](https://www.wowhead.com/forever/guide/hall-of-thanes-dungeon-overview-location-rewards).
 
@@ -234,10 +234,10 @@ The ruined city of Lordaeron, above the [Undercity](https://www.wowhead.com/clas
 
 **Beta.** Six quests. Pick up the four outside ones before you zone in. Two start from loot and cannot be shared.
 
-- **Standalone.** [The Wrath of Rath'mael](https://www.wowhead.com/forever/quest=92422/the-wrath-of-rathmael) — Deathguard Kristof, southeast of Brill, Tirisfal Glades. Kill Rath'mael. Caster choice is Gnarled Necromancer's Staff.
-- **Standalone.** [Light's Justice](https://www.wowhead.com/forever/quest=92421/lights-justice) — Morbin Lightbane, Royal Quarter, Undercity, near [Sylvanas](https://www.wowhead.com/classic/npc=10181/lady-sylvanas-windrunner). Collect 25 Intact Limbs. Caster choice is The Stitcher.
-- **Standalone.** [A Frightened Request](https://www.wowhead.com/forever/quest=92401/a-frightened-request) — Tabitha Heartweaver, the graveyard at the Sepulcher, Silverpine Forest. Investigate Edward Heartweaver inside. Cloth choice is Tabitha's Cuffs.
-- **Standalone.** [The New Plague](https://www.wowhead.com/forever/quest=95216/the-new-plague) — [Theodore Griffs](https://www.wowhead.com/classic/npc=11835/theodore-griffs), the Apothecarium, Undercity. Kill Witherfang for the Highly Toxic Strain. Cloth choice is Blight Gloves.
+- **Standalone.** [The Wrath of Rath'mael](https://www.wowhead.com/forever/quest=92422/the-wrath-of-rathmael) — Deathguard Kristof, southeast of Brill, Tirisfal Glades. Kill Rath'mael. Caster choice is [Gnarled Necromancer's Staff](https://www.wowhead.com/forever/item=251534/gnarled-necromancers-staff).
+- **Standalone.** [Light's Justice](https://www.wowhead.com/forever/quest=92421/lights-justice) — Morbin Lightbane, Royal Quarter, Undercity, near [Sylvanas](https://www.wowhead.com/classic/npc=10181/lady-sylvanas-windrunner). Collect 25 Intact Limbs. Caster choice is [The Stitcher](https://www.wowhead.com/forever/item=279874/the-stitcher).
+- **Standalone.** [A Frightened Request](https://www.wowhead.com/forever/quest=92401/a-frightened-request) — Tabitha Heartweaver, the graveyard at the Sepulcher, Silverpine Forest. Investigate Edward Heartweaver inside. Cloth choice is [Tabitha's Cuffs](https://www.wowhead.com/forever/item=251486/tabithas-cuffs).
+- **Standalone.** [The New Plague](https://www.wowhead.com/forever/quest=95216/the-new-plague) — [Theodore Griffs](https://www.wowhead.com/classic/npc=11835/theodore-griffs), the Apothecarium, Undercity. Kill Witherfang for the Highly Toxic Strain. Cloth choice is [Blight Gloves](https://www.wowhead.com/forever/item=279877/blight-gloves).
 - **Not a chain.** [Crest of Lordaeron](https://www.wowhead.com/forever/quest=95204/crest-of-lordaeron) starts from the crest inside. It moves between side rooms. Loot your own. Turn in to [Oran Snakewrithe](https://www.wowhead.com/classic/npc=7825/oran-snakewrithe), Undercity.
 - **Chain, 5 steps, all named Unending Torment.** Step 1 is [Unending Torment](https://www.wowhead.com/forever/quest=97288/unending-torment). Loot the Abominable Head from the abomination inside. It cannot be shared. Turn the head in to someone in Undercity. The later steps stay in Undercity. One reported step uses the quest item on a worm named Ganoosh outside the Apothecarium. The other three step names are not published separately.
 
@@ -251,7 +251,7 @@ This is a scavenger hunt, not a dungeon. The clicks are objects on the ground, n
 
 The reward is the [Cozy Sleeping Bag](https://www.wowhead.com/classic/item=211527/cozy-sleeping-bag). The Season of Discovery walkthrough is [here](https://www.wowhead.com/classic/guide/season-of-discovery/cozy-sleeping-bag-experience-buff). The photos below are from that walkthrough. Hover a photo link to see it. Click it to open the file.
 
-Use the bag outside a city. It unfurls on the ground and is not clicked again. Walk onto it and do not move. Moving wakes you. You gain 1% bonus experience per minute, up to 3%. Forever lists a 1-hour cooldown. In Season of Discovery the buff lasted 2 hours. Logging out while you are asleep on it has counted as an inn for rested experience. <a class="shot" target="_blank" rel="noopener" href="{{ '/assets/sleeping-bag/sleeping.jpg' | relative_url }}">Photo of sleeping on it</a>. On your journey you will also earn a 12-slot bag, the [Sturdy Lunchbox](https://www.wowhead.com/classic/item=221498/sturdy-lunchbox), and some trail mix that gives you a good chunk of rested experience, [Student Fodder](https://www.wowhead.com/classic/item=216619/student-fodder).
+Use the bag outside a city. It unfurls on the ground and is not clicked again. Walk onto it and do not move. Moving wakes you. You gain 1% bonus experience per minute, up to 3%. Forever lists a 1-hour cooldown. In Season of Discovery the buff lasted 2 hours. Logging out while you are asleep on it has counted as an inn for rested experience. <a class="shot" target="_blank" rel="noopener" href="{{ '/assets/sleeping-bag/sleeping.jpg' | relative_url }}">Photo of sleeping on it</a>. On your journey you will also earn a 12-slot bag, the [Sturdy Lunchbox](https://www.wowhead.com/forever/item=1652/sturdy-lunchbox), and some trail mix that gives you a good chunk of rested experience, [Student Fodder](https://www.wowhead.com/classic/item=216619/student-fodder).
 
 You will be low for Duskwood, the Wetlands, Hillsbrad, and Arathi. Stay on the road. Do not fight. Sentinel Hill, Menethil Harbor, and Thelsamar are Alliance towns.
 
@@ -275,7 +275,7 @@ Click the Burned-Out Remains in the wreckage of a cart at Alexston Farmstead, no
 
 **From Westfall:** Run the same road backward. East into Duskwood, south through Stranglethorn to Booty Bay, boat to Ratchet. From the Crossroads, take the west road. It enters Stonetalon through the mountains on the Barrens' west edge. Sun Rock Retreat is the Horde camp once you are in. On the road north of that camp, as you leave the Webwinder Path, a path on the left leads to the camp. The litter is on a crate by a tent.
 
-Turn-in gives Flint and Tinder, 3 Simple Wood, and the [Sturdy Lunchbox](https://www.wowhead.com/classic/item=221498/sturdy-lunchbox), a 12-slot bag. Forever may also offer an Old Toolbox as the other bag choice. The weapon or tool choice is not for a priest.
+Turn-in gives [Flint and Tinder](https://www.wowhead.com/classic/item=4471/flint-and-tinder), 3 [Simple Wood](https://www.wowhead.com/classic/item=4470/simple-wood), and the [Sturdy Lunchbox](https://www.wowhead.com/forever/item=1652/sturdy-lunchbox), a 12-slot bag. Forever may also offer an [Old Toolbox](https://www.wowhead.com/forever/item=221498/old-toolbox) as the other bag choice. The weapon or tool choice is not for a priest.
 
 **Optional, same camp.** [Rekindle](https://www.wowhead.com/classic/quest=80001/rekindle) is the campfire in the middle. Use the flint and the wood you just got. You can skip it. <a class="shot" target="_blank" rel="noopener" href="{{ '/assets/sleeping-bag/stonetalon-fire.jpg' | relative_url }}">Photo of the campfire</a>.
 
@@ -299,7 +299,7 @@ Accept [Wet Job](https://www.wowhead.com/classic/quest=79974/wet-job). This step
 4. Arathi south across the Thandol Span, the bridge, into the Wetlands (20–30).
 5. West across the Wetlands to the dam. The dam is the west edge of the Wetlands and the north wall of Loch Modan.
 
-Accept [Eagle's Fist](https://www.wowhead.com/classic/quest=79975/eagles-fist). Turn-in is a Hickory Pipe and Rumsey Rum Light.
+Accept [Eagle's Fist](https://www.wowhead.com/classic/quest=79975/eagles-fist). Turn-in is a [Hickory Pipe](https://www.wowhead.com/classic/item=5432/hickory-pipe) and [Rumsey Rum Light](https://www.wowhead.com/classic/item=20709/rumsey-rum-light).
 
 #### 6. [Eagle's Fist](https://www.wowhead.com/classic/quest=79975/eagles-fist), then [This Must Be The Place](https://www.wowhead.com/classic/quest=79976/this-must-be-the-place)
 
@@ -340,15 +340,15 @@ Go at **17**. Band **17–24**. Horde.
 
 **Beta.**
 
-- **Chain. Leaders of the Fang.** Starts with [The Barrens Oases](https://www.wowhead.com/classic/quest=886/the-barrens-oases) — [Tonga Runetotem](https://www.wowhead.com/classic/npc=3448/tonga-runetotem), the Crossroads, the Barrens. Then [The Forgotten Pools](https://www.wowhead.com/classic/quest=870/the-forgotten-pools), [The Stagnant Oasis](https://www.wowhead.com/classic/quest=877/the-stagnant-oasis), and [Altered Beings](https://www.wowhead.com/classic/quest=880/altered-beings), all [Tonga](https://www.wowhead.com/classic/npc=3448/tonga-runetotem). He sends you to [Hamuul Runetotem](https://www.wowhead.com/classic/quest=1489/hamuul-runetotem), Elder Rise, Thunder Bluff, then [Nara Wildmane](https://www.wowhead.com/classic/quest=1490/nara-wildmane), same rise. The dungeon step is [Leaders of the Fang](https://www.wowhead.com/classic/quest=914/leaders-of-the-fang): a gem from each of the four Fanglords. Turn in to [Nara](https://www.wowhead.com/classic/npc=5770/nara-wildmane). Caster choice is Crescent Staff. Start this chain before you are ready to run the caverns.
+- **Chain. Leaders of the Fang.** Starts with [The Barrens Oases](https://www.wowhead.com/classic/quest=886/the-barrens-oases) — [Tonga Runetotem](https://www.wowhead.com/classic/npc=3448/tonga-runetotem), the Crossroads, the Barrens. Then [The Forgotten Pools](https://www.wowhead.com/classic/quest=870/the-forgotten-pools), [The Stagnant Oasis](https://www.wowhead.com/classic/quest=877/the-stagnant-oasis), and [Altered Beings](https://www.wowhead.com/classic/quest=880/altered-beings), all [Tonga](https://www.wowhead.com/classic/npc=3448/tonga-runetotem). He sends you to [Hamuul Runetotem](https://www.wowhead.com/classic/quest=1489/hamuul-runetotem), Elder Rise, Thunder Bluff, then [Nara Wildmane](https://www.wowhead.com/classic/quest=1490/nara-wildmane), same rise. The dungeon step is [Leaders of the Fang](https://www.wowhead.com/classic/quest=914/leaders-of-the-fang): a gem from each of the four Fanglords. Turn in to [Nara](https://www.wowhead.com/classic/npc=5770/nara-wildmane). Caster choice is [Crescent Staff](https://www.wowhead.com/classic/item=6505/crescent-staff). Start this chain before you are ready to run the caverns.
 - **Standalone.** [Serpentbloom](https://www.wowhead.com/classic/quest=962/serpentbloom) — [Apothecary Zamah](https://www.wowhead.com/classic/npc=3419/apothecary-zamah), the Pools of Vision, under the Spirit Rise, Thunder Bluff. Pick the flowers inside.
 - **Standalone.** [Smart Drinks](https://www.wowhead.com/classic/quest=1491/smart-drinks) — [Mebok Mizzyrix](https://www.wowhead.com/classic/npc=3446/mebok-mizzyrix), Ratchet.
 - **Standalone.** [Trouble at the Docks](https://www.wowhead.com/classic/quest=959/trouble-at-the-docks) — [Crane Operator Bigglefuzz](https://www.wowhead.com/classic/npc=3665/crane-operator-bigglefuzz), the crane at Ratchet.
 - **Standalone.** [Deviate Hides](https://www.wowhead.com/classic/quest=1486/deviate-hides) — [Nalpak](https://www.wowhead.com/classic/npc=5767/nalpak), in the cave before the instance portal.
-- **Standalone.** [Deviate Eradication](https://www.wowhead.com/classic/quest=1487/deviate-eradication) — [Ebru](https://www.wowhead.com/classic/npc=5768/ebru), beside [Nalpak](https://www.wowhead.com/classic/npc=5767/nalpak). Take [Sizzle Stick](https://www.wowhead.com/classic/item=8071/sizzle-stick), the green wand. Not the belt pattern or the gloves.
+- **Standalone.** [Deviate Eradication](https://www.wowhead.com/classic/quest=1487/deviate-eradication) — [Ebru](https://www.wowhead.com/classic/npc=5768/ebru), beside [Nalpak](https://www.wowhead.com/classic/npc=5767/nalpak). Take [Sizzle Stick](https://www.wowhead.com/classic/item=8071/sizzle-stick), the green wand. Not the [Pattern: Deviate Scale Belt](https://www.wowhead.com/classic/item=6476/pattern-deviate-scale-belt) or the [Dagmire Gauntlets](https://www.wowhead.com/classic/item=6481/dagmire-gauntlets).
 
 The rare [Deviate Faerie Dragon](https://www.wowhead.com/classic/npc=5912/deviate-faerie-dragon) is sometimes already in the caverns. He drops [Firebelcher](https://www.wowhead.com/classic/item=5243/firebelcher), 20.3 dps. It replaces Sizzle Stick until [Cookie](https://www.wowhead.com/classic/npc=645/cookie). Do not wait on him.
-- **Chain.** [The Glowing Shard](https://www.wowhead.com/classic/quest=6981/the-glowing-shard) drops from [Mutanus the Devourer](https://www.wowhead.com/classic/npc=3654/mutanus-the-devourer). Click it. It cannot be shared. Talk to [Sputtervalve](https://www.wowhead.com/classic/npc=3442/sputtervalve) in Ratchet, by the flight master. He has no quest marker. He sends you to [Falla Sagewind](https://www.wowhead.com/classic/npc=8418/falla-sagewind), on top of the mountain over the caverns. She gives In Nightmares. Turn that in to [Hamuul Runetotem](https://www.wowhead.com/classic/npc=5769/arch-druid-hamuul-runetotem), Elder Rise, Thunder Bluff. Cloth choice is Talbar Mantle.
+- **Chain.** [The Glowing Shard](https://www.wowhead.com/classic/quest=6981/the-glowing-shard) drops from [Mutanus the Devourer](https://www.wowhead.com/classic/npc=3654/mutanus-the-devourer). Click it. It cannot be shared. Talk to [Sputtervalve](https://www.wowhead.com/classic/npc=3442/sputtervalve) in Ratchet, by the flight master. He has no quest marker. He sends you to [Falla Sagewind](https://www.wowhead.com/classic/npc=8418/falla-sagewind), on top of the mountain over the caverns. She gives In Nightmares. Turn that in to [Hamuul Runetotem](https://www.wowhead.com/classic/npc=5769/arch-druid-hamuul-runetotem), Elder Rise, Thunder Bluff. Cloth choice is [Talbar Mantle](https://www.wowhead.com/classic/item=10657/talbar-mantle).
 
 ### 5. The Deadmines (17)
 
@@ -419,7 +419,7 @@ Go at **24**. Band **24–32**. Both factions.
 
 - **Chain.** [Trouble in the Deeps](https://www.wowhead.com/classic/quest=6562/trouble-in-the-deeps) — [Je'neu Sancrea](https://www.wowhead.com/classic/npc=12736/jeneu-sancrea), Zoram'gar Outpost, Ashenvale. He then gives [The Essence of Aku'Mai](https://www.wowhead.com/classic/quest=6563/the-essence-of-akumai).
 - **Chain.** A Damp Note looted inside starts Allegiance to the Old Gods. Not shareable. Turn it in to [Je'neu](https://www.wowhead.com/classic/npc=12736/jeneu-sancrea). He gives the follow-up of the same name: [Allegiance to the Old Gods](https://www.wowhead.com/classic/quest=6565/allegiance-to-the-old-gods).
-- **Standalone.** [Blackfathom Villainy](https://www.wowhead.com/classic/quest=6561/blackfathom-villainy) — kill [Twilight Lord Kelris](https://www.wowhead.com/classic/npc=4832/twilight-lord-kelris). Turn in to [Bashana Runetotem](https://www.wowhead.com/classic/npc=9087/bashana-runetotem), Elder Rise, Thunder Bluff. The beta list has no prerequisite on the Horde version. Take [Gravestone Scepter](https://www.wowhead.com/classic/item=7001/gravestone-scepter), the rare wand. Not the shield. It replaces the earlier wands and holds until the Graveyard rare, or the level 41 vendor wand.
+- **Standalone.** [Blackfathom Villainy](https://www.wowhead.com/classic/quest=6561/blackfathom-villainy) — kill [Twilight Lord Kelris](https://www.wowhead.com/classic/npc=4832/twilight-lord-kelris). Turn in to [Bashana Runetotem](https://www.wowhead.com/classic/npc=9087/bashana-runetotem), Elder Rise, Thunder Bluff. The beta list has no prerequisite on the Horde version. Take [Gravestone Scepter](https://www.wowhead.com/classic/item=7001/gravestone-scepter), the rare wand. Not the [Arctic Buckler](https://www.wowhead.com/classic/item=7002/arctic-buckler). It replaces the earlier wands and holds until the Graveyard rare, or the level 41 vendor wand.
 - **Standalone.** [Knowledge in the Deeps](https://www.wowhead.com/classic/quest=971/knowledge-in-the-deeps) — [Gerrig Bonegrip](https://www.wowhead.com/classic/npc=2786/gerrig-bonegrip), the Forlorn Cavern, Undercity.
 - **Skip.** In Search of Thaelrid and Researching the Corruption are on the beta list, and both start in Alliance towns (Darnassus and Auberdine).
 
@@ -471,7 +471,7 @@ Go at **29**. Band **29–38**. Horde.
 
 **Beta.** Two quests. Classic had two more that are not in this beta list. Check the NPCs once.
 
-- **Standalone.** [Blueleaf Tubers](https://www.wowhead.com/classic/quest=1221/blueleaf-tubers) — [Mebok Mizzyrix](https://www.wowhead.com/classic/npc=3446/mebok-mizzyrix), Ratchet. He gives you the crate and the Snufflenose Command Stick. Use them inside.
+- **Standalone.** [Blueleaf Tubers](https://www.wowhead.com/classic/quest=1221/blueleaf-tubers) — [Mebok Mizzyrix](https://www.wowhead.com/classic/npc=3446/mebok-mizzyrix), Ratchet. He gives you the crate and the [Snufflenose Command Stick](https://www.wowhead.com/classic/item=6684/snufflenose-command-stick). Use them inside.
 - **Standalone.** [Willix the Importer](https://www.wowhead.com/classic/quest=1144/willix-the-importer) — [Willix the Importer](https://www.wowhead.com/classic/npc=4508/willix-the-importer), inside the Kraul. Escort him out.
 - **Not in the beta list.** [A Vengeful Fate](https://www.wowhead.com/classic/quest=1102/a-vengeful-fate) — [Auld Stonespire](https://www.wowhead.com/classic/npc=4451/auld-stonespire), Elder Rise, Thunder Bluff. Kill [Charlga Razorflank](https://www.wowhead.com/classic/npc=4421/charlga-razorflank). [Going, Going, Guano!](https://www.wowhead.com/classic/quest=1109/going-going-guano) — [Master Apothecary Faranell](https://www.wowhead.com/classic/npc=2055/master-apothecary-faranell), the Apothecarium, Undercity. That guano quest is also the start of the Scarlet Monastery hearts chain below.
 
@@ -640,7 +640,7 @@ Go at **44**. Band **44–54**. Both factions.
 - **Standalone.** [Scarab Shells](https://www.wowhead.com/classic/quest=2865/scarab-shells) — [Tran'rek](https://www.wowhead.com/classic/npc=7876/tranrek), Gadgetzan.
 - **Standalone.** [Troll Temper](https://www.wowhead.com/classic/quest=3042/troll-temper) — [Trenton Lighthammer](https://www.wowhead.com/classic/npc=7804/trenton-lighthammer), Gadgetzan.
 - **Standalone.** [Divino-matic Rod](https://www.wowhead.com/classic/quest=2768/divino-matic-rod) — [Chief Engineer Bilgewhizzle](https://www.wowhead.com/classic/npc=7407/chief-engineer-bilgewhizzle), Gadgetzan.
-- **Standalone.** [Gahz'rilla](https://www.wowhead.com/classic/quest=2770/gahzrilla) — [Wizzle Brassbolts](https://www.wowhead.com/classic/npc=4453/wizzle-brassbolts), the Mirage Raceway, Shimmering Flats, Thousand Needles. You need the Mallet of Zul'Farrak to ring the gong.
+- **Standalone.** [Gahz'rilla](https://www.wowhead.com/classic/quest=2770/gahzrilla) — [Wizzle Brassbolts](https://www.wowhead.com/classic/npc=4453/wizzle-brassbolts), the Mirage Raceway, Shimmering Flats, Thousand Needles. You need the [Mallet of Zul'Farrak](https://www.wowhead.com/classic/item=9240/mallet-of-zulfarrak) to ring the gong.
 - **Chain.** Starts with [Screecher Spirits](https://www.wowhead.com/classic/quest=3520/screecher-spirits) — [Yeh'kinya](https://www.wowhead.com/classic/npc=8579/yehkinya), Steamwheedle Port, Tanaris. The dungeon step is [The Prophecy of Mosh'aru](https://www.wowhead.com/classic/quest=3527/the-prophecy-of-mosharu): the two tablets, from [Theka the Martyr](https://www.wowhead.com/classic/npc=7272/theka-the-martyr) and [Hydromancer Velratha](https://www.wowhead.com/classic/npc=7795/hydromancer-velratha). This chain continues at Sunken Temple.
 - **Chain.** [The Spider God](https://www.wowhead.com/classic/quest=2936/the-spider-god) — [Master Gadrin](https://www.wowhead.com/classic/npc=3188/master-gadrin), Sen'jin Village, Durotar. The earlier steps are Hinterlands quests. Read the Tablet of Theka inside.
 - **Skip.** Tiara of the Deep is the mage quest from [Tabetha](https://www.wowhead.com/classic/npc=6546/tabetha) in Dustwallow Marsh. Nekrum's Medallion is Alliance.
@@ -785,7 +785,7 @@ Same city. North door, after the west wing.
 
 **Classic.** Not in a published Forever list yet. North is the Gordok Commons. These start inside.
 
-- **Standalone.** [Free Knot](https://www.wowhead.com/classic/quest=5525/free-knot) — [Knot Thimblejack](https://www.wowhead.com/classic/npc=14338/knot-thimblejack), inside. You need a Gordok Shackle Key from the guards.
+- **Standalone.** [Free Knot](https://www.wowhead.com/classic/quest=5525/free-knot) — [Knot Thimblejack](https://www.wowhead.com/classic/npc=14338/knot-thimblejack), inside. You need a [Gordok Shackle Key](https://www.wowhead.com/classic/item=18250/gordok-shackle-key) from the guards.
 - **Standalone.** [The Gordok Ogre Suit](https://www.wowhead.com/classic/quest=5518/the-gordok-ogre-suit) — [Knot Thimblejack](https://www.wowhead.com/classic/npc=14338/knot-thimblejack). The suit is how the tribute run starts.
 - **Standalone.** [Unfinished Gordok Business](https://www.wowhead.com/classic/quest=7703/unfinished-gordok-business) — [Captain Kromcrush](https://www.wowhead.com/classic/npc=14325/captain-kromcrush), after the king is dead.
 
@@ -803,7 +803,7 @@ The hills of Un'Goro Crater. Exact entrance is not published.
 
 No public quest list yet.
 
-**Gap experience.** Creatures in the crater can drop A Mangled Journal. Click it for [Williden's Journal](https://www.wowhead.com/classic/quest=3884/willidens-journal) and turn it in to [Williden Marshal](https://www.wowhead.com/classic/npc=9270/williden-marshal) at Marshal's Refuge, the camp in the north. This quest is level 50. If it is gray when you arrive, skip it. You are already 58 on this route, so it usually is.
+**Gap experience.** Creatures in the crater can drop [A Mangled Journal](https://www.wowhead.com/classic/item=11116/a-mangled-journal). Click it for [Williden's Journal](https://www.wowhead.com/classic/quest=3884/willidens-journal) and turn it in to [Williden Marshal](https://www.wowhead.com/classic/npc=9270/williden-marshal) at Marshal's Refuge, the camp in the north. This quest is level 50. If it is gray when you arrive, skip it. You are already 58 on this route, so it usually is.
 
 ### 32. Scholomance (58)
 
