@@ -32,4 +32,40 @@ layout: default
   document.querySelectorAll("a.shot").forEach(function (link) {
     link.style.setProperty("--shot", "url(\"" + link.href + "\")");
   });
+
+  (function () {
+    var mapBase = "https://wow.zamimg.com/images/wow/maps/enus/normal/";
+    var ready = {};
+
+    function attach(link) {
+      var match = link.href.match(/zone=(\d+)/);
+      if (!match) return;
+      var id = match[1];
+      var url = mapBase + id + ".jpg";
+      if (!ready[id]) {
+        ready[id] = new Promise(function (resolve) {
+          var img = new Image();
+          img.onload = function () { resolve(true); };
+          img.onerror = function () { resolve(false); };
+          img.src = url;
+        });
+      }
+      ready[id].then(function (ok) {
+        if (!ok) return;
+        link.classList.add("zone-map");
+        link.style.setProperty("--shot", "url(\"" + url + "\")");
+      });
+    }
+
+    document.querySelectorAll("#content p").forEach(function (paragraph) {
+      var strong = paragraph.querySelector("strong");
+      if (!strong) return;
+      var label = strong.textContent.replace(/\s+/g, " ").trim();
+      if (label !== "Run." && label !== "Run") return;
+      paragraph.querySelectorAll("a[href*='zone=']").forEach(attach);
+      var list = paragraph.nextElementSibling;
+      if (!list || list.tagName !== "OL") return;
+      list.querySelectorAll("a[href*='zone=']").forEach(attach);
+    });
+  })();
 </script>

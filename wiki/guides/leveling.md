@@ -39,10 +39,10 @@ kicker: Undead Priest
 Leave the warlock at the first wand. A level 5 can train Enchanting to 75, and the only other recipe inside that cap is [Greater Magic Wand](https://www.wowhead.com/classic/item=11288/greater-magic-wand), 17.5 dps. Sizzle Stick matches it, and [Cookie](https://www.wowhead.com/classic/npc=645/cookie) beats it. The mystic wands need the warlock at 20, and neither beats Gravestone Scepter.
 
 1. **[Lesser Magic Wand](https://www.wowhead.com/classic/item=11287/lesser-magic-wand).** The level 5 warlock. Green. 12–22 Arcane, 11.3 dps. This is the starting wand, so you are not waiting on a drop.
-2. **[Sizzle Stick](https://www.wowhead.com/classic/item=8071/sizzle-stick).** Wailing Caverns quest, Deviate Eradication. Green. 21–39 Fire, 17.6 dps. Take the wand, not the [Pattern: Deviate Scale Belt](https://www.wowhead.com/classic/item=6476/pattern-deviate-scale-belt) or the [Dagmire Gauntlets](https://www.wowhead.com/classic/item=6481/dagmire-gauntlets).
+2. **[Sizzle Stick](https://www.wowhead.com/classic/item=8071/sizzle-stick).** Wailing Caverns quest, Deviate Eradication. Green. 21–39 Fire, 17.6 dps. Take the wand.
 3. **[Firebelcher](https://www.wowhead.com/classic/item=5243/firebelcher).** [Deviate Faerie Dragon](https://www.wowhead.com/classic/npc=5912/deviate-faerie-dragon), a rare in Wailing Caverns. Rare. 24–45 Fire, 20.3 dps. Roll it if he is up. It replaces Sizzle Stick until [Cookie](https://www.wowhead.com/classic/npc=645/cookie).
 4. **[Cookie's Stirring Rod](https://www.wowhead.com/classic/item=5198/cookies-stirring-rod).** [Cookie](https://www.wowhead.com/classic/npc=645/cookie), on the Deadmines ship. Green. 20–38 Arcane, 22.3 dps. Better than Sizzle Stick and Firebelcher.
-5. **[Gravestone Scepter](https://www.wowhead.com/classic/item=7001/gravestone-scepter).** Blackfathom Villainy. Rare. 30–57 Shadow, 29 dps. Take the wand, not the [Arctic Buckler](https://www.wowhead.com/classic/item=7002/arctic-buckler). It holds until the Graveyard rare, or the level 41 vendor wand.
+5. **[Gravestone Scepter](https://www.wowhead.com/classic/item=7001/gravestone-scepter).** Blackfathom Villainy. Rare. 30–57 Shadow, 29 dps. Take the wand. It holds until the Graveyard rare, or the level 41 vendor wand.
 6. **[Necrotic Wand](https://www.wowhead.com/classic/item=7708/necrotic-wand).** [Azshir the Sleepless](https://www.wowhead.com/classic/npc=6490/azshir-the-sleepless), a rare in the Scarlet Monastery graveyard. Rare. 32–61 Shadow, 33.2 dps. Only one of the three rares is up. Roll it if Azshir is the one.
 7. **[Blackbone Wand](https://www.wowhead.com/classic/item=5239/blackbone-wand).** Buy it at 41 from [Katis](https://www.wowhead.com/classic/npc=5816/katis) in Orgrimmar or [Zane Bradford](https://www.wowhead.com/classic/npc=5754/zane-bradford) in the Undercity. 39–74 Shadow, 35.3 dps. Under 4 gold. It replaces Gravestone and Necrotic Wand.
 8. **[Flaming Incinerator](https://www.wowhead.com/classic/item=9483/flaming-incinerator).** [Sandarr Dunereaver](https://www.wowhead.com/classic/npc=10080/sandarr-dunereaver), a rare in the Zul'Farrak graveyard. Rare. 59–111 Fire, 47.2 dps. Roll it if he is up. It replaces Blackbone until Noxious Shooter.
@@ -63,6 +63,7 @@ Dungeon quests are the experience. Kills inside a dungeon give reduced experienc
 - **Go at** is the level to travel there. The first stop is 14, because that is when this route starts.
 - **Band** is the dungeon's recommended level range. For the nine new dungeons, that band is official (Kaivax, 15 September 2026). For returning dungeons, it is the usual recommended range, not a confirmed Forever door requirement.
 - **Zone** is the outdoor area and its Classic level range. Forever has not published a replacement chart for the old zones. Riverglades is the exception: Blizzard places it in the mid-30s to mid-40s, about 35–45.
+- **Run** is the path from the previous stop. Hover a zone name for its map.
 - When two dungeons open at the same level, Horde comes before a shared dungeon, and a shared dungeon comes before an Alliance one.
 - Alliance stops stay on the list for Legacy Points. They are a weak leveling run if no Horde quests turn up.
 
@@ -84,15 +85,19 @@ The food and the rested bar add to kill experience. They do not add to quest tur
 2. **Cooked food.** Blizzard said almost all crafted food adds a small experience buff on top of its stat, and that the buff is experience from kills. One demo dish was 5% from kills, gained by sitting still and eating for 10 seconds, lasting about 15 minutes. That 5% is the example, not a confirmed number on every recipe. Cheap fish still counts. There is no level cap on the buff, so the same low food works at 60.
 3. **Well Rested.** One Legacy point buys one rank: rested experience fills 4% faster, and the cap is 4% higher. Five ranks is 20%, and that takes five points. It does not add 4% to a kill by itself. It stores more of the rested bar, and rested doubles kill experience until the bar is empty. You cannot spend it until the Legacy window unlocks. The first point is level 25, or 150 skill in a non-gathering primary profession, or exploring the whole world. Herbalism does not count. Cooking does not count. Alchemy does, and so do the warlock's Tailoring and Enchanting, but pushing any of those to 150 is slower than letting the priest reach 25. On this route that is around Shadowfang Keep and Blackfathom Deeps. One rank is all you get from that level. Later points are level 45, level 60, profession 150, and clearing the early dungeon set.
 
-**How to cook the food.** Fishing, not hunting. After 14 you are not killing for meat.
+**How to cook the food.** Fishing, not hunting. After 14 you are not killing for meat. Two breaks stock it. A gray recipe still makes the food, and the buff has no level cap, so the same fish works at 60. Sit and eat for 10 seconds before a dungeon or any fight. Keep a stack on you. Park extra fish on the warlock.
 
-At level 5, when The Great Outdoors sends you to train Cooking, also train Fishing. [Clyde Kellen](https://www.wowhead.com/classic/npc=5690/clyde-kellen) is on the southwest shore of Brightwater Lake, about 67, 51. Buy a pole from him. The cooking trainer teaches [Brilliant Smallfish](https://www.wowhead.com/classic/item=6290/brilliant-smallfish) and [Charred Wolf Meat](https://www.wowhead.com/classic/item=2679/charred-wolf-meat) at skill 1. Cook the darkhound meat you already save. Fish the lake and Stillwater Pond, south of Brill, for [Raw Brilliant Smallfish](https://www.wowhead.com/classic/item=6291/raw-brilliant-smallfish), and cook those.
+**Level 5. Brightwater Lake.** When The Great Outdoors sends you to train Cooking, also train Fishing. The warlock wand takes the same elevator into Undercity.
 
-Tirisfal water also throws a lot of [Sickly Looking Fish](https://www.wowhead.com/classic/item=6299/sickly-looking-fish). Those do not cook. Vendor them. On the road outside Undercity, buy [Recipe: Slitherskin Mackerel](https://www.wowhead.com/classic/item=6326/recipe-slitherskin-mackerel) from [Martine Tramblay](https://www.wowhead.com/classic/npc=3550/martine-tramblay) and cook any mackerel you hook. The coast is where that fish actually shows up. The north coast of Tirisfal works, and so does the Durotar coast when you go there for Ragefire Chasm. [Zansoa](https://www.wowhead.com/classic/npc=5942/zansoa) in Sen'jin Village sells the same recipe if you missed [Martine](https://www.wowhead.com/classic/npc=3550/martine-tramblay).
+[Clyde Kellen](https://www.wowhead.com/classic/npc=5690/clyde-kellen) is on the southwest shore of Brightwater Lake, about 67, 51. Buy a pole from him. Train Cooking from [Eunice Burch](https://www.wowhead.com/classic/npc=4552/eunice-burch) in the Trade Quarter, about 62, 44. She teaches [Brilliant Smallfish](https://www.wowhead.com/classic/item=6290/brilliant-smallfish) and [Charred Wolf Meat](https://www.wowhead.com/classic/item=2679/charred-wolf-meat) at skill 1.
 
-Sit and eat for 10 seconds before a dungeon or any fight. Keep a stack on you. When a recipe turns gray it still makes food, so you do not need to chase cooking skill for the buff. Park extra fish on the warlock.
+Fish the lake and Stillwater Pond, south of Brill, until Fishing is 25 and you have one stack of cooked Brilliant Smallfish. Tirisfal open water stops being mostly junk at that skill. Cook the [Raw Brilliant Smallfish](https://www.wowhead.com/classic/item=6291/raw-brilliant-smallfish) and the darkhound meat you already save. The lakes also throw [Sickly Looking Fish](https://www.wowhead.com/classic/item=6299/sickly-looking-fish). Those do not cook. Vendor them. Bank any [Raw Longjaw Mud Snapper](https://www.wowhead.com/classic/item=6289/raw-longjaw-mud-snapper). The recipe for those waits until Orgrimmar.
 
-[Recipe: Rainbow Fin Albacore](https://www.wowhead.com/classic/item=6368/recipe-rainbow-fin-albacore) is the second recipe on that vendor. It needs cooking 50. Ignore it until the cheap fish is trivial and you want the skill.
+On the road outside Undercity, buy [Recipe: Slitherskin Mackerel](https://www.wowhead.com/classic/item=6326/recipe-slitherskin-mackerel) from [Martine Tramblay](https://www.wowhead.com/classic/npc=3550/martine-tramblay) for 40 copper. [Zansoa](https://www.wowhead.com/classic/npc=5942/zansoa) in Sen'jin Village sells the same scroll if you missed her. Mackerel is the coastal fish, on the north shore of Tirisfal and on the Durotar shore when you pass it for Ragefire. Cook one if you hook it. Skip a separate trip to the beach.
+
+The second break is the Orgrimmar pond, under Ragefire Chasm. After that, when the cooked stack is down to one, fish that pond again, or a Barrens oasis you are already visiting. The catch is the same. Cook [Longjaw Mud Snapper](https://www.wowhead.com/classic/item=4592/longjaw-mud-snapper). Leave Fishing at 75. Stranglethorn and Tanaris are junk at that skill, and a gray Longjaw still carries the buff.
+
+Banked [Raw Bristle Whisker Catfish](https://www.wowhead.com/classic/item=6308/raw-bristle-whisker-catfish) cooks at Cooking 100 into a bigger heal. The experience buff stays the same. [Kilxx](https://www.wowhead.com/classic/npc=3497/kilxx) in Ratchet sells [Recipe: Bristle Whisker Catfish](https://www.wowhead.com/classic/item=6330/recipe-bristle-whisker-catfish). Learn it when you are already in Ratchet and Cooking is 100.
 
 ### Levels 1–13
 
@@ -106,7 +111,7 @@ Quest Tirisfal. It is a straight line from Deathknell to Brill and then around t
 
 **What:** Kill [Samuel Fipps](https://www.wowhead.com/classic/npc=1919/samuel-fipps) at the ruined camp on the road northeast of Deathknell. Loot Samuel's Remains. Bury them at Marla's Grave, first row of the Deathknell cemetery, near the gate. Go back to [Elreth](https://www.wowhead.com/classic/npc=1661/novice-elreth).
 
-**Reward:** One of three books. Take **[Wild Harvest](https://www.wowhead.com/forever/item=247841/wild-harvest)**. It teaches Herbalism and starts you at 2 skill. [Mining for Dummies](https://www.wowhead.com/forever/item=247840/mining-for-dummies) and [Pelt Collecting for Beginners](https://www.wowhead.com/forever/item=247846/pelt-collecting-for-beginners) are the other two. You only get one. Turn on Herbalism tracking from Professions (P).
+**Reward:** One of three books. Take **[Wild Harvest](https://www.wowhead.com/forever/item=247841/wild-harvest)**. It teaches Herbalism and starts you at 2 skill. You only get one. Turn on Herbalism tracking from Professions (P).
 
 Alchemy is not in that choice. Train it from [Carolai Anise](https://www.wowhead.com/classic/npc=2132/carolai-anise) in Brill. She stands next to [Faruza](https://www.wowhead.com/classic/npc=2114/faruza), the herbalism trainer, about 59.8, 52. [Faruza](https://www.wowhead.com/classic/npc=2114/faruza) trains the higher herbalism ranks after the book.
 
@@ -176,7 +181,7 @@ Turn both in to Hadric, then take [Bandarion Keep](https://www.wowhead.com/forev
 
 [A Righteous Cause](https://www.wowhead.com/forever/quest=96896/a-righteous-cause) is the conversation between Leonid and Danitha Morr at the keep. Turn it in to Leonid.
 
-He gives [Leonid's Letter](https://www.wowhead.com/forever/quest=98545/leonids-letter). Carry the Sealed Letter to [Glix Xizzix](https://www.wowhead.com/forever/npc=272526/glix-xizzix), Trade Quarter, Undercity, about 70, 47. Caster choice is [Mug of Muddled Memories](https://www.wowhead.com/forever/item=277247/mug-of-muddled-memories). Not [Tim's Lost Rib](https://www.wowhead.com/forever/item=282064/tims-lost-rib) or the [Misplaced Shooter](https://www.wowhead.com/forever/item=277255/misplaced-shooter).
+He gives [Leonid's Letter](https://www.wowhead.com/forever/quest=98545/leonids-letter). Carry the Sealed Letter to [Glix Xizzix](https://www.wowhead.com/forever/npc=272526/glix-xizzix), Trade Quarter, Undercity, about 70, 47. Caster choice is [Mug of Muddled Memories](https://www.wowhead.com/forever/item=277247/mug-of-muddled-memories).
 
 ### Levels 14–60
 
@@ -190,9 +195,27 @@ Go at **14**. Band **13–18**. Horde.
 
 [Ragefire Chasm](https://www.wowhead.com/classic/zone=2437/ragefire-chasm) is in the Drag, [Orgrimmar](https://www.wowhead.com/classic/zone=1637/orgrimmar).
 
+**Run.** From Brill, after Leonid's Letter.
+
+1. The zeppelin towers are northwest of Brill. Two dock there. Take the one to Orgrimmar, not the one to Grom'gol.
+2. It lands in [Durotar](https://www.wowhead.com/classic/zone=14/durotar), outside the city. Go in the gate to [Orgrimmar](https://www.wowhead.com/classic/zone=1637/orgrimmar).
+3. The instance is in the Drag.
+
 **Zone:** [Durotar](https://www.wowhead.com/classic/zone=14/durotar), 1–10, Kalimdor.
 
 **Staves.** Train them before you leave Orgrimmar. The trainer is in the back by the blacksmith. [Staff of Orgrimmar](https://www.wowhead.com/classic/item=15443/staff-of-orgrimmar) is the caster choice on the last Hidden Enemies turn-in, and Shadowfang Keep is where the good two-hand staff drops start. You cannot equip either without the skill.
+
+**Fishing.** Before you zone in. This is the second cooking break.
+
+The pond throws about half [Raw Longjaw Mud Snapper](https://www.wowhead.com/classic/item=6289/raw-longjaw-mud-snapper), about a quarter [Raw Bristle Whisker Catfish](https://www.wowhead.com/classic/item=6308/raw-bristle-whisker-catfish), and the rest [Raw Brilliant Smallfish](https://www.wowhead.com/classic/item=6291/raw-brilliant-smallfish). [Shankys](https://www.wowhead.com/classic/npc=3333/shankys) in the Valley of Honor sells [Recipe: Rainbow Fin Albacore](https://www.wowhead.com/classic/item=6368/recipe-rainbow-fin-albacore). Leave that scroll. Albacore is not in this pond, and she does not sell Longjaw.
+
+Fish until Fishing is 75, then stop. Apprentice caps there. That covers this pond and the Barrens oases for the rest of the route. Leave the fishing rank at Apprentice.
+
+Cook the Brilliant Smallfish until Cooking is 50. Train Journeyman Cooking from [Zamja](https://www.wowhead.com/classic/npc=3399/zamja) in the Drag, about 57, 53, for 5 silver. Apprentice Cooking stops at 75, and Longjaw stays orange until 90.
+
+[Rahauro](https://www.wowhead.com/classic/npc=11833/rahauro) is on Elder Rise. Walk down from there and buy [Recipe: Longjaw Mud Snapper](https://www.wowhead.com/classic/item=6328/recipe-longjaw-mud-snapper) from [Naal Mistrunner](https://www.wowhead.com/classic/npc=3027/naal-mistrunner), about 51, 52, for 4 silver. The scroll requires Cooking 50. If you see [Varimathras](https://www.wowhead.com/classic/npc=2425/varimathras) first, [Lizbeth Cromwell](https://www.wowhead.com/classic/npc=4574/lizbeth-cromwell) in the Magic Quarter sells the same scroll.
+
+Cook snappers until you have two or three stacks of [Longjaw Mud Snapper](https://www.wowhead.com/classic/item=4592/longjaw-mud-snapper). Cooking lands near 90. Stop there, even while the recipe is still yellow. Bank any raw snappers still in the bags. Bank the catfish. The Bristle Whisker scroll can wait.
 
 #### Horde quests
 
@@ -209,6 +232,17 @@ Go at **14**. Band **13–18**. Horde.
 Go at **14**. Band **13–18**. Alliance. New.
 
 Burial chambers beneath [Ironforge](https://www.wowhead.com/classic/zone=1537/ironforge). Entrance is not confirmed.
+
+**Run.** From Orgrimmar. You are 14. Hillsbrad, Arathi, and the Wetlands are above you. Stay on the road. Do not fight.
+
+1. The zeppelin tower is in [Durotar](https://www.wowhead.com/classic/zone=14/durotar), outside the city. Take it back to [Tirisfal Glades](https://www.wowhead.com/classic/zone=85/tirisfal-glades).
+2. South into [Silverpine Forest](https://www.wowhead.com/classic/zone=130/silverpine-forest) (10–20). The road runs through the Sepulcher.
+3. South into [Hillsbrad Foothills](https://www.wowhead.com/classic/zone=267/hillsbrad-foothills) (20–30). Tarren Mill is the Horde camp. Grab the flight point.
+4. South through the gate in Thoradin's Wall into [Arathi Highlands](https://www.wowhead.com/classic/zone=45/arathi-highlands) (30–40). Do not climb the wall. Hammerfall is the Horde camp if you want that flight point.
+5. South across the Thandol Span into [the Wetlands](https://www.wowhead.com/classic/zone=11/wetlands) (20–30).
+6. Northwest to the Dun Algaz tunnel. You come out in [Loch Modan](https://www.wowhead.com/classic/zone=38/loch-modan) (10–20), near 20, 63. Thelsamar is Alliance. Do not stop.
+7. North to the other tunnel, about 18, 16, into [Dun Morogh](https://www.wowhead.com/classic/zone=1/dun-morogh).
+8. The road runs through Kharanos to the [Ironforge](https://www.wowhead.com/classic/zone=1537/ironforge) gates. Guards will kill you. The burial chambers are under the city. The entrance is not confirmed.
 
 **Zone:** [Dun Morogh](https://www.wowhead.com/classic/zone=1/dun-morogh), 1–10, Eastern Kingdoms.
 
@@ -227,6 +261,15 @@ The Restless Dead, from Afadra Dunwall at the entrance, and The Treaty of Unders
 Go at **15**. Band **15–20**. Horde. New.
 
 The ruined city of Lordaeron, above the [Undercity](https://www.wowhead.com/classic/zone=1497/undercity).
+
+**Run.** The same road back north.
+
+1. Out the [Ironforge](https://www.wowhead.com/classic/zone=1537/ironforge) gates, south through [Dun Morogh](https://www.wowhead.com/classic/zone=1/dun-morogh) and the tunnel into [Loch Modan](https://www.wowhead.com/classic/zone=38/loch-modan).
+2. South through Dun Algaz into [the Wetlands](https://www.wowhead.com/classic/zone=11/wetlands).
+3. North across the Thandol Span into [Arathi Highlands](https://www.wowhead.com/classic/zone=45/arathi-highlands).
+4. North through the gate in Thoradin's Wall into [Hillsbrad Foothills](https://www.wowhead.com/classic/zone=267/hillsbrad-foothills).
+5. North through [Silverpine Forest](https://www.wowhead.com/classic/zone=130/silverpine-forest) into [Tirisfal Glades](https://www.wowhead.com/classic/zone=85/tirisfal-glades).
+6. The ruins are the city above [Undercity](https://www.wowhead.com/classic/zone=1497/undercity). The road in from Brill is the one you used at level 5.
 
 **Zone:** [Tirisfal Glades](https://www.wowhead.com/classic/zone=85/tirisfal-glades), 1–10, Eastern Kingdoms.
 
@@ -261,21 +304,35 @@ There are two pages for this name, [79007](https://www.wowhead.com/classic/quest
 
 **Where:** Burned-Out Remains in the rubble of the burnt tower, south of Camp Taurajo, [the Barrens](https://www.wowhead.com/classic/zone=17/the-barrens), about 46, 74. The tower is just north of the junction where the road to Dustwallow Marsh leaves the main road. The click is a charred pile among bottles and a broken wheel, and the tooltip says Burned-Out Remains. <a class="shot" target="_blank" rel="noopener" href="{{ '/assets/sleeping-bag/barrens-tower.jpg' | relative_url }}">Photo of the remains</a>.
 
-**From Tirisfal:** The zeppelin towers are northwest of Brill. Two zeppelins dock there. Take the one to Orgrimmar, not the one to Grom'gol. It lands in Durotar, outside Orgrimmar. Leave by the south gate. The road runs south through the Barrens. The Crossroads is the town in the middle. Camp Taurajo is farther south on that same road. The tower is a short walk past the camp. Grab the flight points at the Crossroads, Camp Taurajo, and Ratchet while you are here. Hand any sealed crates to Dokimi, just south of the Crossroads. That turn-in is in Merchant's Favor, above. Do not hunt the named beasts on this walk. They are the gap section after the bag.
+**Run.** From Brill, after Ruins of Lordaeron.
+
+1. The zeppelin towers are northwest of Brill. Two dock there. Take the one to Orgrimmar, not the one to Grom'gol.
+2. It lands in [Durotar](https://www.wowhead.com/classic/zone=14/durotar), outside [Orgrimmar](https://www.wowhead.com/classic/zone=1637/orgrimmar). Leave by the south gate.
+3. The road runs south through [the Barrens](https://www.wowhead.com/classic/zone=17/the-barrens) (10–25). The Crossroads is the town in the middle. Camp Taurajo is farther south on that same road.
+4. The burnt tower is a short walk past the camp, about 46, 74. Grab the flight points at the Crossroads, Camp Taurajo, and Ratchet while you are here. Hand any sealed crates to Dokimi, just south of the Crossroads. That turn-in is in Merchant's Favor, above. Do not hunt the named beasts on this walk. They are the gap section after the bag.
 
 #### 2. Same quest, turned in at Westfall
 
 Click the Burned-Out Remains in the wreckage of a cart at Alexston Farmstead, northeast [Westfall](https://www.wowhead.com/classic/zone=40/westfall), about 37, 50. The tooltip on the charred pile, under the broken planks, says Burned-Out Remains. <a class="shot" target="_blank" rel="noopener" href="{{ '/assets/sleeping-bag/westfall-cart.jpg' | relative_url }}">Photo of the cart</a>. That completes the note and offers [Stepping Stones](https://www.wowhead.com/classic/quest=79192/stepping-stones). You also get a Swiftness Potion and a Strong Troll's Blood Potion.
 
-**From the Barrens:** Go to the Crossroads, then east to Ratchet. Take the boat to Booty Bay, on the south coast of [Stranglethorn Vale](https://www.wowhead.com/classic/zone=33/stranglethorn-vale). Follow the road north. It passes Grom'gol, the Horde camp, and leaves the zone into [Duskwood](https://www.wowhead.com/classic/zone=10/duskwood) (18–30). In Duskwood, take the west road into Westfall (10–20). The farmstead is in the northeast of Westfall, near the river border with Elwynn. Sentinel Hill, in the middle of Westfall, is Alliance. Do not go there.
+**Run.** From the Crossroads. Duskwood is above you. Stay on the road. Do not fight.
+
+1. East to Ratchet. Take the boat to Booty Bay, on the south coast of [Stranglethorn Vale](https://www.wowhead.com/classic/zone=33/stranglethorn-vale).
+2. Follow the road north. It passes Grom'gol. Grab the flight point. The road leaves the zone into [Duskwood](https://www.wowhead.com/classic/zone=10/duskwood) (18–30).
+3. Take the west road into [Westfall](https://www.wowhead.com/classic/zone=40/westfall) (10–20). The north road is [Elwynn Forest](https://www.wowhead.com/classic/zone=12/elwynn-forest). Do not take it.
+4. The farmstead is in the northeast of Westfall, about 37, 50, near the river border with Elwynn. Sentinel Hill, in the middle of Westfall, is Alliance. Do not go there.
 
 #### 3. [Stepping Stones](https://www.wowhead.com/classic/quest=79192/stepping-stones)
 
 **Where:** Pocket Litter on a box by the tent in an abandoned camp, [Stonetalon Mountains](https://www.wowhead.com/classic/zone=406/stonetalon-mountains) (15–27), about 40.6, 52.4. The path to the camp starts northeast of Sun Rock Retreat, about 50.9, 52.3. <a class="shot" target="_blank" rel="noopener" href="{{ '/assets/sleeping-bag/stonetalon-camp.jpg' | relative_url }}">Photo of the camp</a>.
 
-**From Westfall:** Run the same road backward. East into Duskwood, south through Stranglethorn to Booty Bay, boat to Ratchet. From the Crossroads, take the west road. It enters Stonetalon through the mountains on the Barrens' west edge. Sun Rock Retreat is the Horde camp once you are in. On the road north of that camp, as you leave the Webwinder Path, a path on the left leads to the camp. The litter is on a crate by a tent.
+**Run.** The same road back, then west from the Crossroads.
 
-Turn-in gives [Flint and Tinder](https://www.wowhead.com/classic/item=4471/flint-and-tinder), 3 [Simple Wood](https://www.wowhead.com/classic/item=4470/simple-wood), and the [Sturdy Lunchbox](https://www.wowhead.com/forever/item=1652/sturdy-lunchbox), a 12-slot bag. Forever may also offer an [Old Toolbox](https://www.wowhead.com/forever/item=221498/old-toolbox) as the other bag choice. The weapon or tool choice is not for a priest.
+1. East into [Duskwood](https://www.wowhead.com/classic/zone=10/duskwood), south through [Stranglethorn Vale](https://www.wowhead.com/classic/zone=33/stranglethorn-vale) to Booty Bay, boat to Ratchet, in [the Barrens](https://www.wowhead.com/classic/zone=17/the-barrens).
+2. From the Crossroads, take the west road. It enters [Stonetalon Mountains](https://www.wowhead.com/classic/zone=406/stonetalon-mountains) (15–27) through the mountains on the west edge. The north road is [Ashenvale](https://www.wowhead.com/classic/zone=331/ashenvale). Do not take it.
+3. Sun Rock Retreat is the Horde camp. Grab the flight point. On the road north of that camp, as you leave the Webwinder Path, a path on the left starts about 50.9, 52.3. The camp with the litter is about 40.6, 52.4.
+
+Turn-in gives [Flint and Tinder](https://www.wowhead.com/classic/item=4471/flint-and-tinder), 3 [Simple Wood](https://www.wowhead.com/classic/item=4470/simple-wood), and the [Sturdy Lunchbox](https://www.wowhead.com/forever/item=1652/sturdy-lunchbox), a 12-slot bag.
 
 **Optional, same camp.** [Rekindle](https://www.wowhead.com/classic/quest=80001/rekindle) is the campfire in the middle. Use the flint and the wood you just got. You can skip it. <a class="shot" target="_blank" rel="noopener" href="{{ '/assets/sleeping-bag/stonetalon-fire.jpg' | relative_url }}">Photo of the campfire</a>.
 
@@ -285,19 +342,22 @@ Accept [Scramble](https://www.wowhead.com/classic/quest=79980/scramble).
 
 **Where:** A Mound of Dirt, still in Stonetalon, about 39.6, 49.8. From the camp, go straight north up the hill. From the edge you can see the mound on the ledge below. It is a short jump, not a new zone. <a class="shot" target="_blank" rel="noopener" href="{{ '/assets/sleeping-bag/stonetalon-mound.jpg' | relative_url }}">Photo of the jump</a>.
 
-Accept [Wet Job](https://www.wowhead.com/classic/quest=79974/wet-job). This step is where the [Student Fodder](https://www.wowhead.com/classic/item=216619/student-fodder) starts. Season of Discovery gave 3 here. The bow and gun choices are not for a priest.
+**Run.** Same hill in [Stonetalon Mountains](https://www.wowhead.com/classic/zone=406/stonetalon-mountains). North from the camp, then the short jump. Not a new zone.
+
+Accept [Wet Job](https://www.wowhead.com/classic/quest=79974/wet-job). This step is where the [Student Fodder](https://www.wowhead.com/classic/item=216619/student-fodder) starts. Season of Discovery gave 3 here.
 
 #### 5. [Wet Job](https://www.wowhead.com/classic/quest=79974/wet-job)
 
 **Where:** A Carved Figurine on a ledge of the Stonewrought Dam, north [Loch Modan](https://www.wowhead.com/classic/zone=38/loch-modan) (10–20), about 49.4, 12.9. The ledge faces [the Wetlands](https://www.wowhead.com/classic/zone=11/wetlands). Look over the dam toward the Wetlands and jump onto the carved dwarf heads. The figurine is against the back wall of that ledge. Do not jump into the water. It is shallow, and the fall kills you. <a class="shot" target="_blank" rel="noopener" href="{{ '/assets/sleeping-bag/loch-modan-dam.jpg' | relative_url }}">Photo of the ledge</a>. Set your hearth in Brill or Tarren Mill before you climb the dam. Hearth out after the click, or slide down the dam face if you can see a slope.
 
-**From Stonetalon:** East back into the Barrens, north to Orgrimmar, zeppelin to Tirisfal. Then south, in this order:
+**Run.** From Stonetalon, back to the Eastern Kingdoms, then south to the dam. You are low for Hillsbrad, Arathi, and the Wetlands. Stay on the road. Do not fight.
 
-1. [Tirisfal Glades](https://www.wowhead.com/classic/zone=85/tirisfal-glades) south into [Silverpine Forest](https://www.wowhead.com/classic/zone=130/silverpine-forest) (10–20). The road runs through the Sepulcher.
-2. Silverpine south into [Hillsbrad Foothills](https://www.wowhead.com/classic/zone=267/hillsbrad-foothills) (20–30). Tarren Mill is the Horde camp. Grab the flight point.
-3. Hillsbrad south through the gate in Thoradin's Wall into [Arathi Highlands](https://www.wowhead.com/classic/zone=45/arathi-highlands) (30–40). Do not climb the wall. That is the last stop. Hammerfall is the Horde camp in Arathi if you want the flight point. Stay on the road.
-4. Arathi south across the Thandol Span, the bridge, into the Wetlands (20–30).
-5. West across the Wetlands to the dam. The dam is the west edge of the Wetlands and the north wall of Loch Modan.
+1. East into [the Barrens](https://www.wowhead.com/classic/zone=17/the-barrens), north to Orgrimmar. The zeppelin in [Durotar](https://www.wowhead.com/classic/zone=14/durotar) goes to [Tirisfal Glades](https://www.wowhead.com/classic/zone=85/tirisfal-glades).
+2. South into [Silverpine Forest](https://www.wowhead.com/classic/zone=130/silverpine-forest) (10–20). The road runs through the Sepulcher.
+3. South into [Hillsbrad Foothills](https://www.wowhead.com/classic/zone=267/hillsbrad-foothills) (20–30). Tarren Mill is the Horde camp. Grab the flight point.
+4. South through the gate in Thoradin's Wall into [Arathi Highlands](https://www.wowhead.com/classic/zone=45/arathi-highlands) (30–40). Do not climb the wall. The last two clicks are up there. Hammerfall is the Horde camp if you want that flight point.
+5. South across the Thandol Span into [the Wetlands](https://www.wowhead.com/classic/zone=11/wetlands) (20–30). Menethil Harbor is Alliance. Do not go into the harbor.
+6. West across the Wetlands to the Stonewrought Dam. The dam is the west edge of the Wetlands and the north wall of [Loch Modan](https://www.wowhead.com/classic/zone=38/loch-modan) (10–20).
 
 Accept [Eagle's Fist](https://www.wowhead.com/classic/quest=79975/eagles-fist). Turn-in is a [Hickory Pipe](https://www.wowhead.com/classic/item=5432/hickory-pipe) and [Rumsey Rum Light](https://www.wowhead.com/classic/item=20709/rumsey-rum-light).
 
@@ -305,11 +365,23 @@ Accept [Eagle's Fist](https://www.wowhead.com/classic/quest=79975/eagles-fist). 
 
 **Where:** Both clicks are on Thoradin's Wall, the border of Hillsbrad and Arathi. The cart is on the Hillsbrad side, about 87.3, 49.6. Climb the cart onto the wall. <a class="shot" target="_blank" rel="noopener" href="{{ '/assets/sleeping-bag/thoradin-cart.jpg' | relative_url }}">Photo of the cart</a>.
 
-**From the dam:** Back east into the Wetlands, north across the Thandol Span into Arathi, north to the wall. On the Hillsbrad side, go north along the wall from the gate until the fallen cart. Climb the cart onto the wall, through the room, and out the far side. A Messenger Bag hangs outside on the right. Click it to finish Eagle's Fist and accept This Must Be The Place. The Hastily Rolled-Up Satchel is on the ground under the bag. Click that. <a class="shot" target="_blank" rel="noopener" href="{{ '/assets/sleeping-bag/thoradin-bag.jpg' | relative_url }}">Photo of the bag and the satchel</a>.
+**Run.** From the dam, back to the wall.
+
+1. East across [the Wetlands](https://www.wowhead.com/classic/zone=11/wetlands) to the Thandol Span.
+2. North across the bridge into [Arathi Highlands](https://www.wowhead.com/classic/zone=45/arathi-highlands).
+3. North to Thoradin's Wall. The gate is the road through the wall. On the [Hillsbrad Foothills](https://www.wowhead.com/classic/zone=267/hillsbrad-foothills) side, go north along the wall from the gate until the fallen cart, about 87.3, 49.6.
+
+Climb the cart onto the wall, through the room, and out the far side. A Messenger Bag hangs outside on the right. Click it to finish Eagle's Fist and accept This Must Be The Place. The Hastily Rolled-Up Satchel is on the ground under the bag. Click that. <a class="shot" target="_blank" rel="noopener" href="{{ '/assets/sleeping-bag/thoradin-bag.jpg' | relative_url }}">Photo of the bag and the satchel</a>.
 
 You receive the [Cozy Sleeping Bag](https://www.wowhead.com/classic/item=211527/cozy-sleeping-bag) and 5 [Student Fodder](https://www.wowhead.com/classic/item=216619/student-fodder).
 
-You finish on the Hillsbrad side of Thoradin's Wall. Zeppelin from Tirisfal, or the boat from Booty Bay, back to the Barrens. Wailing Caverns is next. If you are short of 17, do the gap section below first.
+**Run.** You finish on the Hillsbrad side of the wall. Wailing Caverns is next, in the Barrens.
+
+1. North through [Hillsbrad Foothills](https://www.wowhead.com/classic/zone=267/hillsbrad-foothills) and [Silverpine Forest](https://www.wowhead.com/classic/zone=130/silverpine-forest) into [Tirisfal Glades](https://www.wowhead.com/classic/zone=85/tirisfal-glades).
+2. Zeppelin to Orgrimmar. It lands in [Durotar](https://www.wowhead.com/classic/zone=14/durotar). Leave by the south gate.
+3. The road south is [the Barrens](https://www.wowhead.com/classic/zone=17/the-barrens). The Crossroads is the town in the middle. The caverns are west of it.
+
+If you are short of 17, do the gap section below first.
 
 ### Gap experience: the Barrens
 
@@ -334,18 +406,20 @@ Go at **17**. Band **17–24**. Horde.
 
 [Wailing Caverns](https://www.wowhead.com/classic/zone=718/wailing-caverns) is the cave on the north side of the Lushwater Oasis, west of the Crossroads.
 
+**Run.** The sleeping bag detour sends you back to [the Barrens](https://www.wowhead.com/classic/zone=17/the-barrens). From the Crossroads, take the west road to the Lushwater Oasis. The cave is on the north side of the water.
+
 **Zone:** [The Barrens](https://www.wowhead.com/classic/zone=17/the-barrens), 10–25, Kalimdor.
 
 #### Horde quests
 
 **Beta.**
 
-- **Chain. Leaders of the Fang.** Starts with [The Barrens Oases](https://www.wowhead.com/classic/quest=886/the-barrens-oases) — [Tonga Runetotem](https://www.wowhead.com/classic/npc=3448/tonga-runetotem), the Crossroads, the Barrens. Then [The Forgotten Pools](https://www.wowhead.com/classic/quest=870/the-forgotten-pools), [The Stagnant Oasis](https://www.wowhead.com/classic/quest=877/the-stagnant-oasis), and [Altered Beings](https://www.wowhead.com/classic/quest=880/altered-beings), all [Tonga](https://www.wowhead.com/classic/npc=3448/tonga-runetotem). He sends you to [Hamuul Runetotem](https://www.wowhead.com/classic/quest=1489/hamuul-runetotem), Elder Rise, Thunder Bluff, then [Nara Wildmane](https://www.wowhead.com/classic/quest=1490/nara-wildmane), same rise. The dungeon step is [Leaders of the Fang](https://www.wowhead.com/classic/quest=914/leaders-of-the-fang): a gem from each of the four Fanglords. Turn in to [Nara](https://www.wowhead.com/classic/npc=5770/nara-wildmane). Caster choice is [Crescent Staff](https://www.wowhead.com/classic/item=6505/crescent-staff). Start this chain before you are ready to run the caverns.
+- **Chain. Leaders of the Fang.** Starts with [The Barrens Oases](https://www.wowhead.com/classic/quest=886/the-barrens-oases) — [Tonga Runetotem](https://www.wowhead.com/classic/npc=3448/tonga-runetotem), the Crossroads, the Barrens. Then [The Forgotten Pools](https://www.wowhead.com/classic/quest=870/the-forgotten-pools), [The Stagnant Oasis](https://www.wowhead.com/classic/quest=877/the-stagnant-oasis), and [Altered Beings](https://www.wowhead.com/classic/quest=880/altered-beings), all [Tonga](https://www.wowhead.com/classic/npc=3448/tonga-runetotem). He sends you to [Hamuul Runetotem](https://www.wowhead.com/classic/quest=1489/hamuul-runetotem), Elder Rise, Thunder Bluff, then [Nara Wildmane](https://www.wowhead.com/classic/quest=1490/nara-wildmane), same rise. The dungeon step is [Leaders of the Fang](https://www.wowhead.com/classic/quest=914/leaders-of-the-fang): a gem from each of the four Fanglords. Turn in to [Nara](https://www.wowhead.com/classic/npc=5770/nara-wildmane). Caster choice is [Crescent Staff](https://www.wowhead.com/classic/item=6505/crescent-staff). Start this chain before you are ready to run the caverns. If the cooked stack is down to one, fish the Forgotten Pools, the Stagnant Oasis, or the Lushwater Oasis while you are on this chain. The catch matches the Orgrimmar pond. Cook Longjaw. Leave Fishing at 75.
 - **Standalone.** [Serpentbloom](https://www.wowhead.com/classic/quest=962/serpentbloom) — [Apothecary Zamah](https://www.wowhead.com/classic/npc=3419/apothecary-zamah), the Pools of Vision, under the Spirit Rise, Thunder Bluff. Pick the flowers inside.
 - **Standalone.** [Smart Drinks](https://www.wowhead.com/classic/quest=1491/smart-drinks) — [Mebok Mizzyrix](https://www.wowhead.com/classic/npc=3446/mebok-mizzyrix), Ratchet.
 - **Standalone.** [Trouble at the Docks](https://www.wowhead.com/classic/quest=959/trouble-at-the-docks) — [Crane Operator Bigglefuzz](https://www.wowhead.com/classic/npc=3665/crane-operator-bigglefuzz), the crane at Ratchet.
 - **Standalone.** [Deviate Hides](https://www.wowhead.com/classic/quest=1486/deviate-hides) — [Nalpak](https://www.wowhead.com/classic/npc=5767/nalpak), in the cave before the instance portal.
-- **Standalone.** [Deviate Eradication](https://www.wowhead.com/classic/quest=1487/deviate-eradication) — [Ebru](https://www.wowhead.com/classic/npc=5768/ebru), beside [Nalpak](https://www.wowhead.com/classic/npc=5767/nalpak). Take [Sizzle Stick](https://www.wowhead.com/classic/item=8071/sizzle-stick), the green wand. Not the [Pattern: Deviate Scale Belt](https://www.wowhead.com/classic/item=6476/pattern-deviate-scale-belt) or the [Dagmire Gauntlets](https://www.wowhead.com/classic/item=6481/dagmire-gauntlets).
+- **Standalone.** [Deviate Eradication](https://www.wowhead.com/classic/quest=1487/deviate-eradication) — [Ebru](https://www.wowhead.com/classic/npc=5768/ebru), beside [Nalpak](https://www.wowhead.com/classic/npc=5767/nalpak). Take [Sizzle Stick](https://www.wowhead.com/classic/item=8071/sizzle-stick), the green wand.
 
 The rare [Deviate Faerie Dragon](https://www.wowhead.com/classic/npc=5912/deviate-faerie-dragon) is sometimes already in the caverns. He drops [Firebelcher](https://www.wowhead.com/classic/item=5243/firebelcher), 20.3 dps. It replaces Sizzle Stick until [Cookie](https://www.wowhead.com/classic/npc=645/cookie). Do not wait on him.
 - **Chain.** [The Glowing Shard](https://www.wowhead.com/classic/quest=6981/the-glowing-shard) drops from [Mutanus the Devourer](https://www.wowhead.com/classic/npc=3654/mutanus-the-devourer). Click it. It cannot be shared. Talk to [Sputtervalve](https://www.wowhead.com/classic/npc=3442/sputtervalve) in Ratchet, by the flight master. He has no quest marker. He sends you to [Falla Sagewind](https://www.wowhead.com/classic/npc=8418/falla-sagewind), on top of the mountain over the caverns. She gives In Nightmares. Turn that in to [Hamuul Runetotem](https://www.wowhead.com/classic/npc=5769/arch-druid-hamuul-runetotem), Elder Rise, Thunder Bluff. Cloth choice is [Talbar Mantle](https://www.wowhead.com/classic/item=10657/talbar-mantle).
@@ -355,6 +429,13 @@ The rare [Deviate Faerie Dragon](https://www.wowhead.com/classic/npc=5912/deviat
 Go at **17**. Band **17–26**. Alliance.
 
 [The Deadmines](https://www.wowhead.com/classic/zone=1581/the-deadmines) is the mine in Moonbrook. The instance door is inside the tunnel.
+
+**Run.** From the Crossroads. Duskwood is above you. Stay on the road. Do not fight.
+
+1. East to Ratchet. Take the boat to Booty Bay, on the south coast of [Stranglethorn Vale](https://www.wowhead.com/classic/zone=33/stranglethorn-vale).
+2. Follow the road north. It passes Grom'gol. Grab the flight point. The road leaves the zone into [Duskwood](https://www.wowhead.com/classic/zone=10/duskwood) (18–30).
+3. In Duskwood, take the west road into [Westfall](https://www.wowhead.com/classic/zone=40/westfall) (10–20).
+4. South to Moonbrook. The mine is in town. The instance door is inside the tunnel. Sentinel Hill, in the middle of Westfall, is Alliance. Do not go there.
 
 **Zone:** [Westfall](https://www.wowhead.com/classic/zone=40/westfall), 10–20, Eastern Kingdoms.
 
@@ -382,6 +463,13 @@ Go at **22**. Band **22–30**. Horde.
 
 [Shadowfang Keep](https://www.wowhead.com/classic/zone=209/shadowfang-keep) sits above Pyrewood Village.
 
+**Run.** Back to Tirisfal, then south.
+
+1. East into [Duskwood](https://www.wowhead.com/classic/zone=10/duskwood), south through [Stranglethorn Vale](https://www.wowhead.com/classic/zone=33/stranglethorn-vale) to Booty Bay, boat to Ratchet.
+2. North to Orgrimmar. The zeppelin in [Durotar](https://www.wowhead.com/classic/zone=14/durotar) goes to [Tirisfal Glades](https://www.wowhead.com/classic/zone=85/tirisfal-glades).
+3. South into [Silverpine Forest](https://www.wowhead.com/classic/zone=130/silverpine-forest). The road runs through the Sepulcher. Pick up the keep quests there. Grab the flight point.
+4. Further south. The keep sits above Pyrewood Village.
+
 **Zone:** [Silverpine Forest](https://www.wowhead.com/classic/zone=130/silverpine-forest), 10–20, Eastern Kingdoms.
 
 #### Horde quests
@@ -399,6 +487,13 @@ Go at **24**. Band **24–29**. Both factions. New.
 
 Above Whelgar's Excavation, southeast of Menethil Harbor. You are already in the Eastern Kingdoms after Shadowfang Keep.
 
+**Run.** You are in Silverpine. This is the Hall of Thanes road, and you stop in the Wetlands.
+
+1. South into [Hillsbrad Foothills](https://www.wowhead.com/classic/zone=267/hillsbrad-foothills). Fly to Tarren Mill if you have it.
+2. South through the gate in Thoradin's Wall into [Arathi Highlands](https://www.wowhead.com/classic/zone=45/arathi-highlands). Do not climb the wall.
+3. South across the Thandol Span into [the Wetlands](https://www.wowhead.com/classic/zone=11/wetlands).
+4. Whelgar's Excavation is southeast of Menethil Harbor. Menethil is Alliance. Do not go into the harbor.
+
 **Zone:** [Wetlands](https://www.wowhead.com/classic/zone=11/wetlands), 20–30, Eastern Kingdoms.
 
 #### Horde quests
@@ -411,6 +506,13 @@ Go at **24**. Band **24–32**. Both factions.
 
 [Blackfathom Deeps](https://www.wowhead.com/classic/zone=719/blackfathom-deeps) is on the Zoram Strand, along the northwestern coast.
 
+**Run.** From the Wetlands, back to Kalimdor.
+
+1. North across the Thandol Span into [Arathi Highlands](https://www.wowhead.com/classic/zone=45/arathi-highlands), then north through Thoradin's Wall into [Hillsbrad Foothills](https://www.wowhead.com/classic/zone=267/hillsbrad-foothills). You have no Horde flight point in the Wetlands, so this part is on foot. Tarren Mill is the camp.
+2. North through [Silverpine Forest](https://www.wowhead.com/classic/zone=130/silverpine-forest) into [Tirisfal Glades](https://www.wowhead.com/classic/zone=85/tirisfal-glades). Zeppelin to Orgrimmar. It lands in [Durotar](https://www.wowhead.com/classic/zone=14/durotar).
+3. South gate, then the road south through [the Barrens](https://www.wowhead.com/classic/zone=17/the-barrens). From the Crossroads, take the north road into [Ashenvale](https://www.wowhead.com/classic/zone=331/ashenvale). The west road is Stonetalon.
+4. Follow the road west and north to the Zoram Strand. Zoram'gar Outpost is the camp on that coast. Grab the flight point. The instance is on the strand beside it.
+
 **Zone:** [Ashenvale](https://www.wowhead.com/classic/zone=331/ashenvale), 18–30, Kalimdor.
 
 #### Horde quests
@@ -419,7 +521,7 @@ Go at **24**. Band **24–32**. Both factions.
 
 - **Chain.** [Trouble in the Deeps](https://www.wowhead.com/classic/quest=6562/trouble-in-the-deeps) — [Je'neu Sancrea](https://www.wowhead.com/classic/npc=12736/jeneu-sancrea), Zoram'gar Outpost, Ashenvale. He then gives [The Essence of Aku'Mai](https://www.wowhead.com/classic/quest=6563/the-essence-of-akumai).
 - **Chain.** A Damp Note looted inside starts Allegiance to the Old Gods. Not shareable. Turn it in to [Je'neu](https://www.wowhead.com/classic/npc=12736/jeneu-sancrea). He gives the follow-up of the same name: [Allegiance to the Old Gods](https://www.wowhead.com/classic/quest=6565/allegiance-to-the-old-gods).
-- **Standalone.** [Blackfathom Villainy](https://www.wowhead.com/classic/quest=6561/blackfathom-villainy) — kill [Twilight Lord Kelris](https://www.wowhead.com/classic/npc=4832/twilight-lord-kelris). Turn in to [Bashana Runetotem](https://www.wowhead.com/classic/npc=9087/bashana-runetotem), Elder Rise, Thunder Bluff. The beta list has no prerequisite on the Horde version. Take [Gravestone Scepter](https://www.wowhead.com/classic/item=7001/gravestone-scepter), the rare wand. Not the [Arctic Buckler](https://www.wowhead.com/classic/item=7002/arctic-buckler). It replaces the earlier wands and holds until the Graveyard rare, or the level 41 vendor wand.
+- **Standalone.** [Blackfathom Villainy](https://www.wowhead.com/classic/quest=6561/blackfathom-villainy) — kill [Twilight Lord Kelris](https://www.wowhead.com/classic/npc=4832/twilight-lord-kelris). Turn in to [Bashana Runetotem](https://www.wowhead.com/classic/npc=9087/bashana-runetotem), Elder Rise, Thunder Bluff. The beta list has no prerequisite on the Horde version. Take [Gravestone Scepter](https://www.wowhead.com/classic/item=7001/gravestone-scepter), the rare wand. It replaces the earlier wands and holds until the Graveyard rare, or the level 41 vendor wand.
 - **Standalone.** [Knowledge in the Deeps](https://www.wowhead.com/classic/quest=971/knowledge-in-the-deeps) — [Gerrig Bonegrip](https://www.wowhead.com/classic/npc=2786/gerrig-bonegrip), the Forlorn Cavern, Undercity.
 - **Skip.** In Search of Thaelrid and Researching the Corruption are on the beta list, and both start in Alliance towns (Darnassus and Auberdine).
 
@@ -428,6 +530,13 @@ Go at **24**. Band **24–32**. Both factions.
 Go at **24**. Band **24–32**. Alliance.
 
 [The Stockade](https://www.wowhead.com/classic/zone=717/the-stockade) is in the Canals of [Stormwind](https://www.wowhead.com/classic/zone=1519/stormwind-city).
+
+**Run.** From Zoram'gar, back to a boat, then the city. Guards will kill you in Stormwind.
+
+1. Fly to Ratchet if you have it. If you do not, the road east into [the Barrens](https://www.wowhead.com/classic/zone=17/the-barrens), then east to the port.
+2. Boat to Booty Bay. North through [Stranglethorn Vale](https://www.wowhead.com/classic/zone=33/stranglethorn-vale) into [Duskwood](https://www.wowhead.com/classic/zone=10/duskwood).
+3. Take the north road into [Elwynn Forest](https://www.wowhead.com/classic/zone=12/elwynn-forest). The west road is Westfall. Do not take it.
+4. [Stormwind](https://www.wowhead.com/classic/zone=1519/stormwind-city) is the city at the north end of that road. The Stockade is in the Canals.
 
 **Zone:** [Elwynn Forest](https://www.wowhead.com/classic/zone=12/elwynn-forest), 1–10, Eastern Kingdoms. The dungeon is inside the Alliance capital.
 
@@ -453,6 +562,14 @@ Go at **28**. Band **28–33**. Both factions. New.
 
 Southern [Alterac Mountains](https://www.wowhead.com/classic/zone=36/alterac-mountains), the city in the old Dalaran crater. The barrier is down. Nearest Horde camp is Tarren Mill in Hillsbrad, then north into Alterac.
 
+**Run.** You are in Stormwind. Both ends of the tram are Alliance cities. Guards will kill you. Alterac is a little above you. Stay on the road.
+
+1. The Deeprun Tram is in the Dwarven District. Take it to [Ironforge](https://www.wowhead.com/classic/zone=1537/ironforge), in [Dun Morogh](https://www.wowhead.com/classic/zone=1/dun-morogh).
+2. South through the tunnel into [Loch Modan](https://www.wowhead.com/classic/zone=38/loch-modan). Thelsamar is Alliance. Do not stop.
+3. South through Dun Algaz into [the Wetlands](https://www.wowhead.com/classic/zone=11/wetlands).
+4. North across the Thandol Span into [Arathi Highlands](https://www.wowhead.com/classic/zone=45/arathi-highlands), then north through the Thoradin's Wall gate into [Hillsbrad Foothills](https://www.wowhead.com/classic/zone=267/hillsbrad-foothills).
+5. Tarren Mill is the Horde camp. Grab the flight point if you missed it. North into [Alterac Mountains](https://www.wowhead.com/classic/zone=36/alterac-mountains) (30–40). The city is the crater in the south of the zone.
+
 **Zone:** Alterac Mountains, 30–40, Eastern Kingdoms.
 
 #### Horde quests
@@ -464,6 +581,13 @@ Bosses are reported. Quest list is not published yet.
 Go at **29**. Band **29–38**. Horde.
 
 [Razorfen Kraul](https://www.wowhead.com/classic/zone=491/razorfen-kraul) is the quillboar cave in the hills of the southwestern Barrens, north of the Great Lift.
+
+**Run.** From Alterac, back to the Barrens, then the far south.
+
+1. South into [Hillsbrad Foothills](https://www.wowhead.com/classic/zone=267/hillsbrad-foothills). Tarren Mill is the camp on that road.
+2. North through [Silverpine Forest](https://www.wowhead.com/classic/zone=130/silverpine-forest) into [Tirisfal Glades](https://www.wowhead.com/classic/zone=85/tirisfal-glades). Zeppelin to Orgrimmar.
+3. South gate, then the road south through [the Barrens](https://www.wowhead.com/classic/zone=17/the-barrens). Past the Crossroads and Camp Taurajo, toward the Great Lift.
+4. Before the lift, turn west into the hills. The cave is there.
 
 **Zone:** [The Barrens](https://www.wowhead.com/classic/zone=17/the-barrens), 10–25, Kalimdor.
 
@@ -481,6 +605,13 @@ Go at **29**. Band **29–38**. Alliance.
 
 [Gnomeregan](https://www.wowhead.com/classic/zone=721/gnomeregan) is the train depot in western Dun Morogh, outside Ironforge.
 
+**Run.** The Hall of Thanes road, and you stop west of Kharanos. Stay on the road through the Wetlands and Loch Modan. Do not fight.
+
+1. Zeppelin from Orgrimmar to [Tirisfal Glades](https://www.wowhead.com/classic/zone=85/tirisfal-glades). The tower is in [Durotar](https://www.wowhead.com/classic/zone=14/durotar). You cannot fly across the sea. From the Sepulcher, fly to Tarren Mill if you have both, and start at Hillsbrad.
+2. South through [Silverpine Forest](https://www.wowhead.com/classic/zone=130/silverpine-forest), [Hillsbrad Foothills](https://www.wowhead.com/classic/zone=267/hillsbrad-foothills), the Thoradin's Wall gate, [Arathi Highlands](https://www.wowhead.com/classic/zone=45/arathi-highlands), and the Thandol Span into [the Wetlands](https://www.wowhead.com/classic/zone=11/wetlands).
+3. Northwest to Dun Algaz, out into [Loch Modan](https://www.wowhead.com/classic/zone=38/loch-modan) near 20, 63. North to the tunnel at about 18, 16, into [Dun Morogh](https://www.wowhead.com/classic/zone=1/dun-morogh). Thelsamar is Alliance.
+4. The train depot is west of Kharanos. That is the entrance. Do not go to the Ironforge gates.
+
 **Zone:** [Dun Morogh](https://www.wowhead.com/classic/zone=1/dun-morogh), 1–10, Eastern Kingdoms.
 
 #### Horde quests
@@ -494,6 +625,12 @@ The client list is [Tinkmaster Overspark](https://www.wowhead.com/classic/npc=79
 Go at **30**. Band **30–38**. Horde.
 
 [Scarlet Monastery](https://www.wowhead.com/classic/zone=796/scarlet-monastery), the graveyard wing. The courtyard is in northeast Tirisfal. Graveyard is the left entrance.
+
+**Run.** The same road back north to Tirisfal. The courtyard is in the northeast.
+
+1. South through the tunnel into [Loch Modan](https://www.wowhead.com/classic/zone=38/loch-modan), Dun Algaz into [the Wetlands](https://www.wowhead.com/classic/zone=11/wetlands), the Thandol Span into [Arathi Highlands](https://www.wowhead.com/classic/zone=45/arathi-highlands), then the Thoradin's Wall gate into [Hillsbrad Foothills](https://www.wowhead.com/classic/zone=267/hillsbrad-foothills). If you took the Hammerfall flight point, fly it to Tarren Mill instead of walking Hillsbrad.
+2. North through [Silverpine Forest](https://www.wowhead.com/classic/zone=130/silverpine-forest) into [Tirisfal Glades](https://www.wowhead.com/classic/zone=85/tirisfal-glades).
+3. Northeast, past the Scarlet camps. Graveyard is the left entrance.
 
 **Zone:** [Tirisfal Glades](https://www.wowhead.com/classic/zone=85/tirisfal-glades), 1–10, Eastern Kingdoms.
 
@@ -512,6 +649,8 @@ Go at **33**. Band **33–41**. Horde.
 
 Same courtyard. Library is the right entrance.
 
+**Run.** Same courtyard, in [Tirisfal Glades](https://www.wowhead.com/classic/zone=85/tirisfal-glades). Library is the right entrance.
+
 **Zone:** [Tirisfal Glades](https://www.wowhead.com/classic/zone=85/tirisfal-glades), 1–10, Eastern Kingdoms.
 
 #### Horde quests
@@ -527,6 +666,8 @@ Go at **35**. Band **35–40**. Both factions. New.
 
 A sunken troll ruin off the coast of Stranglethorn Vale. The landing spot is not published. Nearest Horde camp is Grom'gol.
 
+**Run.** From Tirisfal. Take the other zeppelin, the one to Grom'gol, not Orgrimmar. The towers are northwest of Brill. It lands at Grom'gol, in [Stranglethorn Vale](https://www.wowhead.com/classic/zone=33/stranglethorn-vale). Grab the flight point if you missed it on the way to the Deadmines. The landing spot off the coast is not published.
+
 **Zone:** [Stranglethorn Vale](https://www.wowhead.com/classic/zone=33/stranglethorn-vale), 30–45, Eastern Kingdoms.
 
 #### Horde quests
@@ -540,6 +681,8 @@ Nesingwary's camp, up the river from Grom'gol, ends in named beasts: [Sin'Dall](
 Go at **36**. Band **36–44**. Horde.
 
 Same courtyard. Armory is in the main building.
+
+**Run.** The Grom'gol zeppelin returns to [Tirisfal Glades](https://www.wowhead.com/classic/zone=85/tirisfal-glades). Same courtyard. Armory is in the main building.
 
 **Zone:** [Tirisfal Glades](https://www.wowhead.com/classic/zone=85/tirisfal-glades), 1–10, Eastern Kingdoms.
 
@@ -556,6 +699,11 @@ Same courtyard. Armory is in the main building.
 Go at **37**. Band **37–46**. Horde.
 
 [Razorfen Downs](https://www.wowhead.com/classic/zone=722/razorfen-downs) is a separate cave in the southern Barrens, east of Razorfen Kraul.
+
+**Run.** From Tirisfal, the Orgrimmar zeppelin, then the southern Barrens again.
+
+1. Zeppelin to Orgrimmar. It lands in [Durotar](https://www.wowhead.com/classic/zone=14/durotar). South gate, then the road south through [the Barrens](https://www.wowhead.com/classic/zone=17/the-barrens).
+2. Past Camp Taurajo, toward the Great Lift. This cave is east of Kraul.
 
 **Zone:** [The Barrens](https://www.wowhead.com/classic/zone=17/the-barrens), 10–25, Kalimdor.
 
@@ -574,6 +722,8 @@ Go at **38**. Band **38–46**. Horde.
 
 Same courtyard. Cathedral is the other door in the main building.
 
+**Run.** Back to the same courtyard in [Tirisfal Glades](https://www.wowhead.com/classic/zone=85/tirisfal-glades). From the Barrens, zeppelin to Tirisfal, then northeast. Cathedral is the other door in the main building.
+
 **Zone:** [Tirisfal Glades](https://www.wowhead.com/classic/zone=85/tirisfal-glades), 1–10, Eastern Kingdoms.
 
 #### Horde quests
@@ -590,6 +740,8 @@ Go at **40**. Band **40–45**. Both factions. New.
 
 Ogre stronghold in Riverglades. The entrance inside the zone is not published. Official band is 40–45. An older BlizzCon listing of 40–55 was corrected.
 
+**Run.** Riverglades has no published entrance and no Classic map. A Steamwheedle boat is one described way in. Do not guess the dock.
+
 **Zone:** Riverglades, about 35–45. New zone. A Steamwheedle boat is one described way in.
 
 #### Horde quests
@@ -603,6 +755,12 @@ Go at **41**. Band **41–51**. Both factions.
 [Uldaman](https://www.wowhead.com/classic/zone=1337/uldaman) is the cave at the dig site in the central Badlands. Nearest Horde town is Kargath.
 
 **Wand.** Before you fly out, buy [Blackbone Wand](https://www.wowhead.com/classic/item=5239/blackbone-wand) from [Katis](https://www.wowhead.com/classic/npc=5816/katis) in Orgrimmar or [Zane Bradford](https://www.wowhead.com/classic/npc=5754/zane-bradford) in the Undercity. 35.3 dps, under 4 gold. It replaces Gravestone Scepter and Necrotic Wand.
+
+**Run.** The way out of Riverglades is not published. Get back to Tirisfal, or to a zeppelin you already know. Then the Hall of Thanes road as far as Loch Modan, and one zone further.
+
+1. South out of [Loch Modan](https://www.wowhead.com/classic/zone=38/loch-modan) into the [Badlands](https://www.wowhead.com/classic/zone=3/badlands) (35–45).
+2. East to Kargath. Grab the flight point.
+3. The dig is in the center of the zone, west of town.
 
 **Zone:** [Badlands](https://www.wowhead.com/classic/zone=3/badlands), 35–45, Eastern Kingdoms.
 
@@ -631,6 +789,12 @@ Go at **44**. Band **44–54**. Both factions.
 
 [Zul'Farrak](https://www.wowhead.com/classic/zone=1176/zulfarrak) is the sand-troll city northwest of Gadgetzan.
 
+**Run.** The gap above sends you to Gadgetzan. The troll city is northwest of town. If you are still in the Badlands, get to Kalimdor first.
+
+1. Zeppelin to Orgrimmar, south through [the Barrens](https://www.wowhead.com/classic/zone=17/the-barrens), down the Great Lift into [Thousand Needles](https://www.wowhead.com/classic/zone=400/thousand-needles).
+2. Across the Shimmering Flats, then south into [Tanaris](https://www.wowhead.com/classic/zone=440/tanaris). Gadgetzan is the town. Grab the flight point.
+3. The city is northwest of town.
+
 **Zone:** [Tanaris](https://www.wowhead.com/classic/zone=440/tanaris), 40–50, Kalimdor.
 
 #### Horde quests
@@ -653,6 +817,13 @@ Go at **46**. Band **46–55**. Both factions.
 
 [Maraudon](https://www.wowhead.com/classic/zone=2100/maraudon) is in the Valley of Spears. Nearest Horde town is Shadowprey Village.
 
+**Run.** From Gadgetzan, north to Desolace. Fly to Shadowprey if you have it.
+
+1. North into [Thousand Needles](https://www.wowhead.com/classic/zone=400/thousand-needles), up the Great Lift into [the Barrens](https://www.wowhead.com/classic/zone=17/the-barrens).
+2. From the Crossroads, the west road into [Stonetalon Mountains](https://www.wowhead.com/classic/zone=406/stonetalon-mountains) (15–27).
+3. South through Stonetalon into [Desolace](https://www.wowhead.com/classic/zone=405/desolace) (30–40). Shadowprey Village is the Horde town on the southwest coast. Grab the flight point.
+4. The Valley of Spears is north of Shadowprey.
+
 **Zone:** [Desolace](https://www.wowhead.com/classic/zone=405/desolace), 30–40, Kalimdor.
 
 #### Horde quests
@@ -673,6 +844,13 @@ Go at **48**. Band **48–53**. Both factions. New.
 
 Alcaz Island, off the northeast coast of Dustwallow Marsh, north of Theramore. Nearest Horde town is Brackenwall Village.
 
+**Run.** From Desolace, back to the Barrens, then south. Fly to Brackenwall if you have it.
+
+1. North into [Stonetalon Mountains](https://www.wowhead.com/classic/zone=406/stonetalon-mountains), east into [the Barrens](https://www.wowhead.com/classic/zone=17/the-barrens).
+2. South past Camp Taurajo into [Dustwallow Marsh](https://www.wowhead.com/classic/zone=15/dustwallow-marsh) (35–45). The road leaves the main road by the burnt tower.
+3. Brackenwall Village is the Horde camp, in the north of the marsh. Grab the flight point.
+4. The island is off the northeast coast, north of Theramore. Theramore is Alliance. Swim from the shore.
+
 **Zone:** [Dustwallow Marsh](https://www.wowhead.com/classic/zone=15/dustwallow-marsh), 35–45, Kalimdor.
 
 #### Horde quests
@@ -684,6 +862,13 @@ No public quest list yet.
 Go at **50**. Band **50–60**. Both factions.
 
 [The Temple of Atal'Hakkar](https://www.wowhead.com/classic/zone=1477/the-temple-of-atalhakkar) is in the Pool of Tears. Swim down. Nearest Horde town is Stonard.
+
+**Run.** From Dustwallow, back to the Eastern Kingdoms, then one zone past the Badlands.
+
+1. North to [the Barrens](https://www.wowhead.com/classic/zone=17/the-barrens), north to Orgrimmar, zeppelin to [Tirisfal Glades](https://www.wowhead.com/classic/zone=85/tirisfal-glades).
+2. The Hall of Thanes road to [Loch Modan](https://www.wowhead.com/classic/zone=38/loch-modan). Fly to Tarren Mill if you have it, and join that road there.
+3. South into the [Badlands](https://www.wowhead.com/classic/zone=3/badlands), then south into [Swamp of Sorrows](https://www.wowhead.com/classic/zone=8/swamp-of-sorrows) (35–45).
+4. Stonard is the Horde town. Grab the flight point. The temple is in the Pool of Tears, west of town. Swim down.
 
 **Zone:** [Swamp of Sorrows](https://www.wowhead.com/classic/zone=8/swamp-of-sorrows), 35–45, Eastern Kingdoms.
 
@@ -700,6 +885,12 @@ Go at **50**. Band **50–60**. Both factions.
 Go at **52**. Band **52–60**. Both factions.
 
 [Blackrock Depths](https://www.wowhead.com/classic/zone=1584/blackrock-depths) is at the bottom of Blackrock Mountain. Enter from the Searing Gorge side or the Burning Steppes side, then take the chain down.
+
+**Run.** From Stonard, north to the mountain. Fly to Kargath if you have it, then west.
+
+1. North into the [Badlands](https://www.wowhead.com/classic/zone=3/badlands).
+2. West into [Searing Gorge](https://www.wowhead.com/classic/zone=51/searing-gorge) (45–50). Thorium Point is the neutral camp. Grab the flight point. Blackrock Mountain is the south wall of the gorge. The other side of the same mountain is [Burning Steppes](https://www.wowhead.com/classic/zone=46/burning-steppes) (50–58).
+3. Enter from either side. Take the chain down.
 
 **Zone:** [Searing Gorge](https://www.wowhead.com/classic/zone=51/searing-gorge), 45–50, and [Burning Steppes](https://www.wowhead.com/classic/zone=46/burning-steppes), 50–58. Eastern Kingdoms.
 
@@ -720,6 +911,12 @@ Go at **54**. Band **54–60**. Both factions.
 
 [Dire Maul](https://www.wowhead.com/classic/zone=2557/dire-maul), east door. Eldre'Thalas, the ruined city in central Feralas. East is the broken courtyard. Nearest Horde town is Camp Mojache.
 
+**Run.** Back to Tirisfal, then Kalimdor.
+
+1. From Blackrock Mountain, fly to Tarren Mill if you have it. Thorium Point and Kargath both reach it. If you do not, walk east through [Searing Gorge](https://www.wowhead.com/classic/zone=51/searing-gorge) into the [Badlands](https://www.wowhead.com/classic/zone=3/badlands), north into [Loch Modan](https://www.wowhead.com/classic/zone=38/loch-modan), then [the Wetlands](https://www.wowhead.com/classic/zone=11/wetlands), [Arathi Highlands](https://www.wowhead.com/classic/zone=45/arathi-highlands), and [Hillsbrad Foothills](https://www.wowhead.com/classic/zone=267/hillsbrad-foothills).
+2. North through [Silverpine Forest](https://www.wowhead.com/classic/zone=130/silverpine-forest) into [Tirisfal Glades](https://www.wowhead.com/classic/zone=85/tirisfal-glades). Zeppelin to Orgrimmar. Fly to Camp Mojache if you have it. If you do not, south through [the Barrens](https://www.wowhead.com/classic/zone=17/the-barrens), down the Great Lift into [Thousand Needles](https://www.wowhead.com/classic/zone=400/thousand-needles), west into [Feralas](https://www.wowhead.com/classic/zone=357/feralas) (40–50).
+3. Camp Mojache is in the east. Grab the flight point. Eldre'Thalas is the ruined city in the center. East is the broken courtyard.
+
 **Zone:** [Feralas](https://www.wowhead.com/classic/zone=357/feralas), 40–50, Kalimdor.
 
 #### Horde quests
@@ -734,6 +931,13 @@ Go at **55**. Band **55–60**. Both factions. New.
 
 Furbolg city behind the gates in north Azshara. Nearest Horde town is Valormok. Tunnels from here lead toward the Barrow Deeps raid, which is not part of this leveling route.
 
+**Run.** From Feralas, north to Ashenvale, then east. Fly to Valormok if you have it.
+
+1. North into [Desolace](https://www.wowhead.com/classic/zone=405/desolace), north into [Stonetalon Mountains](https://www.wowhead.com/classic/zone=406/stonetalon-mountains), east into [the Barrens](https://www.wowhead.com/classic/zone=17/the-barrens).
+2. The north road from the Crossroads into [Ashenvale](https://www.wowhead.com/classic/zone=331/ashenvale).
+3. East into [Azshara](https://www.wowhead.com/classic/zone=16/azshara) (45–55). Valormok is the Horde camp just inside. Grab the flight point.
+4. The hold is behind the gates in the north of the zone.
+
 **Zone:** [Azshara](https://www.wowhead.com/classic/zone=16/azshara), 45–55, Kalimdor.
 
 #### Horde quests
@@ -745,6 +949,12 @@ No public quest list yet.
 Go at **55**. Band **55–60**. Both factions.
 
 [Lower Blackrock Spire](https://www.wowhead.com/classic/zone=1583/blackrock-spire) is the lower half of the spire in Blackrock Mountain, up the chains from the same cavern as Blackrock Depths.
+
+**Run.** Same mountain as Blackrock Depths. This wing is up the chains, not down them.
+
+1. From Azshara, west into [Ashenvale](https://www.wowhead.com/classic/zone=331/ashenvale), south to [the Barrens](https://www.wowhead.com/classic/zone=17/the-barrens), north to Orgrimmar, zeppelin to [Tirisfal Glades](https://www.wowhead.com/classic/zone=85/tirisfal-glades).
+2. The Hall of Thanes road to the [Badlands](https://www.wowhead.com/classic/zone=3/badlands). Fly to Kargath if you have it once you are in the Eastern Kingdoms, then west into [Searing Gorge](https://www.wowhead.com/classic/zone=51/searing-gorge). [Burning Steppes](https://www.wowhead.com/classic/zone=46/burning-steppes) is the other side of the mountain.
+3. The same cavern as the Depths. Take the chains up.
 
 **Zone:** [Searing Gorge](https://www.wowhead.com/classic/zone=51/searing-gorge), 45–50, and [Burning Steppes](https://www.wowhead.com/classic/zone=46/burning-steppes), 50–58. Eastern Kingdoms.
 
@@ -765,6 +975,12 @@ Go at **56**. Band **56–60**. Both factions.
 
 Same city as the east wing. West door.
 
+**Run.** You are coming from Blackrock Mountain, not from the east door. Back to [Feralas](https://www.wowhead.com/classic/zone=357/feralas).
+
+1. Fly to Tarren Mill if you have it, then north. If you do not, walk [Searing Gorge](https://www.wowhead.com/classic/zone=51/searing-gorge), the [Badlands](https://www.wowhead.com/classic/zone=3/badlands), [Loch Modan](https://www.wowhead.com/classic/zone=38/loch-modan), [the Wetlands](https://www.wowhead.com/classic/zone=11/wetlands), [Arathi Highlands](https://www.wowhead.com/classic/zone=45/arathi-highlands), [Hillsbrad Foothills](https://www.wowhead.com/classic/zone=267/hillsbrad-foothills), and [Silverpine Forest](https://www.wowhead.com/classic/zone=130/silverpine-forest) into [Tirisfal Glades](https://www.wowhead.com/classic/zone=85/tirisfal-glades).
+2. Zeppelin to Orgrimmar. Fly to Camp Mojache if you have it. If you do not, south through [the Barrens](https://www.wowhead.com/classic/zone=17/the-barrens), down into [Thousand Needles](https://www.wowhead.com/classic/zone=400/thousand-needles), west to Camp Mojache.
+3. Same city. West door.
+
 **Zone:** [Feralas](https://www.wowhead.com/classic/zone=357/feralas), 40–50, Kalimdor.
 
 #### Horde quests
@@ -778,6 +994,8 @@ Same city as the east wing. West door.
 Go at **56**. Band **56–60**. Both factions.
 
 Same city. North door, after the west wing.
+
+**Run.** Same city in [Feralas](https://www.wowhead.com/classic/zone=357/feralas). North door, after the west wing. No new zone.
 
 **Zone:** [Feralas](https://www.wowhead.com/classic/zone=357/feralas), 40–50, Kalimdor.
 
@@ -797,6 +1015,11 @@ Go at **58**. Band **58–60**. Both factions. New.
 
 The hills of Un'Goro Crater. Exact entrance is not published.
 
+**Run.** From Feralas, east, then south. The entrance in the hills is not published.
+
+1. East into [Thousand Needles](https://www.wowhead.com/classic/zone=400/thousand-needles), across the Shimmering Flats, south into [Tanaris](https://www.wowhead.com/classic/zone=440/tanaris).
+2. South into [Un'Goro Crater](https://www.wowhead.com/classic/zone=490/ungoro-crater) (48–55). Marshal's Refuge is the camp in the north. Grab the flight point.
+
 **Zone:** [Un'Goro Crater](https://www.wowhead.com/classic/zone=490/ungoro-crater), 48–55, Kalimdor.
 
 #### Horde quests
@@ -810,6 +1033,12 @@ No public quest list yet.
 Go at **58**. Band **58–60**. Both factions.
 
 [Scholomance](https://www.wowhead.com/classic/zone=2057/scholomance) is on Caer Darrow, the island in Darrowmere Lake.
+
+**Run.** From Un'Goro, back to Tirisfal, then east.
+
+1. North through [Tanaris](https://www.wowhead.com/classic/zone=440/tanaris) and [Thousand Needles](https://www.wowhead.com/classic/zone=400/thousand-needles) to [the Barrens](https://www.wowhead.com/classic/zone=17/the-barrens), north to Orgrimmar, zeppelin to [Tirisfal Glades](https://www.wowhead.com/classic/zone=85/tirisfal-glades).
+2. East to the Bulwark, on the border with [Western Plaguelands](https://www.wowhead.com/classic/zone=28/western-plaguelands) (51–58). That camp is where the key and the Barov quest start. Grab the flight point.
+3. Into the zone, south to Darrowmere Lake. Caer Darrow is the island.
 
 **Zone:** [Western Plaguelands](https://www.wowhead.com/classic/zone=28/western-plaguelands), 51–58, Eastern Kingdoms.
 
@@ -832,6 +1061,12 @@ Go at **58**. Band **58–60**. Both factions.
 Go at **58**. Band **58–60**. Both factions.
 
 [Stratholme](https://www.wowhead.com/classic/zone=2017/stratholme), front gate. This is the living side of the city, in the northeast of the zone.
+
+**Run.** East from the Western Plaguelands.
+
+1. The east road into [Eastern Plaguelands](https://www.wowhead.com/classic/zone=139/eastern-plaguelands) (53–60).
+2. Light's Hope Chapel is in the east. Grab the flight point while you pick up the quests.
+3. The city is northeast of the chapel. The front gate is the living side.
 
 **Zone:** [Eastern Plaguelands](https://www.wowhead.com/classic/zone=139/eastern-plaguelands), 53–60, Eastern Kingdoms.
 
@@ -857,6 +1092,8 @@ Go at **58**. Band **58–60**. Both factions.
 
 Same city. The service entrance is the back door, the undead side.
 
+**Run.** Same city, in [Eastern Plaguelands](https://www.wowhead.com/classic/zone=139/eastern-plaguelands). The service entrance is the back door, the undead side.
+
 **Zone:** [Eastern Plaguelands](https://www.wowhead.com/classic/zone=139/eastern-plaguelands), 53–60, Eastern Kingdoms.
 
 #### Horde quests
@@ -873,6 +1110,11 @@ Same city. The service entrance is the back door, the undead side.
 Go at **59**. Band **59–60**. Both factions.
 
 [Upper Blackrock Spire](https://www.wowhead.com/classic/zone=1583/blackrock-spire) is the top of the spire. In Classic this is a 10-player wing, and the door wants the Seal of Ascension. Neither the group size nor the key is confirmed for Forever.
+
+**Run.** The top of the same spire. From the Plaguelands, back to Blackrock Mountain. Fly to Kargath if you have it, then west.
+
+1. West to [Tirisfal Glades](https://www.wowhead.com/classic/zone=85/tirisfal-glades). The Hall of Thanes road to the [Badlands](https://www.wowhead.com/classic/zone=3/badlands), then west into [Searing Gorge](https://www.wowhead.com/classic/zone=51/searing-gorge). [Burning Steppes](https://www.wowhead.com/classic/zone=46/burning-steppes) is the south side of the mountain.
+2. Same cavern as the Depths and the lower spire. The chains go up. This wing is the top.
 
 **Zone:** [Searing Gorge](https://www.wowhead.com/classic/zone=51/searing-gorge), 45–50, and [Burning Steppes](https://www.wowhead.com/classic/zone=46/burning-steppes), 50–58. Eastern Kingdoms.
 

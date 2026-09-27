@@ -441,9 +441,12 @@ a:hover { color: var(--link-hover); }
   border-left: 3px solid var(--gold-dim);
   color: var(--muted);
 }
-.article a.shot { position: relative; white-space: nowrap; }
+.article a.shot,
+.article a.zone-map { position: relative; white-space: nowrap; }
 .article a.shot:hover::after,
-.article a.shot:focus-visible::after {
+.article a.shot:focus-visible::after,
+.article a.zone-map:hover::after,
+.article a.zone-map:focus-visible::after {
   content: "";
   position: absolute;
   z-index: 6;
