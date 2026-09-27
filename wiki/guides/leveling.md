@@ -36,7 +36,7 @@ kicker: Undead Priest
 
 ### Wands
 
-Leave the warlock at the first wand. A level 5 can train Enchanting to 75, and the only other recipe inside that cap is [Greater Magic Wand](https://www.wowhead.com/classic/item=11288/greater-magic-wand), 17.5 dps. Sizzle Stick matches it, and [Cookie](https://www.wowhead.com/classic/npc=645/cookie) beats it. The mystic wands need the warlock at 20, and neither beats Gravestone Scepter.
+Leave the warlock at the first wand. A level 5 can train Enchanting to 75, and the only other recipe inside that cap is [Greater Magic Wand](https://www.wowhead.com/classic/item=11288/greater-magic-wand), 17.5 dps. Sizzle Stick matches it, and [Cookie's Stirring Rod](https://www.wowhead.com/classic/item=5198/cookies-stirring-rod) beats it. The mystic wands need the warlock at 20, and neither beats Gravestone Scepter.
 
 1. **[Lesser Magic Wand](https://www.wowhead.com/classic/item=11287/lesser-magic-wand).** The level 5 warlock. Green. 12–22 Arcane, 11.3 dps. This is the starting wand, so you are not waiting on a drop.
 2. **[Sizzle Stick](https://www.wowhead.com/classic/item=8071/sizzle-stick).** Wailing Caverns quest, Deviate Eradication. Green. 21–39 Fire, 17.6 dps. Take the wand.
@@ -48,9 +48,9 @@ Leave the warlock at the first wand. A level 5 can train Enchanting to 75, and t
 8. **[Flaming Incinerator](https://www.wowhead.com/classic/item=9483/flaming-incinerator).** [Sandarr Dunereaver](https://www.wowhead.com/classic/npc=10080/sandarr-dunereaver), a rare in the Zul'Farrak graveyard. Rare. 59–111 Fire, 47.2 dps. Roll it if he is up. It replaces Blackbone until Noxious Shooter.
 9. **[Noxious Shooter](https://www.wowhead.com/classic/item=17745/noxious-shooter).** [Noxxion](https://www.wowhead.com/classic/npc=13282/noxxion), Maraudon. Rare. 56–104 Nature, 50 dps. Requires 46.
 10. **[Rod of Corrosion](https://www.wowhead.com/classic/item=10836/rod-of-corrosion).** [Shade of Eranikus](https://www.wowhead.com/classic/npc=5709/shade-of-eranikus), Sunken Temple. Rare. 50–93 Nature, 55 dps. Requires 51.
-11. **[Mana Channeling Wand](https://www.wowhead.com/classic/item=18483/mana-channeling-wand).** [Cho'Rush the Observer](https://www.wowhead.com/classic/npc=14324/chorush-the-observer), Dire Maul North. 68–127 Frost, 60.9 dps, and 4 mana per 5. Requires 56. Kill him. The tribute run still finishes.
+11. **[Mana Channeling Wand](https://www.wowhead.com/classic/item=18483/mana-channeling-wand).** [Cho'Rush the Observer](https://www.wowhead.com/classic/npc=14324/chorush-the-observer), Dire Maul North. 68–127 Frost, 60.9 dps, and 4 mana per 5. Requires 56.
 12. **[Bonecreeper Stylus](https://www.wowhead.com/classic/item=13938/bonecreeper-stylus).** [Darkmaster Gandling](https://www.wowhead.com/classic/npc=1853/darkmaster-gandling), Scholomance. Rare. 83–155 Arcane, 62.6 dps, and +11 damage and healing. Requires 57. This is the healer wand.
-13. **[Skul's Ghastly Touch](https://www.wowhead.com/classic/item=13396/skuls-ghastly-touch).** [Skul](https://www.wowhead.com/classic/npc=10393/skul), a rare in the live side of Stratholme. Rare. +14 shadow damage, not healing. Requires 52. Roll it if he is up. Bonecreeper is the one that also adds to heals.
+13. **[Skul's Ghastly Touch](https://www.wowhead.com/classic/item=13396/skuls-ghastly-touch).** [Skul](https://www.wowhead.com/classic/npc=10393/skul), a rare in the live side of Stratholme. Rare. +14 shadow damage. Requires 52.
 
 ---
 
