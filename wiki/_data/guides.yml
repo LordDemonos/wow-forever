@@ -4,9 +4,24 @@
   range: "1–60"
   faction: Horde
   summary: Dungeons from Ragefire Chasm to Upper Blackrock Spire, plus the sleeping bag, the wand path, and the one-kill turn-ins.
-- title: Healing
-  url: /healing/
+- title: Priest Healing Efficiency
+  url: /healing/priest/
   kicker: Priest
+  group: healing
   range: "1–60"
   faction: Both
   summary: Every heal rank by mana and by speed, and which rank wins once bonus healing is on the gear.
+- title: Holy Paladin Healing Efficiency
+  url: /healing/paladin/
+  kicker: Paladin
+  group: healing
+  range: "1–60"
+  faction: Both
+  summary: Holy Light, Flash of Light, Holy Shock, and Light's Vigil, and which rank wins once bonus healing is on the gear.
+- title: Restoration Druid Healing Efficiency
+  url: /healing/druid/
+  kicker: Druid
+  group: healing
+  range: "1–60"
+  faction: Both
+  summary: Healing Touch, Rejuvenation, Regrowth, Wild Growth, and Tranquility, and which rank wins once bonus healing is on the gear.

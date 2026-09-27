@@ -22,4 +22,4 @@ summary: 31/20/0. Penance, Power Infusion, and Divine Aegis.
 
 **Shadow 0.**
 
-**Talents.** On Horde, the priest trainer in Undercity wipes the tree. Wipe costs are on the [leveling guide]({{ '/leveling/' | relative_url }}). The other level 60 tree is [Holy Priest PVE]({{ '/holy/' | relative_url }}). Which heal rank to cast is in the [healing guide]({{ '/healing/' | relative_url }}).
+**Talents.** On Horde, the priest trainer in Undercity wipes the tree. Wipe costs are on the [leveling guide]({{ '/leveling/' | relative_url }}). The other level 60 tree is [Holy Priest PVE]({{ '/holy/' | relative_url }}). Which heal rank to cast is in [Priest Healing Efficiency]({{ '/healing/priest/' | relative_url }}).

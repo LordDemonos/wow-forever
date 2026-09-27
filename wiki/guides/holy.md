@@ -22,4 +22,4 @@ summary: 20/31/0. Prayer of Mending, Spirit of Redemption, and Spiritual Guidanc
 
 **Shadow 0.**
 
-**Talents.** On Horde, the priest trainer in Undercity wipes the tree. Wipe costs are on the [leveling guide]({{ '/leveling/' | relative_url }}). The other level 60 tree is [Disc Priest PVE]({{ '/disc/' | relative_url }}). Which heal rank to cast is in the [healing guide]({{ '/healing/' | relative_url }}).
+**Talents.** On Horde, the priest trainer in Undercity wipes the tree. Wipe costs are on the [leveling guide]({{ '/leveling/' | relative_url }}). The other level 60 tree is [Disc Priest PVE]({{ '/disc/' | relative_url }}). Which heal rank to cast is in [Priest Healing Efficiency]({{ '/healing/priest/' | relative_url }}).

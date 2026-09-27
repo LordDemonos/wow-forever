@@ -1,0 +1,19 @@
+---
+layout: default
+---
+<main id="content" class="shell">
+  <section class="hero">
+    <p class="eyebrow"><span class="pips" aria-hidden="true"><span class="pip pip-alliance"></span><span class="pip pip-horde"></span></span> Priest, Paladin, and Druid · Alliance &amp; Horde</p>
+    <h1>Healing.</h1>
+    <p class="lede">Which rank to cast. No gear and no talents in the tables. The numbers are the Forever beta client, for Alliance or Horde.</p>
+  </section>
+
+  <section class="panel specs-panel" aria-labelledby="healing-list">
+    <header class="panel-head">
+      <h2 id="healing-list">Guides</h2>
+      {% assign healing_guides = site.data.guides | where: "group", "healing" %}
+      <span class="count">{{ healing_guides | size }}</span>
+    </header>
+    {% include guide-cards.html guides=healing_guides %}
+  </section>
+</main>
