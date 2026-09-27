@@ -42,6 +42,7 @@ layout: default
       if (!match) return;
       var id = match[1];
       var url = mapBase + id + ".jpg";
+      link.setAttribute("data-disable-wowhead-tooltip", "true");
       if (!ready[id]) {
         ready[id] = new Promise(function (resolve) {
           var img = new Image();
@@ -51,7 +52,10 @@ layout: default
         });
       }
       ready[id].then(function (ok) {
-        if (!ok) return;
+        if (!ok) {
+          link.removeAttribute("data-disable-wowhead-tooltip");
+          return;
+        }
         link.classList.add("zone-map");
         link.style.setProperty("--shot", "url(\"" + url + "\")");
       });
