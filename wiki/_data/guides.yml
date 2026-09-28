@@ -25,3 +25,10 @@
   range: "1–60"
   faction: Both
   summary: Healing Touch, Rejuvenation, Regrowth, Wild Growth, and Tranquility, and which rank wins once bonus healing is on the gear.
+- title: Restoration Shaman Healing Efficiency
+  url: /healing/shaman/
+  kicker: Shaman
+  group: healing
+  range: "1–60"
+  faction: Both
+  summary: Healing Wave, Lesser Healing Wave, Chain Heal, and Riptide, and which rank wins once bonus healing is on the gear.

@@ -10,7 +10,7 @@ wide: true
 
 **Paladin.** Alliance or Horde. The ranks below are the Forever beta client, build 1.60.1.70009, with no gear and no talents. Classic is named only where a rank changed.
 
-Priest ranks are [Priest Healing Efficiency]({{ '/healing/priest/' | relative_url }}). Restoration Druid ranks are [Restoration Druid Healing Efficiency]({{ '/healing/druid/' | relative_url }}). A live version of the bonus-healing math is the [downrank calculator](https://foreverchanges.pro/downrank-calculator).
+Priest ranks are [Priest Healing Efficiency]({{ '/healing/priest/' | relative_url }}). Restoration Druid ranks are [Restoration Druid Healing Efficiency]({{ '/healing/druid/' | relative_url }}). Restoration Shaman ranks are [Restoration Shaman Healing Efficiency]({{ '/healing/shaman/' | relative_url }}). A live version of the bonus-healing math is the [downrank calculator](https://foreverchanges.pro/downrank-calculator).
 
 ## What to cast
 

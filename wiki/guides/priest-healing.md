@@ -10,7 +10,7 @@ wide: true
 
 **Priest.** Alliance or Horde. The ranks below are the Forever beta client, build 1.60.1.70009, with no gear and no talents. Classic is named only where a rank changed.
 
-The leveling tree is on the [leveling guide]({{ '/leveling/' | relative_url }}). Holy and Discipline at 60 are [Holy Priest PVE]({{ '/holy/' | relative_url }}) and [Disc Priest PVE]({{ '/disc/' | relative_url }}). Holy Paladin ranks are [Holy Paladin Healing Efficiency]({{ '/healing/paladin/' | relative_url }}). Restoration Druid ranks are [Restoration Druid Healing Efficiency]({{ '/healing/druid/' | relative_url }}). A live version of the bonus-healing math is the [downrank calculator](https://foreverchanges.pro/downrank-calculator).
+The leveling tree is on the [leveling guide]({{ '/leveling/' | relative_url }}). Holy and Discipline at 60 are [Holy Priest PVE]({{ '/holy/' | relative_url }}) and [Disc Priest PVE]({{ '/disc/' | relative_url }}). Holy Paladin ranks are [Holy Paladin Healing Efficiency]({{ '/healing/paladin/' | relative_url }}). Restoration Druid ranks are [Restoration Druid Healing Efficiency]({{ '/healing/druid/' | relative_url }}). Restoration Shaman ranks are [Restoration Shaman Healing Efficiency]({{ '/healing/shaman/' | relative_url }}). A live version of the bonus-healing math is the [downrank calculator](https://foreverchanges.pro/downrank-calculator).
 
 ## What to cast
 
