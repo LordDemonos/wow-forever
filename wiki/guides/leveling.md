@@ -87,7 +87,7 @@ The food and the rested bar add to kill experience. They do not add to quest tur
 
 **How to cook the food.** Fishing, not hunting. After 14 you are not killing for meat. Two breaks stock it. A gray recipe still makes the food, and the buff has no level cap, so the same fish works at 60. Sit and eat for 10 seconds before a dungeon or any fight. Keep a stack on you. Park extra fish on the warlock.
 
-**Level 5. Brightwater Lake.** When The Great Outdoors sends you to train Cooking, also train Fishing. The warlock wand takes the same elevator into Undercity.
+**Level 5. Brightwater Lake.** When The Great Outdoors sends you to train Cooking, also train Fishing. The warlock wand takes the same elevator into Undercity. Train First Aid on that trip. The potions are in Healing potions, below.
 
 [Clyde Kellen](https://www.wowhead.com/classic/npc=5690/clyde-kellen) is on the southwest shore of Brightwater Lake, about 67, 51. Buy a pole from him. Train Cooking from [Eunice Burch](https://www.wowhead.com/classic/npc=4552/eunice-burch) in the Trade Quarter, about 62, 44. She teaches [Brilliant Smallfish](https://www.wowhead.com/classic/item=6290/brilliant-smallfish) and [Charred Wolf Meat](https://www.wowhead.com/classic/item=2679/charred-wolf-meat) at skill 1.
 
@@ -99,9 +99,77 @@ The second break is the Orgrimmar pond, under Ragefire Chasm. After that, when t
 
 Banked [Raw Bristle Whisker Catfish](https://www.wowhead.com/classic/item=6308/raw-bristle-whisker-catfish) cooks at Cooking 100 into a bigger heal. The experience buff stays the same. [Kilxx](https://www.wowhead.com/classic/npc=3497/kilxx) in Ratchet sells [Recipe: Bristle Whisker Catfish](https://www.wowhead.com/classic/item=6330/recipe-bristle-whisker-catfish). Learn it when you are already in Ratchet and Cooking is 100.
 
+### Healing potions
+
+Healing potions are First Aid. Alchemy still makes the elixirs. First Aid is a secondary profession, so it does not take the Herbalism or Alchemy slot. The ranks and the reagents are from the [First Aid guide](https://www.wowhead.com/forever/guide/professions/first-aid/overview), checked against the recipe pages. A recipe stays orange until the yellow skill, and orange is the one that raises skill on every craft. Gray raises nothing.
+
+**Level 5. Undercity.** Same elevator as Cooking.
+
+[Mary Edras](https://www.wowhead.com/classic/npc=4591/mary-edras) is in the Rogues' Quarter, about 73.6, 55.6. Train Apprentice First Aid for 1 silver. Learn [Minor Healing Potion](https://www.wowhead.com/forever/spell=1244431/minor-healing-potion) from her on that visit, another 1 silver. The [First Aid guide](https://www.wowhead.com/forever/guide/professions/first-aid/overview) lists that potion at skill 1. If it is not on her list yet, make [Linen Bandage](https://www.wowhead.com/classic/spell=3275/linen-bandage) until 40, then [Heavy Linen Bandage](https://www.wowhead.com/classic/spell=3276/heavy-linen-bandage) until 55, and learn the potion then. One linen, then two. Use cloth you already looted. The Scarlet camps drop it. Buy [Mild Spices](https://www.wowhead.com/classic/item=2678/mild-spices) from [Eunice Burch](https://www.wowhead.com/classic/npc=4552/eunice-burch) while you are at the cooking trainer. She also sells [Hot Spices](https://www.wowhead.com/classic/item=2692/hot-spices). Buy [Empty Vial](https://www.wowhead.com/classic/item=3371/empty-vial) from [Daniel Bartlett](https://www.wowhead.com/classic/npc=4561/daniel-bartlett) in the Trade Quarter. He sells [Leaded Vial](https://www.wowhead.com/classic/item=3372/leaded-vial) too. Buy those when the recipe asks for them. A short stack of vials and spices is enough to carry between cities.
+
+**How to skill it.** Craft when the herbs are already in the bags. Make the orange potion until the herbs or the vials run out, and keep one stack of the best potion you can make. Drink from that stack. Make another when it is down to a few. Leave the rest of the herbs for Alchemy. Do not buy herbs to grind, and do not stop the dungeon route for First Aid.
+
+Train the next rank when you are already in a city. Apprentice stops at 75. At skill 50, train Journeyman for 5 silver. On the Ragefire trip that is [Arnok](https://www.wowhead.com/classic/npc=3373/arnok), Valley of Spirits, Orgrimmar, about 34, 84.4. [Mary Edras](https://www.wowhead.com/classic/npc=4591/mary-edras) and [Pand Stonebinder](https://www.wowhead.com/classic/npc=2798/pand-stonebinder) in Thunder Bluff teach the same rank. Journeyman stops at 150.
+
+At skill 125, [Expert First Aid - Under Wraps](https://www.wowhead.com/forever/item=16084/expert-first-aid-under-wraps) raises the cap to 225. It costs 1 gold. Horde buys it from [Balai Lok'Wein](https://www.wowhead.com/classic/npc=8141/balai-lokwein) in Brackenwall Village, about 36.4, 30.4. The Alcaz stop is the planned visit. If the skill is already 125, buy the book and use it before you leave the camp. If you cap at 150 before that trip, keep making the potion you drink, and wait for Brackenwall. Do not ride to the marsh early.
+
+At skill 225, and only once you are level 35, Artisan raises the cap to 300. The quest is [Triage](https://www.wowhead.com/classic/quest=6622/triage), from [Doctor Gregory Victor](https://www.wowhead.com/classic/npc=12939/doctor-gregory-victor) in Hammerfall, about 73.4, 36.8. [Horde Trauma](https://www.wowhead.com/classic/quest=6623/horde-trauma) from [Arnok](https://www.wowhead.com/classic/npc=3373/arnok) points at him. Take it when a trip already goes through Arathi.
+
+**Recipes.** Switch when the next one opens. That one is orange, and the old one is about to stop paying skill.
+
+1. **[Minor Healing Potion](https://www.wowhead.com/forever/spell=1244431/minor-healing-potion).** Skill 1, from the trainer. 1 [Peacebloom](https://www.wowhead.com/classic/item=2447/peacebloom), 1 Mild Spices, 1 Empty Vial. Yellow at 55, green at 75, gray at 95.
+2. **[Lesser Healing Potion](https://www.wowhead.com/forever/spell=1244432/lesser-healing-potion).** Skill 55, from the trainer, 1 silver 50 copper. 1 [Briarthorn](https://www.wowhead.com/classic/item=2450/briarthorn), 2 Mild Spices, 1 Empty Vial. Yellow at 85, green at 105, gray at 125.
+3. **[Healing Potion](https://www.wowhead.com/forever/spell=1244433/healing-potion).** Skill 110, from the trainer, 8 silver. 1 [Bruiseweed](https://www.wowhead.com/classic/item=2453/bruiseweed), 1 Hot Spices, 1 Leaded Vial. Yellow at 135, green at 155, gray at 175.
+4. **[Greater Healing Potion](https://www.wowhead.com/forever/spell=1244434/greater-healing-potion).** Skill 155, from [Manual: Greater Healing Potion](https://www.wowhead.com/forever/item=255723/manual-greater-healing-potion). Needs the Expert cap. 1 [Liferoot](https://www.wowhead.com/classic/item=3357/liferoot), 3 Hot Spices, 1 Leaded Vial. Yellow at 175, green at 195, gray at 215. The First Aid guide has not named who sells this manual.
+5. **[Superior Healing Potion](https://www.wowhead.com/forever/spell=1244435/superior-healing-potion).** Skill 215, from [Manual: Superior Healing Potion](https://www.wowhead.com/forever/item=255725/manual-superior-healing-potion). 1 [Sungrass](https://www.wowhead.com/classic/item=8838/sungrass), 1 [Soothing Spices](https://www.wowhead.com/classic/item=3713/soothing-spices), 1 [Crystal Vial](https://www.wowhead.com/classic/item=8925/crystal-vial). Yellow at 230, green at 250, gray at 270. The seller is not named yet either. Gray at 270, and the next book is 275, so those five points come from any bandage that is still not gray. Do not buy cloth for them.
+6. **[Major Healing Potion](https://www.wowhead.com/forever/spell=1244436/major-healing-potion).** Skill 275, from [Manual: Major Healing Potion](https://www.wowhead.com/forever/item=255729/manual-major-healing-potion). [Pexmit](https://www.wowhead.com/forever/npc=266901/pexmit) in [Mount Hyjal](https://www.wowhead.com/forever/zone=616/mount-hyjal) sells it for 8 gold. Needs the Artisan cap. 1 [Golden Sansam](https://www.wowhead.com/classic/item=13464/golden-sansam), 3 Soothing Spices, 1 Crystal Vial. Yellow at 290, green at 310. Buy the manual when you are already in Hyjal.
+
+### Library books
+
+Twenty different books. Ten open a neck. Twenty open a ring, and the first ten count. The Forever note is [here](https://www.wowhead.com/forever/news/everyone-can-collect-books-for-rewards-in-wow-forever-383141). The Season of Discovery list, Alliance spots included, is [here](https://www.wowhead.com/classic/guide/season-of-discovery/classes/mage/icy-veins-rune). This route is the Horde twenty.
+
+**Beta.** The neck and the ring are in the beta client. The books are world objects, and Forever has been leaving them where the mages used to find them. The Orgrimmar tablet and the scrolls by the Wailing Caverns portal are confirmed on the beta. Players have checked the Sepulcher table, downstairs included, and found nothing.
+
+**The neck.** The tenth book opens Friend of the Library. Take the Scholarly Pendant. Item level 25, +6 stamina and +4 spirit, no level requirement. The other neck is agility. Leave it. Wear this one through the teens. Shadowfang and Blackfathom are where a dungeon neck passes +4 spirit.
+
+**The ring.** The twentieth book opens Greater Friend of the Library. Take Philanthropist's Ring. Item level 40, +6 intellect, and +10 spell damage and healing. The strength ring is flagged rogue-only on the beta. A player at 17 was offered nothing, saw the quest grey at 19, and turned it in at 20. After that the ring has no level requirement. +10 healing is ahead of the rings from Wailing Caverns, the Deadmines, and Shadowfang. It comes off when a dungeon ring passes 10 healing. On this route that is the Scarlet Monastery stretch, in the 30s.
+
+Finish all twenty before Shadowfang. Shadowfang goes at 22. The neck is the teens, and the ring is the piece you wear from 20 through the Scarlet Monastery stretch. The sleeping bag is the trip that already crosses the zones, so the higher camps are on that ride. The Hall of Thanes road crosses a few of the same zones at 14. Leave the books for the bag. You are lower on that first ride.
+
+In a higher camp you are low. Click the object and get back on the road.
+
+Owen Thadd takes them. Magic Quarter, Undercity, about 74, 32. He offers a book while it is in your bags. Each book is its own hand-in. Carry them. After the bag, hand the stack in on the way to the zeppelin. The tenth book is the neck. The ring is the same room at level 20, after books 19 and 20. Shadowfang is the ride south from there.
+
+Skip the Alliance copies. Tower of Azora, the Hall of Explorers in Ironforge, and both inns that hold Rumi of Gnomeregan, Thelsamar and Sentinel Hill. [Ataeric: On Arcane Curiosities](https://www.wowhead.com/classic/quest=79096/ataeric-on-arcane-curiosities) is the empty table in the Sepulcher tomb, near Sebastian Meloche. If a book is there when you pass, it replaces whichever camp would not click.
+
+1. **[The Apothecary's Metaphysical Primer](https://www.wowhead.com/classic/quest=79095/the-apothecarys-metaphysical-primer).** Brill, when you train Alchemy. The shelf beside [Apothecary Johaan](https://www.wowhead.com/classic/npc=1668/apothecary-johaan), about 59.5, 52. Same shop as [Carolai](https://www.wowhead.com/classic/npc=2132/carolai-anise).
+2. **[The Lessons of Ta'zo](https://www.wowhead.com/classic/quest=79094/the-lessons-of-tazo).** Orgrimmar, the day you arrive for Ragefire. Valley of Spirits, about 38.7, 78.4. The large tablet by the Darkbriar Lodge sign. Trace it. [Arnok](https://www.wowhead.com/classic/npc=3373/arnok) stands in that valley if Journeyman First Aid is due. Confirmed on the beta.
+3. **[Arcanic Systems Manual](https://www.wowhead.com/classic/quest=78145/arcanic-systems-manual).** The ride south from Orgrimmar on the bag. Sludge Fen, about 56.3, 8.8, east of the road before the Crossroads. The manual is on a chair in the control room at the top of the oil rig. If the rig is red, click and leave.
+4. **RwlRwlRwlRwl!** After the burnt-tower click. The south fork enters [Dustwallow Marsh](https://www.wowhead.com/classic/zone=15/dustwallow-marsh) (35–45). Witch Hill, about 57, 21. The waterlogged book is on the ground at the eastern edge of the murloc camp. Click it and leave. Brackenwall is the First Aid manual, later. This stop is the camp only.
+5. **Geomancy: The Stone-Cold Truth.** Same southern ride. Stay on the main road to the Great Lift and go down into [Thousand Needles](https://www.wowhead.com/classic/zone=400/thousand-needles) (25–35). Darkcloud Pinnacle, about 34, 40, inside the largest hut. The path up starts about 31, 37. Click the scrolls and leave.
+6. **[Fury of the Land](https://www.wowhead.com/classic/quest=78149/fury-of-the-land).** While you are at the lift. Grimtotem Post is in the hills just west, in [Stonetalon Mountains](https://www.wowhead.com/classic/zone=406/stonetalon-mountains), about 74.4, 85.7. Scrolls on a barrel inside a tent. The camp is the high end of a 15–27 zone. Click and leave. The Sun Rock clicks are a later step. Do this tent now.
+7. **[Baxtan: On Destructive Magics](https://www.wowhead.com/classic/quest=79097/baxtan-on-destructive-magics).** Ratchet, before the boat. Goblin tome beside [Gazlowe](https://www.wowhead.com/classic/npc=3391/gazlowe), about 62.7, 36.3, in the engineering building.
+8. **Basilisks: Should Petrification be Feared?** On the road north from Grom'gol. Crystalvein Mine, [Stranglethorn Vale](https://www.wowhead.com/classic/zone=33/stranglethorn-vale), about 41.5, 50.8. Research notes on the wooden platform to the right of the entrance. Leave the mine. The basilisks outside are 30s. Click and leave.
+9. **[Crimes Against Anatomy](https://www.wowhead.com/classic/quest=78147/crimes-against-anatomy).** Off the road through [Duskwood](https://www.wowhead.com/classic/zone=10/duskwood). Raven Hill Crypt, about 16.7, 28.5. The spellbook is in the Dawning Wood Catacombs, last room, on the table at the far end. A reader found it there on 29 September 2026. The crypt is crowded and above you. If the table will not come up, use the spare below.
+10. **Demons and You.** After the Stonetalon camp clicks. South from Sun Rock through the Charred Vale, then west into [Desolace](https://www.wowhead.com/classic/zone=405/desolace) (30–40). Thunder Axe Fortress, about 55, 28. The book is on a bench in the big building. Nijel's Point, on the way in, is Alliance. Do not stop. Click and leave.
+11. **[The Dalaran Digest, Vol. 23](https://www.wowhead.com/classic/quest=78127/the-dalaran-digest).** Southbound through [Silverpine Forest](https://www.wowhead.com/classic/zone=130/silverpine-forest), on the way to the dam. Ambermill, about 63.5, 63.1, east of the road. Bookshelf in the northeast corner of the main hall. This zone matches you. The hall is mages. The Sepulcher table is the Ataeric check, on this same pass.
+12. **A Web of Lies: Debunking Myths and Legends.** Still southbound, in [Arathi Highlands](https://www.wowhead.com/classic/zone=45/arathi-highlands), before the Wetlands. Witherbark Village, about 73, 65, the southeast. Scrolls outside a tent, toward the hut. The village is 30–40. Click and get back on the road. Hammerfall can wait. Triage is level 35.
+13. **[Goaz Scrolls](https://www.wowhead.com/classic/quest=78146/goaz-scrolls).** On the way to the dam. Whelgar's Excavation Site, [the Wetlands](https://www.wowhead.com/classic/zone=11/wetlands), about 33.6, 47.9. The scrolls are in an urn on the lowest level. The dungeon here is 24, which is past the ring, so the urn is now. The raptors are the high end of a 20–30 zone. Click and leave.
+14. **[Runes of the Sorcerer-Kings](https://www.wowhead.com/classic/quest=78148/runes-of-the-sorcerer-kings).** From the dam, before you hearth. East along the north shore of [Loch Modan](https://www.wowhead.com/classic/zone=38/loch-modan). Mo'grosh Stronghold, about 77.5, 14.1. Scrolls in the ogre cave. The zone is 10–20. The ogres are the top of it.
+15. **Mummies: A Guide to the Unsavory Undead.** Same stop, before the hearth. South through Loch Modan. Thelsamar is Alliance. Do not stop. The tunnel past it enters the [Badlands](https://www.wowhead.com/classic/zone=3/badlands) (35–45). The path up starts about 56, 45, and the scrolls are in the crypt about 57, 39. Click and ride back, then hearth.
+16. **Defensive Magics 101.** After the satchel, from Tarren Mill. North into [Alterac Mountains](https://www.wowhead.com/classic/zone=36/alterac-mountains) (30–40). Gallows' Corner, about 48.5, 57.6. The first tower of the ogre fortress, from the Tarren Mill road or from Strahnbrad. The manual is inside. Click and leave.
+17. **[Secrets of the Dreamers](https://www.wowhead.com/classic/quest=78143/secrets-of-the-dreamers).** Wailing Caverns, before you zone in. Enter the cave at the Lushwater Oasis, about 46, 36. The scrolls are in the Cavern of Mists, about 52.8, 54.7, by the portal. Confirmed on the beta. They are outside the instance.
+18. **[Bewitchments and Glamours](https://www.wowhead.com/classic/quest=78142/bewitchments-and-glamours).** The Deadmines trip. First house on the left as you enter Moonbrook, about 45.4, 70.5. Spellbook on the bookshelf. Loot it before the mine. Sentinel Hill stays off the route.
+19. **[Nar'thalas Almanac, Vol. 74](https://www.wowhead.com/classic/quest=78124/narthalas-almanac).** Level 20, with the Ashenvale breadcrumb. West across [Ashenvale](https://www.wowhead.com/classic/zone=331/ashenvale) into [Darkshore](https://www.wowhead.com/classic/zone=148/darkshore) (11–19). Ruins of Mathystra, about 59.6, 22.2, third landing down the stairs. Darkshore matches your level. Astranaar is Alliance. Do not stop.
+20. **Everyday Etiquette.** The same level-20 stop. East from Splintertree into [Azshara](https://www.wowhead.com/classic/zone=16/azshara). Haldarr Encampment, about 20.7, 62, on a crate beside the hut. The naga are well above you. Click and leave.
+
+**Spare.** If a camp will not click, one replacement is the cage at Fallow Sanctuary, [Swamp of Sorrows](https://www.wowhead.com/classic/zone=8/swamp-of-sorrows), about 61, 22. The book is A Luddite's Guide to Caring for Your Demonic Pet, and it can be clicked through the bars. The road leaves Duskwood east through Deadwind Ravine, which is well above you.
+
+Hand the last two to Owen at 20 and take the ring. Then ride south to Shadowfang.
+
 ### Levels 1–13
 
-Quest Tirisfal. It is a straight line from Deathknell to Brill and then around the zone. These are the three stops to not skip. Herbalism and Alchemy are the professions.
+Quest Tirisfal. It is a straight line from Deathknell to Brill and then around the zone. These are the three stops to not skip. Herbalism and Alchemy are the professions. First Aid is the healing potions, and the training stop is above.
 
 #### Herbalism book: [Marla's Last Wish](https://www.wowhead.com/classic/quest=6395/marlas-last-wish)
 
@@ -113,9 +181,9 @@ Quest Tirisfal. It is a straight line from Deathknell to Brill and then around t
 
 **Reward:** One of three books. Take **[Wild Harvest](https://www.wowhead.com/forever/item=247841/wild-harvest)**. It teaches Herbalism and starts you at 2 skill. You only get one. Turn on Herbalism tracking from Professions (P).
 
-Alchemy is not in that choice. Train it from [Carolai Anise](https://www.wowhead.com/classic/npc=2132/carolai-anise) in Brill. She stands next to [Faruza](https://www.wowhead.com/classic/npc=2114/faruza), the herbalism trainer, about 59.8, 52. [Faruza](https://www.wowhead.com/classic/npc=2114/faruza) trains the higher herbalism ranks after the book.
+Alchemy is not in that choice. Train it from [Carolai Anise](https://www.wowhead.com/classic/npc=2132/carolai-anise) in Brill. She stands next to [Faruza](https://www.wowhead.com/classic/npc=2114/faruza), the herbalism trainer, about 59.8, 52. [Faruza](https://www.wowhead.com/classic/npc=2114/faruza) trains the higher herbalism ranks after the book. Healing potions are First Aid. [Carolai](https://www.wowhead.com/classic/npc=2132/carolai-anise) does not teach them. Library book 1 is the shelf beside [Apothecary Johaan](https://www.wowhead.com/classic/npc=1668/apothecary-johaan), in this shop. The list is in Library books, above.
 
-Buy bags once Herbalism is trained. Space runs out fast. Get one reagent bag.
+Space runs out fast once Herbalism is trained. Do not buy a set of bags. The warlock detour, below, mails four linen bags and one linen reagent bag. Herbs go in the reagent bag.
 
 #### Campfire: The Great Outdoors
 
@@ -149,22 +217,23 @@ A white apprentice crate has been paying 5 [Merchant's Favor](https://www.wowhea
 
 #### Detour at level 5: warlock wand
 
-When the priest hits 5, stop and make an Undead warlock. Get that warlock to 5, craft a [Lesser Magic Wand](https://www.wowhead.com/classic/item=11287/lesser-magic-wand), mail it to the priest, and leave the warlock at the Undercity bank.
+When the priest hits 5, stop and make an Undead warlock. Get that warlock to 5, craft a [Lesser Magic Wand](https://www.wowhead.com/classic/item=11287/lesser-magic-wand), four [Linen Bags](https://www.wowhead.com/classic/item=4238/linen-bag), and one [Linen Reagent Bag](https://www.wowhead.com/forever/item=253664/linen-reagent-bag), mail them to the priest, and leave the warlock at the Undercity bank.
 
 The wand is the ranged slot. It is 12–22 Arcane, 1.50 speed. On the priest, train Wands from the priest trainer if you have not already, and drag **Shoot** out of the spellbook's General tab onto the bar.
 
 **Classic.** Forever has not published a different early wand. Do not take [Wild Harvest](https://www.wowhead.com/forever/item=247841/wild-harvest) on the warlock. Tailoring and Enchanting are both primary professions, and the book would spend one of those slots.
 
 1. Level the warlock to 5 on the same Deathknell quests. Skip the herbalism book.
-2. Kill Scarlet humans for Linen Cloth. The camp north of Deathknell drops it, and so do the farmers at Solliden Farmstead, west of Brill. About 60 cloth is the usual amount. Bring extra if you can.
+2. Kill Scarlet humans for Linen Cloth. The camp north of Deathknell drops it, and so do the farmers at Solliden Farmstead, west of Brill. About 60 cloth is the usual amount for the wand. Reaching Tailoring 45, four linen bags, and one reagent bag wants about 70 more. Hold back 36 cloth. Twenty-four is the bags. Twelve is the reagent bag.
 3. Go into Undercity. From Brill, the road south enters the ruins. Take the elevator down.
-4. Train Tailoring from [Josef Gregorian](https://www.wowhead.com/classic/npc=4576/josef-gregorian), Magic Quarter, about 70.6, 29.6. The supplies vendor beside him sells Coarse Thread.
+4. Train Tailoring from [Josef Gregorian](https://www.wowhead.com/classic/npc=4576/josef-gregorian), Magic Quarter, about 70.6, 29.6. [Millie Gregorian](https://www.wowhead.com/classic/npc=4577/millie-gregorian), beside him, sells Coarse Thread. At Tailoring 5, buy Pattern: Linen Reagent Bag from her for 1 silver 50 copper.
 5. Train Enchanting from [Lavinia Crowe](https://www.wowhead.com/classic/npc=4616/lavinia-crowe), Apothecarium, about 62.4, 61.4. Both professions require level 5.
-6. Make [Bolts of Linen Cloth](https://www.wowhead.com/classic/item=2996/bolt-of-linen-cloth) until Tailoring is 30. Learn [Brown Linen Robe](https://www.wowhead.com/classic/item=6238/brown-linen-robe) from [Josef](https://www.wowhead.com/classic/npc=4576/josef-gregorian). Each robe is 3 bolts and 1 Coarse Thread. Sew the bolts into robes.
-7. Disenchant the robes. That raises Enchanting. Keep going until you have 1 Strange Dust and 2 Lesser Magic Essence. The dust is the common result. The essence is not, so nine robes is the usual start and you may need more.
+6. Make [Bolts of Linen Cloth](https://www.wowhead.com/classic/item=2996/bolt-of-linen-cloth) until Tailoring is 30. Learn [Brown Linen Robe](https://www.wowhead.com/classic/item=6238/brown-linen-robe) from [Josef](https://www.wowhead.com/classic/npc=4576/josef-gregorian). Each robe is 3 bolts and 1 Coarse Thread. Sew robes until Tailoring is 45. The robe stays orange until 50, so each one is a skill point. Leave the 36 cloth as cloth.
+7. Disenchant the robes. That raises Enchanting. Keep going until you have 1 Strange Dust and 2 Lesser Magic Essence. The dust is the common result. The essence is not, so nine robes is the usual start and you may need more. If that still leaves Tailoring under 45, sew more robes. Do not use the bag cloth.
 8. Buy 1 Copper Rod from an engineering supplier, and 1 Simple Wood from a trade goods vendor. At Enchanting 1, craft a [Runed Copper Rod](https://www.wowhead.com/classic/item=6218/runed-copper-rod): the rod, the dust, and 1 essence. The rod stays in your bags. It is the tool, and it is not used up by the wand.
 9. At Enchanting 10, learn [Lesser Magic Wand](https://www.wowhead.com/classic/spell=14293/lesser-magic-wand) from [Lavinia](https://www.wowhead.com/classic/npc=4616/lavinia-crowe). Craft it with the rod in your bags, 1 Simple Wood, and the other essence.
-10. Mail the wand to the priest. It is bind on equip. Leave the warlock at the bank in the Trade Quarter. The mailbox is beside it. That character is the bank mule from here on. Do not grind Enchanting any higher for a wand. The next recipes lose to the dungeon path under Wands.
+10. At Tailoring 45, learn [Linen Bag](https://www.wowhead.com/classic/item=4238/linen-bag) from [Josef](https://www.wowhead.com/classic/npc=4576/josef-gregorian). Bolt 24 of the held cloth and sew four bags. Each bag is 3 bolts and 3 Coarse Thread. Six slots. The bolts are green by then, and that is fine. Bolt the other 12 and sew one [Linen Reagent Bag](https://www.wowhead.com/forever/item=253664/linen-reagent-bag). It crafts at Tailoring 30. Six bolts and 6 Coarse Thread. Six slots. Herbs and the other crafting reagents go in it.
+11. Mail the wand and the bags to the priest. All of them are bind on equip. Leave the warlock at the bank in the Trade Quarter. The mailbox is beside it. That character is the bank mule from here on. Do not grind Enchanting any higher for a wand. The next recipes lose to the dungeon path under Wands. The wool bags are the level 20 detour, after the Deadmines.
 
 #### Before the dungeons: [Leonid's Letter](https://www.wowhead.com/forever/quest=98545/leonids-letter)
 
@@ -211,7 +280,7 @@ The pond throws about half [Raw Longjaw Mud Snapper](https://www.wowhead.com/cla
 
 Fish until Fishing is 75, then stop. Apprentice caps there. That covers this pond and the Barrens oases for the rest of the route. Leave the fishing rank at Apprentice.
 
-Cook the Brilliant Smallfish until Cooking is 50. Train Journeyman Cooking from [Zamja](https://www.wowhead.com/classic/npc=3399/zamja) in the Drag, about 57, 53, for 5 silver. Apprentice Cooking stops at 75, and Longjaw stays orange until 90.
+Cook the Brilliant Smallfish until Cooking is 50. Train Journeyman Cooking from [Zamja](https://www.wowhead.com/classic/npc=3399/zamja) in the Drag, about 57, 53, for 5 silver. Apprentice Cooking stops at 75, and Longjaw stays orange until 90. If First Aid is 50, train Journeyman from [Arnok](https://www.wowhead.com/classic/npc=3373/arnok) before you leave Orgrimmar. The potion ranks are in Healing potions, above. Library book 2 is in his valley. The tablet is about 39, 78, by the Darkbriar Lodge sign. Trace it before you zone in.
 
 [Rahauro](https://www.wowhead.com/classic/npc=11833/rahauro) is on Elder Rise. Walk down from there and buy [Recipe: Longjaw Mud Snapper](https://www.wowhead.com/classic/item=6328/recipe-longjaw-mud-snapper) from [Naal Mistrunner](https://www.wowhead.com/classic/npc=3027/naal-mistrunner), about 51, 52, for 4 silver. The scroll requires Cooking 50. If you see [Varimathras](https://www.wowhead.com/classic/npc=2425/varimathras) first, [Lizbeth Cromwell](https://www.wowhead.com/classic/npc=4574/lizbeth-cromwell) in the Magic Quarter sells the same scroll.
 
@@ -284,7 +353,7 @@ The ruined city of Lordaeron, above the [Undercity](https://www.wowhead.com/clas
 - **Not a chain.** [Crest of Lordaeron](https://www.wowhead.com/forever/quest=95204/crest-of-lordaeron) starts from the crest inside. It moves between side rooms. Loot your own. Turn in to [Oran Snakewrithe](https://www.wowhead.com/classic/npc=7825/oran-snakewrithe), Undercity.
 - **Chain, 5 steps, all named Unending Torment.** Step 1 is [Unending Torment](https://www.wowhead.com/forever/quest=97288/unending-torment). Loot the Abominable Head from the abomination inside. It cannot be shared. Turn the head in to someone in Undercity. The later steps stay in Undercity. One reported step uses the quest item on a worm named Ganoosh outside the Apothecarium. The other three step names are not published separately.
 
-Do the sleeping bag detour below before Wailing Caverns. If you are short of 17 after it, the Barrens gap section is next.
+Do the sleeping bag detour below before Wailing Caverns. Library books 3 through 16 are on that ride. If you are short of 17 after it, the Barrens gap section is next.
 
 ### Detour: Cozy Sleeping Bag
 
@@ -296,7 +365,7 @@ The reward is the [Cozy Sleeping Bag](https://www.wowhead.com/classic/item=21152
 
 Use the bag outside a city. It unfurls on the ground and is not clicked again. Walk onto it and do not move. Moving wakes you. You gain 1% bonus experience per minute, up to 3%. Forever lists a 1-hour cooldown. In Season of Discovery the buff lasted 2 hours. Logging out while you are asleep on it has counted as an inn for rested experience. <a class="shot" target="_blank" rel="noopener" href="{{ '/assets/sleeping-bag/sleeping.jpg' | relative_url }}">Photo of sleeping on it</a>. You also get a 12-slot bag, the [Sturdy Lunchbox](https://www.wowhead.com/forever/item=1652/sturdy-lunchbox), and [Student Fodder](https://www.wowhead.com/classic/item=216619/student-fodder), food that grants a chunk of rested experience.
 
-You will be low for Duskwood, the Wetlands, Hillsbrad, and Arathi. Stay on the road. Do not fight. Sentinel Hill, Menethil Harbor, and Thelsamar are Alliance towns.
+You will be low for Duskwood, the Wetlands, Hillsbrad, and Arathi. Stay on the road. Do not fight. The library books are the reason to step off it. Click the object and come back. Sentinel Hill, Menethil Harbor, and Thelsamar are Alliance towns.
 
 #### 1. [...and that note you found](https://www.wowhead.com/classic/quest=79007/and-that-note-you-found)
 
@@ -309,7 +378,7 @@ There are two pages for this name, [79007](https://www.wowhead.com/classic/quest
 1. The zeppelin towers are northwest of Brill. Two dock there. Take the one to Orgrimmar, not the one to Grom'gol.
 2. It lands in [Durotar](https://www.wowhead.com/classic/zone=14/durotar), outside [Orgrimmar](https://www.wowhead.com/classic/zone=1637/orgrimmar). Leave by the south gate.
 3. The road runs south through [the Barrens](https://www.wowhead.com/classic/zone=17/the-barrens) (10–25). The Crossroads is the town in the middle. Camp Taurajo is farther south on that same road.
-4. The burnt tower is a short walk past the camp, about 46, 74. Grab the flight points at the Crossroads, Camp Taurajo, and Ratchet while you are here. Hand any sealed crates to Dokimi, just south of the Crossroads. That turn-in is in Merchant's Favor, above. Do not hunt the named beasts on this walk. They are the gap section after the bag.
+4. The burnt tower is a short walk past the camp, about 46, 74. Grab the flight points at the Crossroads, Camp Taurajo, and Ratchet while you are here. Hand any sealed crates to Dokimi, just south of the Crossroads. That turn-in is in Merchant's Favor, above. Do not hunt the named beasts on this walk. They are the gap section after the bag. Library book 3 is the Sludge Fen rig, east of the road before the Crossroads. After the tower, book 4 is the Dustwallow fork, and books 5 and 6 are the Great Lift and the Grimtotem tent west of it. Then go on to Ratchet.
 
 #### 2. Same quest, turned in at Westfall
 
@@ -320,7 +389,7 @@ Click the Burned-Out Remains in the wreckage of a cart at Alexston Farmstead, no
 1. East to Ratchet. Take the boat to Booty Bay, on the south coast of [Stranglethorn Vale](https://www.wowhead.com/classic/zone=33/stranglethorn-vale).
 2. Follow the road north. It passes Grom'gol. Grab the flight point. The road leaves the zone into [Duskwood](https://www.wowhead.com/classic/zone=10/duskwood) (18–30).
 3. Take the west road into [Westfall](https://www.wowhead.com/classic/zone=40/westfall) (10–20). The north road is [Elwynn Forest](https://www.wowhead.com/classic/zone=12/elwynn-forest). Do not take it.
-4. The farmstead is in the northeast of Westfall, about 37, 50, near the river border with Elwynn. Sentinel Hill, in the middle of Westfall, is Alliance. Do not go there.
+4. The farmstead is in the northeast of Westfall, about 37, 50, near the river border with Elwynn. Sentinel Hill, in the middle of Westfall, is Alliance. Do not go there. Library book 7 is beside Gazlowe, before the boat. Book 8 is the platform outside Crystalvein Mine. Book 9 is Raven Hill Crypt, off the Duskwood road. Moonbrook is book 18, on the Deadmines trip.
 
 #### 3. [Stepping Stones](https://www.wowhead.com/classic/quest=79192/stepping-stones)
 
@@ -344,19 +413,19 @@ Accept [Scramble](https://www.wowhead.com/classic/quest=79980/scramble).
 
 **Run.** Same hill in [Stonetalon Mountains](https://www.wowhead.com/classic/zone=406/stonetalon-mountains). North from the camp, then the short jump. Not a new zone.
 
-Accept [Wet Job](https://www.wowhead.com/classic/quest=79974/wet-job). This step is where the [Student Fodder](https://www.wowhead.com/classic/item=216619/student-fodder) starts. Season of Discovery gave 3 here.
+Accept [Wet Job](https://www.wowhead.com/classic/quest=79974/wet-job). This step is where the [Student Fodder](https://www.wowhead.com/classic/item=216619/student-fodder) starts. Season of Discovery gave 3 here. Library book 10 is next, before you leave the zone. South through the Charred Vale and west into Desolace. Thunder Axe Fortress. The bench is in Library books, above.
 
 #### 5. [Wet Job](https://www.wowhead.com/classic/quest=79974/wet-job)
 
-**Where:** A Carved Figurine on a ledge of the Stonewrought Dam, north [Loch Modan](https://www.wowhead.com/classic/zone=38/loch-modan) (10–20), about 49.4, 12.9. The ledge faces [the Wetlands](https://www.wowhead.com/classic/zone=11/wetlands). Look over the dam toward the Wetlands and jump onto the carved dwarf heads. The figurine is against the back wall of that ledge. Do not jump into the water. It is shallow, and the fall kills you. <a class="shot" target="_blank" rel="noopener" href="{{ '/assets/sleeping-bag/loch-modan-dam.jpg' | relative_url }}">Photo of the ledge</a>. Set your hearth in Brill or Tarren Mill before you climb the dam. Hearth out after the click, or slide down the dam face if you can see a slope.
+**Where:** A Carved Figurine on a ledge of the Stonewrought Dam, north [Loch Modan](https://www.wowhead.com/classic/zone=38/loch-modan) (10–20), about 49.4, 12.9. The ledge faces [the Wetlands](https://www.wowhead.com/classic/zone=11/wetlands). Look over the dam toward the Wetlands and jump onto the carved dwarf heads. The figurine is against the back wall of that ledge. Do not jump into the water. It is shallow, and the fall kills you. <a class="shot" target="_blank" rel="noopener" href="{{ '/assets/sleeping-bag/loch-modan-dam.jpg' | relative_url }}">Photo of the ledge</a>. Set your hearth in Tarren Mill before you climb the dam. Library books 14 and 15 are the loch, east to the ogre cave and south past Thelsamar into the Badlands. Do both before you hearth. Hearth to Tarren Mill after those two, or slide down the dam face if you can see a slope.
 
 **Run.** From Stonetalon, back to the Eastern Kingdoms, then south to the dam. You are low for Hillsbrad, Arathi, and the Wetlands. Stay on the road. Do not fight.
 
 1. East into [the Barrens](https://www.wowhead.com/classic/zone=17/the-barrens), north to Orgrimmar. The zeppelin in [Durotar](https://www.wowhead.com/classic/zone=14/durotar) goes to [Tirisfal Glades](https://www.wowhead.com/classic/zone=85/tirisfal-glades).
-2. South into [Silverpine Forest](https://www.wowhead.com/classic/zone=130/silverpine-forest) (10–20). The road runs through the Sepulcher.
-3. South into [Hillsbrad Foothills](https://www.wowhead.com/classic/zone=267/hillsbrad-foothills) (20–30). Tarren Mill is the Horde camp. Grab the flight point.
-4. South through the gate in Thoradin's Wall into [Arathi Highlands](https://www.wowhead.com/classic/zone=45/arathi-highlands) (30–40). Do not climb the wall. The last two clicks are up there. Hammerfall is the Horde camp if you want that flight point.
-5. South across the Thandol Span into [the Wetlands](https://www.wowhead.com/classic/zone=11/wetlands) (20–30). Menethil Harbor is Alliance. Do not go into the harbor.
+2. South into [Silverpine Forest](https://www.wowhead.com/classic/zone=130/silverpine-forest) (10–20). The road runs through the Sepulcher. Library book 11 is Ambermill, east of the road. The tomb table near Sebastian Meloche is the Ataeric check.
+3. South into [Hillsbrad Foothills](https://www.wowhead.com/classic/zone=267/hillsbrad-foothills) (20–30). Tarren Mill is the Horde camp. Grab the flight point. Set your hearth here before the dam.
+4. South through the gate in Thoradin's Wall into [Arathi Highlands](https://www.wowhead.com/classic/zone=45/arathi-highlands) (30–40). Do not climb the wall. The last two clicks are up there. Library book 12 is Witherbark Village, southeast, before you go on to the Wetlands. Hammerfall is the flight point if you want it. Triage waits until 35.
+5. South across the Thandol Span into [the Wetlands](https://www.wowhead.com/classic/zone=11/wetlands) (20–30). Menethil Harbor is Alliance. Do not go into the harbor. Library book 13 is the urn at Whelgar's, on the way to the dam.
 6. West across the Wetlands to the Stonewrought Dam. The dam is the west edge of the Wetlands and the north wall of [Loch Modan](https://www.wowhead.com/classic/zone=38/loch-modan) (10–20).
 
 Accept [Eagle's Fist](https://www.wowhead.com/classic/quest=79975/eagles-fist). Turn-in is a [Hickory Pipe](https://www.wowhead.com/classic/item=5432/hickory-pipe) and [Rumsey Rum Light](https://www.wowhead.com/classic/item=20709/rumsey-rum-light).
@@ -375,9 +444,9 @@ Climb the cart onto the wall, through the room, and out the far side. A Messenge
 
 You receive the [Cozy Sleeping Bag](https://www.wowhead.com/classic/item=211527/cozy-sleeping-bag) and 5 [Student Fodder](https://www.wowhead.com/classic/item=216619/student-fodder).
 
-**Run.** You finish on the Hillsbrad side of the wall. Wailing Caverns is next, in the Barrens.
+**Run.** You finish on the Hillsbrad side of the wall. Library book 16 is Gallows' Corner, north of Tarren Mill. Wailing Caverns is next, in the Barrens.
 
-1. North through [Hillsbrad Foothills](https://www.wowhead.com/classic/zone=267/hillsbrad-foothills) and [Silverpine Forest](https://www.wowhead.com/classic/zone=130/silverpine-forest) into [Tirisfal Glades](https://www.wowhead.com/classic/zone=85/tirisfal-glades).
+1. North through [Hillsbrad Foothills](https://www.wowhead.com/classic/zone=267/hillsbrad-foothills) and [Silverpine Forest](https://www.wowhead.com/classic/zone=130/silverpine-forest) into [Tirisfal Glades](https://www.wowhead.com/classic/zone=85/tirisfal-glades). Owen Thadd is in the Magic Quarter, about 74, 32. Hand in every library book in the bags. The tenth is the neck. The ring waits until 20.
 2. Zeppelin to Orgrimmar. It lands in [Durotar](https://www.wowhead.com/classic/zone=14/durotar). Leave by the south gate.
 3. The road south is [the Barrens](https://www.wowhead.com/classic/zone=17/the-barrens). The Crossroads is the town in the middle. The caverns are west of it.
 
@@ -406,7 +475,7 @@ Go at **17**. Band **17–24**. Horde.
 
 [Wailing Caverns](https://www.wowhead.com/classic/zone=718/wailing-caverns) is the cave on the north side of the Lushwater Oasis, west of the Crossroads.
 
-**Run.** The sleeping bag detour sends you back to [the Barrens](https://www.wowhead.com/classic/zone=17/the-barrens). From the Crossroads, take the west road to the Lushwater Oasis. The cave is on the north side of the water.
+**Run.** The sleeping bag detour sends you back to [the Barrens](https://www.wowhead.com/classic/zone=17/the-barrens). From the Crossroads, take the west road to the Lushwater Oasis. The cave is on the north side of the water. Library book 17 is in that cave, by the portal, before you zone in.
 
 **Zone:** [The Barrens](https://www.wowhead.com/classic/zone=17/the-barrens), 10–25, Kalimdor.
 
@@ -435,7 +504,7 @@ Go at **17**. Band **17–26**. Alliance.
 1. East to Ratchet. Take the boat to Booty Bay, on the south coast of [Stranglethorn Vale](https://www.wowhead.com/classic/zone=33/stranglethorn-vale).
 2. Follow the road north. It passes Grom'gol. Grab the flight point. The road leaves the zone into [Duskwood](https://www.wowhead.com/classic/zone=10/duskwood) (18–30).
 3. In Duskwood, take the west road into [Westfall](https://www.wowhead.com/classic/zone=40/westfall) (10–20).
-4. South to Moonbrook. The mine is in town. The instance door is inside the tunnel. Sentinel Hill, in the middle of Westfall, is Alliance. Do not go there.
+4. South to Moonbrook. The mine is in town. The instance door is inside the tunnel. Sentinel Hill, in the middle of Westfall, is Alliance. Do not go there. Library book 18 is the first house on the left as you enter, about 45, 70. Loot the spellbook before the mine. If book 8 or 9 is still on the Stranglethorn or Duskwood road, this is the same ride.
 
 **Zone:** [Westfall](https://www.wowhead.com/classic/zone=40/westfall), 10–20, Eastern Kingdoms.
 
@@ -447,15 +516,42 @@ Alliance chains, if you ever need the names: [The Defias Brotherhood](https://ww
 
 [Cookie](https://www.wowhead.com/classic/npc=645/cookie), on the ship, drops [Cookie's Stirring Rod](https://www.wowhead.com/classic/item=5198/cookies-stirring-rod). Green wand, 22.3 dps. It replaces Sizzle Stick and Firebelcher.
 
+### Detour at level 20: warlock bags
+
+After the Deadmines. The priest is around 20, and Shadowfang is 22. Level the warlock from 5 to 10, sew the wool bags, and leave the warlock at 10.
+
+The warlock follows the Tirisfal quests in Levels 1–13. Skip the herbalism book. Stop at 10. The dungeons stay on the priest.
+
+Mail the priest's spare linen and wool to the warlock. The 36 cloth from the wand trip is still the linen bags, so do not spend it here. Silk drops off humanoids in the high 20s. Sew the wool bags on this stop. When a silk stack arrives in the mail, this same level 10 warlock can finish the pack.
+
+[Josef Gregorian](https://www.wowhead.com/classic/npc=4576/josef-gregorian) is still the trainer, Magic Quarter, about 70.6, 29.6. [Millie Gregorian](https://www.wowhead.com/classic/npc=4577/millie-gregorian), beside him, sells Fine Thread and the reagent pattern. Train Journeyman Tailoring from Josef once you are level 10 and Tailoring is 50. Five silver. Apprentice stops at 75. Journeyman raises the cap to 150, which is as high as the silk pack goes.
+
+You are at Tailoring 45 from the wand.
+
+1. [Linen Belt](https://www.wowhead.com/classic/item=7026/linen-belt) from Josef. One bolt and one Coarse Thread. Orange until 50, yellow until 67. Sew until 60. Train Journeyman when you pass 50.
+2. [Reinforced Linen Cape](https://www.wowhead.com/classic/item=2580/reinforced-linen-cape) at 60. Two bolts and three Coarse Thread. Yellow until 77. Sew until 75. This is the linen from the priest's bank, not the 36 cloth.
+3. [Bolt of Woolen Cloth](https://www.wowhead.com/classic/item=2997/bolt-of-woolen-cloth) at 75. Three wool cloth. Green at 77, gray at 85. About 60 wool cloth covers this stop: five bolts for the capes, twelve for four bags, three for the reagent bag. Make those bolts. Do not skill on bolts past 77.
+4. [Woolen Cape](https://www.wowhead.com/classic/item=2584/woolen-cape) at 75. One wool bolt and one Fine Thread. Orange until 80. Sew until 80.
+5. [Woolen Bag](https://www.wowhead.com/classic/item=4240/woolen-bag) at 80, from Josef. Eight slots. Three wool bolts and one Fine Thread. Sew four. They replace the linen bags.
+6. [Woolen Reagent Bag](https://www.wowhead.com/forever/item=253667/woolen-reagent-bag). Eight slots. Herbs and the other crafting reagents go in it. This is the herbalism bag. Buy the pattern from Millie for 2 silver 50 copper once Tailoring is 70. Craft it at 75. Three wool bolts, one Fine Thread, and one [Cerulean Dye](https://www.wowhead.com/forever/item=249409/cerulean-dye). The priest makes the dye at Alchemy 50, from an alchemy trainer: two [Frilled Lichen](https://www.wowhead.com/forever/item=249399/frilled-lichen) and one empty vial. The lichen comes off herbs as you pick them, Earthroot and above. The vial is on an alchemy vendor. It replaces the linen reagent bag.
+
+Mail the wool bags to the priest. They are bind on equip.
+
+**Silk.** [Small Silk Pack](https://www.wowhead.com/classic/item=4245/small-silk-pack) is Tailoring 150, from Josef. Ten slots. Three [Bolt of Silk Cloth](https://www.wowhead.com/classic/item=4305/bolt-of-silk-cloth), two [Heavy Leather](https://www.wowhead.com/classic/item=4234/heavy-leather), and three Fine Thread. A leatherworker makes the leather, or you buy it. The bolt is Tailoring 125 and takes four silk cloth. Journeyman ends at 150, so the warlock stays at 10.
+
+From 80 to 125, stay on wool. The cape stays yellow until 97. [Heavy Woolen Gloves](https://www.wowhead.com/classic/item=4310/heavy-woolen-gloves) at 85 are yellow until 102: three wool bolts and one Fine Thread. [Double-stitched Woolen Shoulders](https://www.wowhead.com/classic/item=4314/double-stitched-woolen-shoulders) at 110 are yellow until 127: three wool bolts and two Fine Thread. Sew the shoulders to 125, then make silk bolts. If the bolts stop giving skill before 150, [Azure Silk Pants](https://www.wowhead.com/classic/item=7046/azure-silk-pants) at 140 stay yellow until 150. Learn the pack, sew up to four, and mail them.
+
+Leave the warlock at the Undercity bank.
+
 ### Gap experience: before Shadowfang
 
-Shadowfang is 22. Deadmines had no Horde quests, so this is the long gap. If you are already 22, skip this and pick up the keep quests at the Sepulcher.
+Shadowfang is 22. The warlock bag detour above comes first. Deadmines had no Horde quests, so this is the long gap. If you are already 22, skip this and pick up the keep quests at the Sepulcher.
 
 The Barrens gap section is the first choice, through 20. Fly to Camp Taurajo and finish any beast that is still green.
 
 If those four are red and you are still short, fly to Sun Rock. The poster on the road at about 59, 75 starts [Arachnophobia](https://www.wowhead.com/classic/quest=6284/arachnophobia). [Besseleth](https://www.wowhead.com/classic/npc=11921/besseleth) is an elite spider in Sishir Canyon, just west of that poster. Turn the fang in to [Maggran Earthbinder](https://www.wowhead.com/classic/npc=11860/maggran-earthbinder) at Sun Rock. Skip her if the canyon comes with her.
 
-At 20, take [The Ashenvale Hunt](https://www.wowhead.com/classic/quest=6382/the-ashenvale-hunt) from [Jorn Skyseer](https://www.wowhead.com/classic/npc=3387/jorn-skyseer) at Camp Taurajo. Turn it in to [Senani Thunderheart](https://www.wowhead.com/classic/npc=12696/senani-thunderheart) at Splintertree Post and accept his quest of the same name, [The Ashenvale Hunt](https://www.wowhead.com/classic/quest=6383/the-ashenvale-hunt). The trophies do not drop until that quest is in your log. The three beasts are in the Ashenvale gap section, before the City of Dalaran.
+At 20, take [The Ashenvale Hunt](https://www.wowhead.com/classic/quest=6382/the-ashenvale-hunt) from [Jorn Skyseer](https://www.wowhead.com/classic/npc=3387/jorn-skyseer) at Camp Taurajo. Turn it in to [Senani Thunderheart](https://www.wowhead.com/classic/npc=12696/senani-thunderheart) at Splintertree Post and accept his quest of the same name, [The Ashenvale Hunt](https://www.wowhead.com/classic/quest=6383/the-ashenvale-hunt). The trophies do not drop until that quest is in your log. The three beasts are in the Ashenvale gap section, before the City of Dalaran. Library books 19 and 20 are this stop, and they close the ring. Book 19 is the Ruins of Mathystra, west across Ashenvale into Darkshore. Book 20 is Haldarr Encampment, east of Splintertree in Azshara. Then the zeppelin from Orgrimmar. Owen Thadd, Magic Quarter, about 74, 32, takes 19 and 20, and 17 and 18 if they are still in the bags. The quest turns in at 20. Take Philanthropist's Ring.
 
 ### 6. Shadowfang Keep (22)
 
@@ -463,7 +559,7 @@ Go at **22**. Band **22–30**. Horde.
 
 [Shadowfang Keep](https://www.wowhead.com/classic/zone=209/shadowfang-keep) sits above Pyrewood Village.
 
-**Run.** Back to Tirisfal, then south.
+**Run.** Back to Tirisfal, then south. If the ring turn-in just left you in Tirisfal, skip the boat and start at the Sepulcher.
 
 1. East into [Duskwood](https://www.wowhead.com/classic/zone=10/duskwood), south through [Stranglethorn Vale](https://www.wowhead.com/classic/zone=33/stranglethorn-vale) to Booty Bay, boat to Ratchet.
 2. North to Orgrimmar. The zeppelin in [Durotar](https://www.wowhead.com/classic/zone=14/durotar) goes to [Tirisfal Glades](https://www.wowhead.com/classic/zone=85/tirisfal-glades).
@@ -848,7 +944,7 @@ Alcaz Island, off the northeast coast of Dustwallow Marsh, north of Theramore. N
 
 1. North into [Stonetalon Mountains](https://www.wowhead.com/classic/zone=406/stonetalon-mountains), east into [the Barrens](https://www.wowhead.com/classic/zone=17/the-barrens).
 2. South past Camp Taurajo into [Dustwallow Marsh](https://www.wowhead.com/classic/zone=15/dustwallow-marsh) (35–45). The road leaves the main road by the burnt tower.
-3. Brackenwall Village is the Horde camp, in the north of the marsh. Grab the flight point.
+3. Brackenwall Village is the Horde camp, in the north of the marsh. Grab the flight point. If First Aid is 125, buy [Expert First Aid - Under Wraps](https://www.wowhead.com/forever/item=16084/expert-first-aid-under-wraps) from [Balai Lok'Wein](https://www.wowhead.com/classic/npc=8141/balai-lokwein) before you leave. 1 gold. The potion ranks are in Healing potions, above.
 4. The island is off the northeast coast, north of Theramore. Theramore is Alliance. Swim from the shore.
 
 **Zone:** [Dustwallow Marsh](https://www.wowhead.com/classic/zone=15/dustwallow-marsh), 35–45, Kalimdor.
