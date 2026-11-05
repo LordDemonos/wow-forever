@@ -300,7 +300,7 @@ Cook snappers until you have two or three stacks of [Longjaw Mud Snapper](https:
 
 Go at **14**. Band **13–18**. Alliance. New.
 
-Burial chambers beneath [Ironforge](https://www.wowhead.com/classic/zone=1537/ironforge). Entrance is not confirmed.
+Burial chambers beneath [Ironforge](https://www.wowhead.com/classic/zone=1537/ironforge), under the High Seat. The door to Old Ironforge is on the left as you enter that room. The portal is at the bottom of the path.
 
 **Run.** From Orgrimmar. You are 14. Hillsbrad, Arathi, and the Wetlands are above you. Stay on the road. Do not fight.
 
@@ -311,7 +311,7 @@ Burial chambers beneath [Ironforge](https://www.wowhead.com/classic/zone=1537/ir
 5. South across the Thandol Span into [the Wetlands](https://www.wowhead.com/classic/zone=11/wetlands) (20–30).
 6. Northwest to the Dun Algaz tunnel. You come out in [Loch Modan](https://www.wowhead.com/classic/zone=38/loch-modan) (10–20), near 20, 63. Thelsamar is Alliance. Do not stop.
 7. North to the other tunnel, about 18, 16, into [Dun Morogh](https://www.wowhead.com/classic/zone=1/dun-morogh).
-8. The road runs through Kharanos to the [Ironforge](https://www.wowhead.com/classic/zone=1537/ironforge) gates. Guards will kill you. The burial chambers are under the city. The entrance is not confirmed.
+8. The road runs through Kharanos to the [Ironforge](https://www.wowhead.com/classic/zone=1537/ironforge) gates. Guards will kill you. The door to Old Ironforge is on the left as you enter the High Seat. The portal is at the bottom.
 
 **Zone:** [Dun Morogh](https://www.wowhead.com/classic/zone=1/dun-morogh), 1–10, Eastern Kingdoms.
 
