@@ -11,7 +11,7 @@ kicker: Undead Priest
 
 ## Talents
 
-<https://www.wowhead.com/forever/talent-calc/priest/vkndmh02300503033001-03505003030111531_t0/1BccEHccnKcRqp0cccFMH1St0BKq>
+<https://www.wowhead.com/forever/talent-calc/priest/vkndmh02300503033001-03505003030111531_t0/0B1B0cccFMHKq1ccEHccnKcRSqpt>
 
 **20/31/0.** Talented 0/5.
 
