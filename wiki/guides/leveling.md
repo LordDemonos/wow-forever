@@ -11,13 +11,13 @@ kicker: Undead Priest
 
 ## Talents
 
-<https://www.wowhead.com/forever/talent-calc/priest/v202510303130510103-035050030301003_t0/0B1B0cccFccKhhp1ccE0nnnjrnnhdT1HccKncrrr>
+<https://www.wowhead.com/forever/talent-calc/priest/vkndmh02300503033001-03505003030111531_t0/1BccEHccnKcRqp0cccFMH1St0BKq>
 
-**28/23/0.** Talented 0/5.
+**20/31/0.** Talented 0/5.
 
-**Discipline 28.** Wand Specialization 2/2, Twin Disciplines 5/5, Silent Resolve 1/3, Improved Power Word: Shield 3/3, Mental Agility 3/3, Inner Focus 1/1, Meditation 3/3, Mental Strength 5/5, Soul Warding 1/1, Penance 1/1, Divine Aegis 3/3.
+**Discipline 20.** Wand Specialization 2/2, Twin Disciplines 3/5, Mental Strength 5/5, Mental Agility 3/3, Improved Power Word: Shield 3/3, Meditation 3/3, Soul Warding 1/1.
 
-**Holy 23.** Improved Renew 3/3, Holy Specialization 5/5, Divine Fury 5/5, Inspiration 3/3, Improved Healing 3/3, Binding Heal 1/1, Spiritual Guidance 3/5.
+**Holy 31.** Improved Renew 3/3, Holy Specialization 5/5, Divine Fury 5/5, Inspiration 3/3, Improved Healing 3/3, Holy Binding 1/1, Litany of Light 1/2, Spirit of Redemption 1/1, Spiritual Guidance 5/5, Spiritual Healing 3/3, Prayer of Mending 1/1.
 
 **Shadow 0.**
 
