@@ -21,7 +21,7 @@ kicker: Undead Priest
 
 **Shadow 0.**
 
-**Talents.** The priest trainer in Undercity wipes the tree. The first wipe is 1 gold, the next is 5, then it climbs by 5 gold up to 50. Leave it alone and it falls by 5 gold a month, down to 15. A second saved spec is the Wrath feature: level 40, 1,000 gold, then free swaps. Forever has not announced that. Use this tree until a dungeon build is worth a wipe. Holy and Discipline at 60 are [Holy Priest PVE]({{ '/holy/' | relative_url }}) and [Disc Priest PVE]({{ '/disc/' | relative_url }}). Which heal rank to cast is in [Priest Healing Efficiency]({{ '/healing/priest/' | relative_url }}).
+**Talents.** The priest trainer in Undercity wipes the tree. The first wipe is 1 gold, the next is 5, then it climbs by 5 gold up to 50. Leave it alone and it falls by 5 gold a month, down to 15. A second saved spec becomes available at 40. The [priest and warrior deep dive](https://news.blizzard.com/en-us/article/24301514/world-of-warcraft-forever-class-deep-dives-priest-and-warrior) says so. The gold cost is not announced. Use this tree until a dungeon build is worth a wipe. Holy and Discipline at 60 are [Holy Priest PVE]({{ '/holy/' | relative_url }}) and [Disc Priest PVE]({{ '/disc/' | relative_url }}). Which heal rank to cast is in [Priest Healing Efficiency]({{ '/healing/priest/' | relative_url }}).
 
 ## Notes from beta
 
@@ -120,8 +120,8 @@ At skill 225, and only once you are level 35, Artisan raises the cap to 300. The
 1. **[Minor Healing Potion](https://www.wowhead.com/forever/spell=1244431/minor-healing-potion).** Skill 1, from the trainer. 1 [Peacebloom](https://www.wowhead.com/classic/item=2447/peacebloom), 1 Mild Spices, 1 Empty Vial. Yellow at 55, green at 75, gray at 95.
 2. **[Lesser Healing Potion](https://www.wowhead.com/forever/spell=1244432/lesser-healing-potion).** Skill 55, from the trainer, 1 silver 50 copper. 1 [Briarthorn](https://www.wowhead.com/classic/item=2450/briarthorn), 2 Mild Spices, 1 Empty Vial. Yellow at 85, green at 105, gray at 125.
 3. **[Healing Potion](https://www.wowhead.com/forever/spell=1244433/healing-potion).** Skill 110, from the trainer, 8 silver. 1 [Bruiseweed](https://www.wowhead.com/classic/item=2453/bruiseweed), 1 Hot Spices, 1 Leaded Vial. Yellow at 135, green at 155, gray at 175.
-4. **[Greater Healing Potion](https://www.wowhead.com/forever/spell=1244434/greater-healing-potion).** Skill 155, from [Manual: Greater Healing Potion](https://www.wowhead.com/forever/item=255723/manual-greater-healing-potion). Needs the Expert cap. 1 [Liferoot](https://www.wowhead.com/classic/item=3357/liferoot), 3 Hot Spices, 1 Leaded Vial. Yellow at 175, green at 195, gray at 215. The First Aid guide has not named who sells this manual.
-5. **[Superior Healing Potion](https://www.wowhead.com/forever/spell=1244435/superior-healing-potion).** Skill 215, from [Manual: Superior Healing Potion](https://www.wowhead.com/forever/item=255725/manual-superior-healing-potion). 1 [Sungrass](https://www.wowhead.com/classic/item=8838/sungrass), 1 [Soothing Spices](https://www.wowhead.com/classic/item=3713/soothing-spices), 1 [Crystal Vial](https://www.wowhead.com/classic/item=8925/crystal-vial). Yellow at 230, green at 250, gray at 270. The seller is not named yet either. Gray at 270, and the next book is 275, so those five points come from any bandage that is still not gray. Do not buy cloth for them.
+4. **[Greater Healing Potion](https://www.wowhead.com/forever/spell=1244434/greater-healing-potion).** Skill 155, from [Manual: Greater Healing Potion](https://www.wowhead.com/forever/item=255723/manual-greater-healing-potion). Needs the Expert cap. 1 [Liferoot](https://www.wowhead.com/classic/item=3357/liferoot), 3 Hot Spices, 1 Leaded Vial. Yellow at 175, green at 195, gray at 215. The manual drops from Syndicate Mercenary. No vendor is named. Do not detour for it.
+5. **[Superior Healing Potion](https://www.wowhead.com/forever/spell=1244435/superior-healing-potion).** Skill 215, from [Manual: Superior Healing Potion](https://www.wowhead.com/forever/item=255725/manual-superior-healing-potion). 1 [Sungrass](https://www.wowhead.com/classic/item=8838/sungrass), 1 [Soothing Spices](https://www.wowhead.com/classic/item=3713/soothing-spices), 1 [Crystal Vial](https://www.wowhead.com/classic/item=8925/crystal-vial). Yellow at 230, green at 250, gray at 270. The seller is not named yet. Gray at 270, and the next book is 275, so those five points come from any bandage that is still not gray. Do not buy cloth for them.
 6. **[Major Healing Potion](https://www.wowhead.com/forever/spell=1244436/major-healing-potion).** Skill 275, from [Manual: Major Healing Potion](https://www.wowhead.com/forever/item=255729/manual-major-healing-potion). [Pexmit](https://www.wowhead.com/forever/npc=266901/pexmit) in [Mount Hyjal](https://www.wowhead.com/forever/zone=616/mount-hyjal) sells it for 8 gold. Needs the Artisan cap. 1 [Golden Sansam](https://www.wowhead.com/classic/item=13464/golden-sansam), 3 Soothing Spices, 1 Crystal Vial. Yellow at 290, green at 310. Buy the manual when you are already in Hyjal.
 
 ### Library books
@@ -185,11 +185,11 @@ Alchemy is not in that choice. Train it from [Carolai Anise](https://www.wowhead
 
 Space runs out fast once Herbalism is trained. Do not buy a set of bags. The warlock detour, below, mails four linen bags and one linen reagent bag. Herbs go in the reagent bag.
 
-#### Campfire: The Great Outdoors
+#### Campfire: [The Great Outdoors](https://www.wowhead.com/forever/quest=96607/the-great-outdoors)
 
-**Beta.** Around level 5, on the road from Deathknell to Brill. The published writeups do not name who gives it. You start by sitting at a campfire.
+**Beta.** Level 4 to pick it up. The quest itself is level 6. [Eleanor Shackleton](https://www.wowhead.com/forever/npc=265812/eleanor-shackleton) gives it. Her camp is the white tent in the hills west of Brill, the same camp as Sticks and Bones, below.
 
-**What:** Sit there until the timer finishes. The follow-up sends you to train Cooking. Learning Cooking teaches the Basic Campfire. The trainer sells [Simple Wood](https://www.wowhead.com/classic/item=4470/simple-wood) and [Flint and Tinder](https://www.wowhead.com/classic/item=4471/flint-and-tinder). The fire is one Simple Wood, with the flint in your bags. Cook the Darkhound meat on that fire. Train Fishing the same day. The food is in Bonus experience, above.
+**What:** Sit at her Basic Campfire until you get the Boosted Rest buff. The follow-up sends you to train Cooking. Learning Cooking teaches the Basic Campfire. The trainer sells [Simple Wood](https://www.wowhead.com/classic/item=4470/simple-wood) and [Flint and Tinder](https://www.wowhead.com/classic/item=4471/flint-and-tinder). The fire is one Simple Wood, with the flint in your bags. Cook the Darkhound meat on that fire. Train Fishing the same day. The food is in Bonus experience, above.
 
 #### Bag: [Sticks and Bones](https://www.wowhead.com/forever/quest=86784/sticks-and-bones)
 
@@ -594,7 +594,11 @@ Above Whelgar's Excavation, southeast of Menethil Harbor. You are already in the
 
 #### Horde quests
 
-Bosses are reported. Quest list is not published yet.
+**Beta.** Four quests, from the [Excavation Site page](https://www.wowhead.com/forever/guide/excavation-site-wetlands-dungeon-overview-location-rewards).
+
+- **Standalone.** Changing Tastes — Borstan, Orgrimmar. Grab it before you leave Kalimdor for this trip.
+- **Not a chain until you loot it.** The Titan Relic from the last boss starts Elder Knowledge. Earthen Echo follows that.
+- **Chain.** Dragonmaw Rumors, in Hammerfall, then [Open the Maw](https://www.wowhead.com/forever/quest=95682/open-the-maw). Kill 2 Dragonmaw Saboteurs and 4 Dragonmaw Warders, and bring the Dragonmaw Dispatch to the Deathstalker Agent outside.
 
 ### 8. Blackfathom Deeps (24)
 
@@ -670,7 +674,11 @@ Southern [Alterac Mountains](https://www.wowhead.com/classic/zone=36/alterac-mou
 
 #### Horde quests
 
-Bosses are reported. Quest list is not published yet.
+**Beta.** [Blizzard](https://worldofwarcraft.blizzard.com/en-us/news/24301455/explore-the-new-dungeons-of-world-of-warcraft-forever) starts Horde with two quests from Magus Wordeen Voidglare in Tarren Mill. The way in is the sewer.
+
+- **Standalone.** [Key to the City](https://www.wowhead.com/forever/quest=93680/key-to-the-city) — Magus Wordeen Voidglare, Tarren Mill. Acquire the Dalaran Sewer Key and bring it to him.
+- **Standalone.** Prison Break-In — same NPC.
+- **Standalone.** [Heart of Disruption](https://www.wowhead.com/forever/quest=96984/heart-of-disruption) provides a Dalaran Sewer Key. Collect the Arcane Mote inside and bring it back to Voidglare. Caster choice is Striking Staff.
 
 ### 11. Razorfen Kraul (29)
 
@@ -760,9 +768,9 @@ Same courtyard. Library is the right entrance.
 
 Go at **35**. Band **35–40**. Both factions. New.
 
-A sunken troll ruin off the coast of Stranglethorn Vale. The landing spot is not published. Nearest Horde camp is Grom'gol.
+Troll ruins off the coast of Stranglethorn Vale, west of Grom'gol. [Blizzard](https://worldofwarcraft.blizzard.com/en-us/news/24301455/explore-the-new-dungeons-of-world-of-warcraft-forever) says the city has risen out of the water, and the entrance is underwater. Nearest Horde camp is Grom'gol.
 
-**Run.** From Tirisfal. Take the other zeppelin, the one to Grom'gol, not Orgrimmar. The towers are northwest of Brill. It lands at Grom'gol, in [Stranglethorn Vale](https://www.wowhead.com/classic/zone=33/stranglethorn-vale). Grab the flight point if you missed it on the way to the Deadmines. The landing spot off the coast is not published.
+**Run.** From Tirisfal. Take the other zeppelin, the one to Grom'gol, not Orgrimmar. The towers are northwest of Brill. It lands at Grom'gol, in [Stranglethorn Vale](https://www.wowhead.com/classic/zone=33/stranglethorn-vale). Grab the flight point if you missed it on the way to the Deadmines. Dive west of Grom'gol for the underwater entrance.
 
 **Zone:** [Stranglethorn Vale](https://www.wowhead.com/classic/zone=33/stranglethorn-vale), 30–45, Eastern Kingdoms.
 
@@ -832,7 +840,7 @@ Same courtyard. Cathedral is the other door in the main building.
 
 Go at **40**. Band **40–45**. Both factions. New.
 
-**Mount.** This is the Classic level for the first one. If the Brill riding trainer offers it, pay 100 gold. The skeletal horse is included. The 1,000 gold training is the fast mount, which was level 60 in Classic. There is no second spec to buy here. A talent wipe is the price under Talents.
+**Mount.** This is the Classic level for the first one. If the Brill riding trainer offers it, pay 100 gold. The skeletal horse is included. The 1,000 gold training is the fast mount, which was level 60 in Classic. Dual spec becomes available at this level. The cost is not announced. A talent wipe is the price under Talents.
 
 Ogre stronghold in Riverglades. The entrance inside the zone is not published. Official band is 40–45. An older BlizzCon listing of 40–55 was corrected.
 
@@ -1109,9 +1117,9 @@ Kill [Cho'Rush the Observer](https://www.wowhead.com/classic/npc=14324/chorush-t
 
 Go at **58**. Band **58–60**. Both factions. New.
 
-The hills of Un'Goro Crater. Exact entrance is not published.
+The northern hills of Un'Goro Crater. [Blizzard](https://worldofwarcraft.blizzard.com/en-us/news/24301455/explore-the-new-dungeons-of-world-of-warcraft-forever) places it there. The exact entrance is not published.
 
-**Run.** From Feralas, east, then south. The entrance in the hills is not published.
+**Run.** From Feralas, east, then south. The entrance in the northern hills is not published.
 
 1. East into [Thousand Needles](https://www.wowhead.com/classic/zone=400/thousand-needles), across the Shimmering Flats, south into [Tanaris](https://www.wowhead.com/classic/zone=440/tanaris).
 2. South into [Un'Goro Crater](https://www.wowhead.com/classic/zone=490/ungoro-crater) (48–55). Marshal's Refuge is the camp in the north. Grab the flight point.
