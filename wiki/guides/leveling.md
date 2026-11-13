@@ -21,7 +21,7 @@ kicker: Undead Priest
 
 **Shadow 0.**
 
-**Talents.** The priest trainer in Undercity wipes the tree. The first wipe is 1 gold, the next is 5, then it climbs by 5 gold up to 50. Leave it alone and it falls by 5 gold a month, down to 15. A second saved spec becomes available at 40. The [priest and warrior deep dive](https://news.blizzard.com/en-us/article/24301514/world-of-warcraft-forever-class-deep-dives-priest-and-warrior) says so. The gold cost is not announced. Use this tree until a dungeon build is worth a wipe. Holy and Discipline at 60 are [Holy Priest PVE]({{ '/holy/' | relative_url }}) and [Disc Priest PVE]({{ '/disc/' | relative_url }}). Which heal rank to cast is in [Priest Healing Efficiency]({{ '/healing/priest/' | relative_url }}).
+**Talents.** The priest trainer in Undercity wipes the tree. The first wipe is 1 gold, the next is 5, then it climbs by 5 gold up to 50. Leave it alone and it falls by 5 gold a month, down to 15. A second saved spec becomes available at 40. The [priest and warrior deep dive](https://news.blizzard.com/en-us/article/24301514/world-of-warcraft-forever-class-deep-dives-priest-and-warrior) says so. Buy it from the priest trainer for 50 gold. [Wowhead](https://www.wowhead.com/forever/news/dual-spec-costs-50-gold-at-level-40-unlock-secondary-talent-tree-383835). Use this tree until a dungeon build is worth a wipe. Holy and Discipline at 60 are [Holy Priest PVE]({{ '/holy/' | relative_url }}) and [Disc Priest PVE]({{ '/disc/' | relative_url }}). Which heal rank to cast is in [Priest Healing Efficiency]({{ '/healing/priest/' | relative_url }}).
 
 ## Notes from beta
 
@@ -32,7 +32,7 @@ kicker: Undead Priest
 
 ### Mount
 
-**Forever.** The gold is in the riding training, not in a separate horse. [Designers said](https://www.wowhead.com/forever/news/official-controller-supports-training-mount-skill-costs-sportskeeda-interview-on-382963) it costs 100 gold, or 1,000 gold for the faster tier, and the first mount comes with the skill. For this character that is a skeletal horse. Do not also buy one from the vendor. In Classic the Undead trainer stood in Brill, the 100 gold tier was level 40, and the 1,000 gold tier was level 60. Those levels were not restated. Save the 100 gold before Krol'dok.
+**Forever.** The gold is in the riding training, not in a separate horse. [Designers said](https://www.wowhead.com/forever/news/official-controller-supports-training-mount-skill-costs-sportskeeda-interview-on-382963) it costs 100 gold, or 1,000 gold for the faster tier, and the first mount comes with the skill. For this character that is a skeletal horse. Do not also buy one from the vendor. The [riding guide](https://www.wowhead.com/forever/guide/unlocking-riding-skill-mounts) puts Apprentice Riding at 40 and Journeyman Riding at 60. Velma Warnam in Brill teaches both, about 60.0, 52.6. Save the 100 gold before Krol'dok.
 
 ### Wands
 
@@ -62,7 +62,7 @@ Dungeon quests are the experience. Kills inside a dungeon give reduced experienc
 
 - **Go at** is the level to travel there. The first stop is 14, because that is when this route starts.
 - **Band** is the dungeon's recommended level range. For the nine new dungeons, that band is official (Kaivax, 15 September 2026). For returning dungeons, it is the usual recommended range, not a confirmed Forever door requirement.
-- **Zone** is the outdoor area and its Classic level range. Forever has not published a replacement chart for the old zones. Riverglades is the exception: Blizzard places it in the mid-30s to mid-40s, about 35–45.
+- **Zone** is the outdoor area and its Classic level range. Forever has not published a replacement chart for the old zones. Riverglades is the exception. The [zone overview](https://www.wowhead.com/forever/guide/riverglades-zone-overview) puts it at 36–44.
 - **Run** is the path from the previous stop. Hover a zone name for its map.
 - When two dungeons open at the same level, Horde comes before a shared dungeon, and a shared dungeon comes before an Alliance one.
 - Alliance stops stay on the list for Legacy Points. They are a weak leveling run if no Horde quests turn up.
@@ -256,7 +256,7 @@ He gives [Leonid's Letter](https://www.wowhead.com/forever/quest=98545/leonids-l
 
 Scarlet Monastery is one courtyard in northeast Tirisfal. Its four wings are separate runs, listed when each wing's band opens. Razorfen Kraul and Razorfen Downs are two caves in the southern Barrens. Blackrock Depths, Lower Blackrock Spire, and Upper Blackrock Spire are all inside Blackrock Mountain. Dire Maul East, West, and North are three doors in Eldre'Thalas, Feralas.
 
-Classic keys are not confirmed for Forever. Before those trips, check the Crescent Key for Dire Maul, the Scholomance key, and the Key to the City for Stratholme. Upper Blackrock Spire used to be a 10-player wing locked by the Seal of Ascension from Lower Blackrock Spire.
+The [dungeon quest list](https://www.wowhead.com/forever/guide/dungeons/every-dungeon-quest-location) still wants the old keys. Bring the Crescent Key for Dire Maul West and North. Lockpicking 300 opens those doors. The Skeleton Key opens the Scholomance door on Caer Darrow. The Scarlet Key opens the Armory, the Cathedral, and the Scarlet Hold in Stratholme. Lockpicking 175 opens the monastery wings. Lockpicking 275 opens the Hold and the Stratholme side door. That side door still wants the Key to the City. Upper Blackrock Spire still wants the Seal of Ascension.
 
 ### 1. Ragefire Chasm (14)
 
@@ -759,10 +759,12 @@ Same courtyard. Library is the right entrance.
 
 #### Horde quests
 
-**Classic.** Not in a published Forever list yet.
+**Forever.** The [dungeon quest list](https://www.wowhead.com/forever/guide/dungeons/every-dungeon-quest-location) keeps Test of Lore. Undead cannot pick up Compendium of the Fallen.
 
-- **Standalone.** [Compendium of the Fallen](https://www.wowhead.com/classic/quest=1049/compendium-of-the-fallen) — [Sage Truthseeker](https://www.wowhead.com/classic/npc=3978/sage-truthseeker), Elder Rise, Thunder Bluff. Four books in this wing: Mythology, Armaments, Aberrations, and Rituals.
+- **Skip.** [Compendium of the Fallen](https://www.wowhead.com/classic/quest=1049/compendium-of-the-fallen) — [Sage Truthseeker](https://www.wowhead.com/classic/npc=3978/sage-truthseeker), Elder Rise, Thunder Bluff. Undead cannot take it.
 - **Chain.** Starts with [Test of Faith](https://www.wowhead.com/classic/quest=1149/test-of-faith) — [Dorn Plainstalker](https://www.wowhead.com/classic/npc=2986/dorn-plainstalker), the weather mesa in Thousand Needles. The trials that follow stay with [Dorn](https://www.wowhead.com/classic/npc=2986/dorn-plainstalker), then [Braug Dimspirit](https://www.wowhead.com/classic/npc=4489/braug-dimspirit) on that mesa, then [Parqual Fintallas](https://www.wowhead.com/classic/npc=4488/parqual-fintallas) in Undercity. The dungeon step is [Test of Lore](https://www.wowhead.com/classic/quest=1160/test-of-lore): the book *Beginnings of the Undead Threat* in this wing. Turn it in to [Parqual](https://www.wowhead.com/classic/npc=4488/parqual-fintallas).
+
+The Scarlet Key is in Doan's Strongbox, beside Arcanist Doan. Loot it before you leave. It opens the Armory and the Cathedral. [Library guide](https://www.wowhead.com/forever/guide/scarlet-monastery-library-dungeon-overview-location-rewards).
 
 ### 15. The Drowned City (35)
 
@@ -776,7 +778,14 @@ Troll ruins off the coast of Stranglethorn Vale, west of Grom'gol. [Blizzard](ht
 
 #### Horde quests
 
-No public quest list yet.
+**Forever.** Named on the [dungeon quest list](https://www.wowhead.com/forever/guide/dungeons/every-dungeon-quest-location) and the [Drowned City news](https://www.wowhead.com/forever/news/explore-the-drowned-city-new-dungeon-in-wow-forever-383825).
+
+- **Chain.** The Drowned City — Kin'weelay, Grom'gol, about 32.2, 27.8. Take The Vile Reef from him first.
+- **Chain.** The Only Good Brinescale... — Commander Aggro'gosh, Grom'gol, about 32.2, 28.8. The Vile Reef, then Enemies in the Water.
+- **Standalone.** Ancient Gurubashi Idol — Mazu'kon, Skywatcher Plateau, Mulgore.
+- **Neutral.** Shady Saltseers and The Saltseer Captain — Krazek, Booty Bay, about 27.0, 77.2. Both are level 34.
+
+Southshore's Magics of the Drowned City and Take Two With Water are Alliance, from Loremaster Dibbs. Ancient Gurubashi Secrets is Archmage Timear in Dalaran, about 15.6, 73.6.
 
 Nesingwary's camp, up the river from Grom'gol, ends in named beasts: [Sin'Dall](https://www.wowhead.com/classic/npc=729/sindall), [Bhag'thera](https://www.wowhead.com/classic/npc=728/bhagthera), [Tethis](https://www.wowhead.com/classic/npc=730/tethis), and [King Bangalash](https://www.wowhead.com/classic/npc=731/king-bangalash). Each one sits at the end of a long kill quest. They are not gap turn-ins.
 
@@ -840,17 +849,22 @@ Same courtyard. Cathedral is the other door in the main building.
 
 Go at **40**. Band **40–45**. Both factions. New.
 
-**Mount.** This is the Classic level for the first one. If the Brill riding trainer offers it, pay 100 gold. The skeletal horse is included. The 1,000 gold training is the fast mount, which was level 60 in Classic. Dual spec becomes available at this level. The cost is not announced. A talent wipe is the price under Talents.
+**Mount.** Pay Velma Warnam in Brill 100 gold for Apprentice Riding. The skeletal horse comes with it. Journeyman Riding is level 60 and 1,000 gold. Dual spec is 50 gold from the priest trainer. A talent wipe is the price under Talents.
 
-Ogre stronghold in Riverglades. The entrance inside the zone is not published. Official band is 40–45. An older BlizzCon listing of 40–55 was corrected.
+Ogre stronghold in Riverglades. Fly to Rog'mar, then north of Sunnyglade. The entrance is just east of the closed city entrance. [Krol'dok guide](https://www.wowhead.com/forever/guide/kroldok-stronghold-dungeon-overview-location-rewards). Official band is 40–45. An older BlizzCon listing of 40–55 was corrected.
 
-**Run.** Riverglades has no published entrance and no Classic map. A Steamwheedle boat is one described way in. Do not guess the dock.
+**Run.** Grakna is the flight master at Rog'mar, about 59.6, 45.0. With no flight path, take the road in the south of the Badlands. The boat from Steamwheedle Port in Tanaris, about 68.6, 23.0, docks at Powderfuse Port, about 80.6, 54.6. [Zone overview](https://www.wowhead.com/forever/guide/riverglades-zone-overview).
 
-**Zone:** Riverglades, about 35–45. New zone. A Steamwheedle boat is one described way in.
+**Zone:** Riverglades, 36–44. New zone. Powderfuse Port is the boat, about 80.6, 54.6.
 
 #### Horde quests
 
-No public quest list yet.
+**Forever.** The [Krol'dok guide](https://www.wowhead.com/forever/guide/kroldok-stronghold-dungeon-overview-location-rewards).
+
+- **Chain.** [Eye of Mugg](https://www.wowhead.com/forever/quest=94968/eye-of-mugg) — Krom'rosh, Rog'mar, about 59.4, 45.6. His series leads to The Wayward Warrior, same camp. Bring proof of the leader back to him.
+- **Chain.** Tome of Twilight — Tran'gul, Rog'mar, about 59.4, 44. Same series.
+- **Chain.** A Token of Vengeance — Da'grosh, the stronghold outskirts, about 33.4, 38. Same series.
+- **Drop.** Krol'dok Moulding — Tunk, inside. It leads to Key Ingredients. Neutral.
 
 ### 20. Uldaman (41)
 
@@ -860,11 +874,10 @@ Go at **41**. Band **41–51**. Both factions.
 
 **Wand.** Before you fly out, buy [Blackbone Wand](https://www.wowhead.com/classic/item=5239/blackbone-wand) from [Katis](https://www.wowhead.com/classic/npc=5816/katis) in Orgrimmar or [Zane Bradford](https://www.wowhead.com/classic/npc=5754/zane-bradford) in the Undercity. 35.3 dps, under 4 gold. It replaces Gravestone Scepter and Necrotic Wand.
 
-**Run.** The way out of Riverglades is not published. Get back to Tirisfal, or to a zeppelin you already know. Then the Hall of Thanes road as far as Loch Modan, and one zone further.
+**Run.** Leave by the road in the south of the Badlands. The boat at Powderfuse Port, about 80.6, 54.6, returns to Steamwheedle Port.
 
-1. South out of [Loch Modan](https://www.wowhead.com/classic/zone=38/loch-modan) into the [Badlands](https://www.wowhead.com/classic/zone=3/badlands) (35–45).
-2. East to Kargath. Grab the flight point.
-3. The dig is in the center of the zone, west of town.
+1. Into the [Badlands](https://www.wowhead.com/classic/zone=3/badlands) (35–45). East to Kargath. Grab the flight point.
+2. The dig is in the center of the zone, west of town.
 
 **Zone:** [Badlands](https://www.wowhead.com/classic/zone=3/badlands), 35–45, Eastern Kingdoms.
 
@@ -1117,9 +1130,9 @@ Kill [Cho'Rush the Observer](https://www.wowhead.com/classic/npc=14324/chorush-t
 
 Go at **58**. Band **58–60**. Both factions. New.
 
-The northern hills of Un'Goro Crater. [Blizzard](https://worldofwarcraft.blizzard.com/en-us/news/24301455/explore-the-new-dungeons-of-world-of-warcraft-forever) places it there. The exact entrance is not published.
+The northern hills of Un'Goro Crater. [Blizzard](https://worldofwarcraft.blizzard.com/en-us/news/24301455/explore-the-new-dungeons-of-world-of-warcraft-forever) places it there. The [dungeons overview](https://www.wowhead.com/forever/guide/dungeons-overview-locations-details) puts it near Marshal's Refuge. The exact entrance is not published.
 
-**Run.** From Feralas, east, then south. The entrance in the northern hills is not published.
+**Run.** From Feralas, east, then south. Look near Marshal's Refuge. The exact entrance is not published.
 
 1. East into [Thousand Needles](https://www.wowhead.com/classic/zone=400/thousand-needles), across the Shimmering Flats, south into [Tanaris](https://www.wowhead.com/classic/zone=440/tanaris).
 2. South into [Un'Goro Crater](https://www.wowhead.com/classic/zone=490/ungoro-crater) (48–55). Marshal's Refuge is the camp in the north. Grab the flight point.
@@ -1213,7 +1226,7 @@ Same city. The service entrance is the back door, the undead side.
 
 Go at **59**. Band **59–60**. Both factions.
 
-[Upper Blackrock Spire](https://www.wowhead.com/classic/zone=1583/blackrock-spire) is the top of the spire. In Classic this is a 10-player wing, and the door wants the Seal of Ascension. Neither the group size nor the key is confirmed for Forever.
+[Upper Blackrock Spire](https://www.wowhead.com/classic/zone=1583/blackrock-spire) is the top of the spire. In Classic this is a 10-player wing. The door wants the Seal of Ascension. [Dungeon quest list](https://www.wowhead.com/forever/guide/dungeons/every-dungeon-quest-location).
 
 **Run.** The top of the same spire. From the Plaguelands, back to Blackrock Mountain. Fly to Kargath if you have it, then west.
 
@@ -1224,7 +1237,7 @@ Go at **59**. Band **59–60**. Both factions.
 
 #### Horde quests
 
-**Classic.** Not in a published Forever list yet. The door still wants the Seal of Ascension from Lower Blackrock Spire, and Forever has not confirmed that.
+**Classic.** Not in a published Forever list yet. The door wants the Seal of Ascension from Lower Blackrock Spire. [Dungeon quest list](https://www.wowhead.com/forever/guide/dungeons/every-dungeon-quest-location).
 
 - **Chain.** [Seal of Ascension](https://www.wowhead.com/classic/quest=4742/seal-of-ascension) starts from [Vaelan](https://www.wowhead.com/classic/npc=10296/vaelan) in Lower Blackrock Spire. The forge step is in Dustwallow Marsh. That seal opens this door.
 - **Chain.** [The Final Tablets](https://www.wowhead.com/classic/quest=4788/the-final-tablets) — [Shadowmage Vivian Lagrave](https://www.wowhead.com/classic/npc=9078/shadowmage-vivian-lagrave), Kargath. It follows [The Darkstone Tablet](https://www.wowhead.com/classic/quest=4768/the-darkstone-tablet) from the same NPC, picked up for Lower Blackrock Spire.
