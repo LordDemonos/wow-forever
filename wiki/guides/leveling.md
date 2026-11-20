@@ -21,7 +21,7 @@ kicker: Undead Priest
 
 **Shadow 0.**
 
-**Talents.** The priest trainer in Undercity wipes the tree. The first wipe is 1 gold, the next is 5, then it climbs by 5 gold up to 50. Leave it alone and it falls by 5 gold a month, down to 15. A second saved spec becomes available at 40. The [priest and warrior deep dive](https://news.blizzard.com/en-us/article/24301514/world-of-warcraft-forever-class-deep-dives-priest-and-warrior) says so. The gold cost is not announced. Use this tree until a dungeon build is worth a wipe. Holy and Discipline at 60 are [Holy Priest PVE]({{ '/holy/' | relative_url }}) and [Disc Priest PVE]({{ '/disc/' | relative_url }}). Which heal rank to cast is in [Priest Healing Efficiency]({{ '/healing/priest/' | relative_url }}).
+**Talents.** The priest trainer in Undercity wipes the tree. The first wipe is 1 gold, the next is 5, then it climbs by 5 gold up to 50. Leave it alone and it falls by 5 gold a month, down to 15. A second saved spec is 50 gold from the class trainer at 40. The [priest and warrior deep dive](https://news.blizzard.com/en-us/article/24301514/world-of-warcraft-forever-class-deep-dives-priest-and-warrior) is the level. The [price](https://www.wowhead.com/forever/news/dual-spec-costs-50-gold-at-level-40-unlock-secondary-talent-tree-383835) is the gold. Use this tree until a dungeon build is worth a wipe. Holy and Discipline at 60 are [Holy Priest PVE]({{ '/holy/' | relative_url }}) and [Disc Priest PVE]({{ '/disc/' | relative_url }}). Which heal rank to cast is in [Priest Healing Efficiency]({{ '/healing/priest/' | relative_url }}).
 
 ## Notes from beta
 
@@ -32,7 +32,7 @@ kicker: Undead Priest
 
 ### Mount
 
-**Forever.** The gold is in the riding training, not in a separate horse. [Designers said](https://www.wowhead.com/forever/news/official-controller-supports-training-mount-skill-costs-sportskeeda-interview-on-382963) it costs 100 gold, or 1,000 gold for the faster tier, and the first mount comes with the skill. For this character that is a skeletal horse. Do not also buy one from the vendor. In Classic the Undead trainer stood in Brill, the 100 gold tier was level 40, and the 1,000 gold tier was level 60. Those levels were not restated. Save the 100 gold before Krol'dok.
+**Forever.** The gold is in the riding training, not in a separate horse. [Designers said](https://www.wowhead.com/forever/news/official-controller-supports-training-mount-skill-costs-sportskeeda-interview-on-382963) it costs 100 gold, or 1,000 gold for the faster tier, and the first mount comes with the skill. The [riding guide](https://www.wowhead.com/forever/guide/unlocking-riding-skill-mounts) puts Apprentice Riding at 40 and Journeyman Riding at 60. Velma Warnam in Brill, about 60.0, 52.6, is the trainer. Zachariah Post, about 59.8, 52.6, gives the first skeletal horse. Do not pay him for one. Save the 100 gold before Krol'dok.
 
 ### Wands
 
@@ -62,7 +62,7 @@ Dungeon quests are the experience. Kills inside a dungeon give reduced experienc
 
 - **Go at** is the level to travel there. The first stop is 14, because that is when this route starts.
 - **Band** is the dungeon's recommended level range. For the nine new dungeons, that band is official (Kaivax, 15 September 2026). For returning dungeons, it is the usual recommended range, not a confirmed Forever door requirement.
-- **Zone** is the outdoor area and its Classic level range. Forever has not published a replacement chart for the old zones. Riverglades is the exception: Blizzard places it in the mid-30s to mid-40s, about 35–45.
+- **Zone** is the outdoor area and its Classic level range. Forever has not published a replacement chart for the old zones. Riverglades is the exception: the [zone overview](https://www.wowhead.com/forever/guide/riverglades-zone-overview) places it at 36–44.
 - **Run** is the path from the previous stop. Hover a zone name for its map.
 - When two dungeons open at the same level, Horde comes before a shared dungeon, and a shared dungeon comes before an Alliance one.
 - Alliance stops stay on the list for Legacy Points. They are a weak leveling run if no Horde quests turn up.
@@ -256,7 +256,7 @@ He gives [Leonid's Letter](https://www.wowhead.com/forever/quest=98545/leonids-l
 
 Scarlet Monastery is one courtyard in northeast Tirisfal. Its four wings are separate runs, listed when each wing's band opens. Razorfen Kraul and Razorfen Downs are two caves in the southern Barrens. Blackrock Depths, Lower Blackrock Spire, and Upper Blackrock Spire are all inside Blackrock Mountain. Dire Maul East, West, and North are three doors in Eldre'Thalas, Feralas.
 
-Classic keys are not confirmed for Forever. Before those trips, check the Crescent Key for Dire Maul, the Scholomance key, and the Key to the City for Stratholme. Upper Blackrock Spire used to be a 10-player wing locked by the Seal of Ascension from Lower Blackrock Spire.
+Three keys are on the [dungeon overview](https://www.wowhead.com/forever/guide/dungeons-overview-locations-details). The Crescent Key drops from Pusillin in Dire Maul East and opens West and North. The Key to the City drops from Magistrate Barthilas and opens the Stratholme service gate. Clearing through from the living side also reaches it. Upper Blackrock Spire is still 10 players. At least one of you needs the Seal of Ascension from Lower Blackrock Spire. The Scholomance key and the Scarlet Key are not on that page.
 
 ### 1. Ragefire Chasm (14)
 
@@ -677,7 +677,7 @@ Southern [Alterac Mountains](https://www.wowhead.com/classic/zone=36/alterac-mou
 **Beta.** [Blizzard](https://worldofwarcraft.blizzard.com/en-us/news/24301455/explore-the-new-dungeons-of-world-of-warcraft-forever) starts Horde with two quests from Magus Wordeen Voidglare in Tarren Mill. The way in is the sewer.
 
 - **Standalone.** [Key to the City](https://www.wowhead.com/forever/quest=93680/key-to-the-city) — Magus Wordeen Voidglare, Tarren Mill. Acquire the Dalaran Sewer Key and bring it to him.
-- **Standalone.** Prison Break-In — same NPC.
+- **Standalone.** [Prison Break In](https://www.wowhead.com/forever/quest=544/prison-break-in) — same NPC. Four bloodstones from the thieves in the Lordamere Internment Camp.
 - **Standalone.** [Heart of Disruption](https://www.wowhead.com/forever/quest=96984/heart-of-disruption) provides a Dalaran Sewer Key. Collect the Arcane Mote inside and bring it back to Voidglare. Caster choice is Striking Staff.
 
 ### 11. Razorfen Kraul (29)
@@ -770,13 +770,19 @@ Go at **35**. Band **35–40**. Both factions. New.
 
 Troll ruins off the coast of Stranglethorn Vale, west of Grom'gol. [Blizzard](https://worldofwarcraft.blizzard.com/en-us/news/24301455/explore-the-new-dungeons-of-world-of-warcraft-forever) says the city has risen out of the water, and the entrance is underwater. Nearest Horde camp is Grom'gol.
 
-**Run.** From Tirisfal. Take the other zeppelin, the one to Grom'gol, not Orgrimmar. The towers are northwest of Brill. It lands at Grom'gol, in [Stranglethorn Vale](https://www.wowhead.com/classic/zone=33/stranglethorn-vale). Grab the flight point if you missed it on the way to the Deadmines. Dive west of Grom'gol for the underwater entrance.
+**Run.** From Tirisfal. Take the other zeppelin, the one to Grom'gol, not Orgrimmar. The towers are northwest of Brill. It lands at Grom'gol, in [Stranglethorn Vale](https://www.wowhead.com/classic/zone=33/stranglethorn-vale). Grab the flight point if you missed it on the way to the Deadmines. The [Drowned City page](https://www.wowhead.com/forever/guide/the-drowned-city-dungeon-overview-location-rewards) puts the cave south of the Haunted Isle. The entrance is underwater. The dungeon is on land.
 
 **Zone:** [Stranglethorn Vale](https://www.wowhead.com/classic/zone=33/stranglethorn-vale), 30–45, Eastern Kingdoms.
 
 #### Horde quests
 
-No public quest list yet.
+From the [Drowned City page](https://www.wowhead.com/forever/guide/the-drowned-city-dungeon-overview-location-rewards).
+
+- **Chain.** The Vile Reef, then The Drowned City — [Kin'weelay](https://www.wowhead.com/classic/npc=2519/kinweelay), Grom'gol, about 32.2, 27.8.
+- **Chain.** The Only Good Brinescale... — [Commander Aggro'gosh](https://www.wowhead.com/classic/npc=2464/commander-aggrogosh), about 32.2, 28.8. The Vile Reef comes first. Enemies in the Water comes before this one.
+- **Standalone.** Ancient Gurubashi Idol — Mazu'kon, Skywatcher Plateau, Mulgore. The page's pin is the Grom'gol one. Do not use it.
+- **Standalone.** Shady Saltseers and The Saltseer Captain — [Krazek](https://www.wowhead.com/classic/npc=773/krazek), Booty Bay, about 27.0, 77.2. Fly there if you have the flight point.
+- **Skip.** The Southshore chain is Loremaster Dibbs. Ancient Gurubashi Secrets is Archmage Timear in Dalaran, about 15.6, 73.6. Skip him if you cannot talk to him.
 
 Nesingwary's camp, up the river from Grom'gol, ends in named beasts: [Sin'Dall](https://www.wowhead.com/classic/npc=729/sindall), [Bhag'thera](https://www.wowhead.com/classic/npc=728/bhagthera), [Tethis](https://www.wowhead.com/classic/npc=730/tethis), and [King Bangalash](https://www.wowhead.com/classic/npc=731/king-bangalash). Each one sits at the end of a long kill quest. They are not gap turn-ins.
 
@@ -840,17 +846,22 @@ Same courtyard. Cathedral is the other door in the main building.
 
 Go at **40**. Band **40–45**. Both factions. New.
 
-**Mount.** This is the Classic level for the first one. If the Brill riding trainer offers it, pay 100 gold. The skeletal horse is included. The 1,000 gold training is the fast mount, which was level 60 in Classic. Dual spec becomes available at this level. The cost is not announced. A talent wipe is the price under Talents.
+**Mount.** Apprentice Riding is this level. Velma Warnam in Brill trains it for 100 gold, and Zachariah Post gives the skeletal horse. Journeyman Riding is 60, and that training is 1,000 gold. The second spec is 50 gold from the class trainer. A talent wipe is the price under Talents.
 
-Ogre stronghold in Riverglades. The entrance inside the zone is not published. Official band is 40–45. An older BlizzCon listing of 40–55 was corrected.
+Ogre stronghold in Riverglades. Official band is 40–45. An older BlizzCon listing of 40–55 was corrected.
 
-**Run.** Riverglades has no published entrance and no Classic map. A Steamwheedle boat is one described way in. Do not guess the dock.
+**Run.** Two ways in, from the [zone overview](https://www.wowhead.com/forever/guide/riverglades-zone-overview). The boat at Steamwheedle Port, about 68.6, 23.0, east of Gadgetzan, docks at Powderfuse Port, about 80.6, 54.6. That boat is the way back to Tanaris. The roads come in from the north of Redridge and the south of the Badlands. Grakna at Rog'mar, about 59.6, 45.0, is the flight master. Take the point. The [Krol'dok page](https://www.wowhead.com/forever/guide/kroldok-stronghold-dungeon-overview-location-rewards) puts the entrance north of Sunnyglade, east of the closed city entrance. The zone overview pins it on the hills northeast of Twilight's Shroud, about 37.5, 37.5. If you have no flight path yet, come in from the Badlands.
 
-**Zone:** Riverglades, about 35–45. New zone. A Steamwheedle boat is one described way in.
+**Zone:** Riverglades, 36–44. New zone.
 
 #### Horde quests
 
-No public quest list yet.
+From the [Krol'dok page](https://www.wowhead.com/forever/guide/kroldok-stronghold-dungeon-overview-location-rewards). These open after The Wayward Warrior.
+
+- **Standalone.** [Eye of Mugg](https://www.wowhead.com/forever/quest=94968/eye-of-mugg) — Krom'rosh, Rog'mar, about 59.4, 45.6. Proof of the leader.
+- **Standalone.** [Tome of Twilight](https://www.wowhead.com/forever/quest=94972/tome-of-twilight) — Tran'gul, about 59.4, 44. The tome is inside.
+- **Standalone.** [A Token of Vengeance](https://www.wowhead.com/forever/quest=94975/a-token-of-vengeance) — Da'grosh, the outskirts, about 33.4, 38. 15 Cultist Ears.
+- **Not a chain until you loot it.** [Krol'dok Moulding](https://www.wowhead.com/forever/quest=94973/kroldok-moulding) drops from Tunk. [Key Ingredients](https://www.wowhead.com/forever/quest=94974/key-ingredients) is the follow-up, 4 Thick Leather and 12 Iron Bar to Kreza Darkthorn in Rog'mar. Bring them in. The reward is the Krol'dok Compound Key, a shortcut.
 
 ### 20. Uldaman (41)
 
@@ -860,11 +871,10 @@ Go at **41**. Band **41–51**. Both factions.
 
 **Wand.** Before you fly out, buy [Blackbone Wand](https://www.wowhead.com/classic/item=5239/blackbone-wand) from [Katis](https://www.wowhead.com/classic/npc=5816/katis) in Orgrimmar or [Zane Bradford](https://www.wowhead.com/classic/npc=5754/zane-bradford) in the Undercity. 35.3 dps, under 4 gold. It replaces Gravestone Scepter and Necrotic Wand.
 
-**Run.** The way out of Riverglades is not published. Get back to Tirisfal, or to a zeppelin you already know. Then the Hall of Thanes road as far as Loch Modan, and one zone further.
+**Run.** Leave by the road into the south of the Badlands. Do not ride back to Tirisfal for this one. The Powderfuse boat is the Tanaris way out, and you are not going there yet.
 
-1. South out of [Loch Modan](https://www.wowhead.com/classic/zone=38/loch-modan) into the [Badlands](https://www.wowhead.com/classic/zone=3/badlands) (35–45).
-2. East to Kargath. Grab the flight point.
-3. The dig is in the center of the zone, west of town.
+1. The road puts you in the [Badlands](https://www.wowhead.com/classic/zone=3/badlands) (35–45). East to Kargath. Grab the flight point.
+2. The dig is in the center of the zone, west of town.
 
 **Zone:** [Badlands](https://www.wowhead.com/classic/zone=3/badlands), 35–45, Eastern Kingdoms.
 
@@ -953,13 +963,17 @@ Alcaz Island, off the northeast coast of Dustwallow Marsh, north of Theramore. N
 1. North into [Stonetalon Mountains](https://www.wowhead.com/classic/zone=406/stonetalon-mountains), east into [the Barrens](https://www.wowhead.com/classic/zone=17/the-barrens).
 2. South past Camp Taurajo into [Dustwallow Marsh](https://www.wowhead.com/classic/zone=15/dustwallow-marsh) (35–45). The road leaves the main road by the burnt tower.
 3. Brackenwall Village is the Horde camp, in the north of the marsh. Grab the flight point. If First Aid is 125, buy [Expert First Aid - Under Wraps](https://www.wowhead.com/forever/item=16084/expert-first-aid-under-wraps) from [Balai Lok'Wein](https://www.wowhead.com/classic/npc=8141/balai-lokwein) before you leave. 1 gold. The potion ranks are in Healing potions, above.
-4. The island is off the northeast coast, north of Theramore. Theramore is Alliance. Swim from the shore.
+4. The island is off the northeast coast, north of Theramore. Theramore is Alliance. Swim from the shore. The [Alcaz page](https://www.wowhead.com/forever/guide/alcaz-prison-dungeon-overview-location-rewards) says land on the west side. The keep is on the north side. The portal is in the basement.
 
 **Zone:** [Dustwallow Marsh](https://www.wowhead.com/classic/zone=15/dustwallow-marsh), 35–45, Kalimdor.
 
 #### Horde quests
 
-No public quest list yet.
+From the [Alcaz Prison page](https://www.wowhead.com/forever/guide/alcaz-prison-dungeon-overview-location-rewards).
+
+- **Chain.** The Missing Kor'kron — Eitrigg, Orgrimmar, about 34.6, 38.6. On the island, Sergeant Ulka gives No Orc Left Behind, A Little Payback, and Blood Red Bandanas. The page pins Ulka at 33.4, 38. That spot is not the island. Find him on the shore.
+- **Not a chain until the last boss.** Leave The Questioner alive. Mason Connery gives The Man in the Iron Chains only if that boss is still up. Kill The Questioner after you take it.
+- **Skip.** Sully McCleary in the Theramore graveyard starts from Mathias Shaw in Stormwind. The Dragon's Journal is Archmage Lan'dalock in Dalaran. Skip them if you cannot talk to them.
 
 ### 24. Sunken Temple (50)
 
@@ -1027,7 +1041,7 @@ Go at **54**. Band **54–60**. Both factions.
 
 **Classic.** Not in a published Forever list yet. East is the Warpwood Quarter, where [Lethtendris](https://www.wowhead.com/classic/npc=14327/lethtendris) is.
 
-- **Chain.** [Lethtendris's Web](https://www.wowhead.com/classic/quest=7489/lethtendriss-web) — [Talo Thornhoof](https://www.wowhead.com/classic/npc=7776/talo-thornhoof), Camp Mojache, Feralas. Wowhead lists a Camp Mojache breadcrumb in front of it. If [Talo](https://www.wowhead.com/classic/npc=7776/talo-thornhoof) has that first, do it, then this. Kill [Lethtendris](https://www.wowhead.com/classic/npc=14327/lethtendris) and chase [Pusillin](https://www.wowhead.com/classic/npc=14354/pusillin) for the way through.
+- **Chain.** [Lethtendris's Web](https://www.wowhead.com/classic/quest=7489/lethtendriss-web) — [Talo Thornhoof](https://www.wowhead.com/classic/npc=7776/talo-thornhoof), Camp Mojache, Feralas. Wowhead lists a Camp Mojache breadcrumb in front of it. If [Talo](https://www.wowhead.com/classic/npc=7776/talo-thornhoof) has that first, do it, then this. Kill [Lethtendris](https://www.wowhead.com/classic/npc=14327/lethtendris) and chase [Pusillin](https://www.wowhead.com/classic/npc=14354/pusillin). He drops the Crescent Key. West and North want it.
 
 ### 27. Blackmaw Hold (55)
 
@@ -1040,13 +1054,22 @@ Furbolg city behind the gates in north Azshara. Nearest Horde town is Valormok. 
 1. North into [Desolace](https://www.wowhead.com/classic/zone=405/desolace), north into [Stonetalon Mountains](https://www.wowhead.com/classic/zone=406/stonetalon-mountains), east into [the Barrens](https://www.wowhead.com/classic/zone=17/the-barrens).
 2. The north road from the Crossroads into [Ashenvale](https://www.wowhead.com/classic/zone=331/ashenvale).
 3. East into [Azshara](https://www.wowhead.com/classic/zone=16/azshara) (45–55). Valormok is the Horde camp just inside. Grab the flight point.
-4. The hold is behind the gates in the north of the zone.
+4. The [Blackmaw page](https://www.wowhead.com/forever/guide/blackmaw-hold-dungeon-overview-location-rewards) puts the portal west of Timbermaw Hold, through the furbolg tunnel.
 
 **Zone:** [Azshara](https://www.wowhead.com/classic/zone=16/azshara), 45–55, Kalimdor.
 
 #### Horde quests
 
-No public quest list yet.
+From the [Blackmaw page](https://www.wowhead.com/forever/guide/blackmaw-hold-dungeon-overview-location-rewards).
+
+- **Chain.** The Legashi Threat, then Blackmaw Reclamation. Ekkal is near the Ruins of Eldarath, about 42.0, 38.8. Reclamation is Gatekeeper Rageroar at Timbermaw Hold, about 42.4, 20.2, and it wants Neutral with Timbermaw.
+- **Standalone.** Blackmaw Pouches — Ekkal, same spot.
+- **Standalone.** Claws That Rend, Tusks that Gore — Ogtinc. The page says the Ruins of Eldarath and then pins Timbermaw, about 41.4, 20.0. Use the ruins.
+- **Standalone.** The Twin Bears — Lorekeeper Nok at Timbermaw Hold. The page's pin is Ekkal's. Do not use it.
+- **Not a chain until it drops.** A Lost Memento drops inside. Only one player can loot it. Loot your own.
+- **Chain.** Beneath Nordrassil — Jediga, Azshara, about 22.4, 51.4. The dungeon step is Get to the Roots of It — [Nara Wildmane](https://www.wowhead.com/classic/npc=5770/nara-wildmane), Elder Rise, Thunder Bluff, about 76.0, 30.4.
+- **Standalone.** Blackmaw Magic — Muln Earthfury, Skywatcher Plateau, Mulgore. The page's pin is Darnassus. Do not use it.
+- **Skip.** The other Blackmaw Magic is Archmage Timear in Dalaran. The other Get to the Roots of It is Mathrengyl Bearwalker in Darnassus.
 
 ### 28. Lower Blackrock Spire (55)
 
@@ -1117,7 +1140,7 @@ Kill [Cho'Rush the Observer](https://www.wowhead.com/classic/npc=14324/chorush-t
 
 Go at **58**. Band **58–60**. Both factions. New.
 
-The northern hills of Un'Goro Crater. [Blizzard](https://worldofwarcraft.blizzard.com/en-us/news/24301455/explore-the-new-dungeons-of-world-of-warcraft-forever) places it there. The exact entrance is not published.
+The hills near Marshal's Refuge. [Blizzard](https://worldofwarcraft.blizzard.com/en-us/news/24301455/explore-the-new-dungeons-of-world-of-warcraft-forever) places the dungeon in the northern hills of Un'Goro. The [dungeon overview](https://www.wowhead.com/forever/guide/dungeons-overview-locations-details) puts it near that camp. The exact door is not published.
 
 **Run.** From Feralas, east, then south. The entrance in the northern hills is not published.
 
@@ -1196,7 +1219,7 @@ Go at **58**. Band **58–60**. Both factions.
 
 Same city. The service entrance is the back door, the undead side.
 
-**Run.** Same city, in [Eastern Plaguelands](https://www.wowhead.com/classic/zone=139/eastern-plaguelands). The service entrance is the back door, the undead side.
+**Run.** Same city, in [Eastern Plaguelands](https://www.wowhead.com/classic/zone=139/eastern-plaguelands). The service entrance is the undead side. The Key to the City opens it. Magistrate Barthilas drops that key. You can also clear through from the living side.
 
 **Zone:** [Eastern Plaguelands](https://www.wowhead.com/classic/zone=139/eastern-plaguelands), 53–60, Eastern Kingdoms.
 
@@ -1213,7 +1236,7 @@ Same city. The service entrance is the back door, the undead side.
 
 Go at **59**. Band **59–60**. Both factions.
 
-[Upper Blackrock Spire](https://www.wowhead.com/classic/zone=1583/blackrock-spire) is the top of the spire. In Classic this is a 10-player wing, and the door wants the Seal of Ascension. Neither the group size nor the key is confirmed for Forever.
+[Upper Blackrock Spire](https://www.wowhead.com/classic/zone=1583/blackrock-spire) is the top of the spire. It is still a 10-player wing, and the door wants the Seal of Ascension.
 
 **Run.** The top of the same spire. From the Plaguelands, back to Blackrock Mountain. Fly to Kargath if you have it, then west.
 
@@ -1224,7 +1247,7 @@ Go at **59**. Band **59–60**. Both factions.
 
 #### Horde quests
 
-**Classic.** Not in a published Forever list yet. The door still wants the Seal of Ascension from Lower Blackrock Spire, and Forever has not confirmed that.
+**Classic.** Not in a published Forever list yet. The door wants the Seal of Ascension from Lower Blackrock Spire.
 
 - **Chain.** [Seal of Ascension](https://www.wowhead.com/classic/quest=4742/seal-of-ascension) starts from [Vaelan](https://www.wowhead.com/classic/npc=10296/vaelan) in Lower Blackrock Spire. The forge step is in Dustwallow Marsh. That seal opens this door.
 - **Chain.** [The Final Tablets](https://www.wowhead.com/classic/quest=4788/the-final-tablets) — [Shadowmage Vivian Lagrave](https://www.wowhead.com/classic/npc=9078/shadowmage-vivian-lagrave), Kargath. It follows [The Darkstone Tablet](https://www.wowhead.com/classic/quest=4768/the-darkstone-tablet) from the same NPC, picked up for Lower Blackrock Spire.
